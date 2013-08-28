@@ -2,10 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://blog.ticabri.com
+title: ticablog
+subtitle: <em>«L'acte décrire peut ouvrir tant de portes, comme si un stylo n'était pas vraiment une plume mais une étrange variété de passe-partout.»</em> [Stephen King, La ligne verte]
+#'
+author: ticabri
 simple_search: http://google.com/search
 description:
 
@@ -54,22 +55,22 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 
 # Each layout uses the default asides, but they can have their own asides instead. Simply uncomment the lines below
 # and add an array with the asides you want to use.
-# blog_index_asides:
-# post_asides:
-# page_asides:
+blog_index_asides: [custom/asides/about.html, asides/recent_posts.html]
+post_asides: [custom/asides/about.html, asides/recent_posts.html]
+page_asides: [custom/asides/about.html, asides/recent_posts.html]
 
 # ----------------------- #
 #   3rd Party Settings    #
 # ----------------------- #
 
 # Github repositories
-github_user:
+github_user: enguerran
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: enguerran974
 twitter_tweet_button: true
 
 # Google +1
