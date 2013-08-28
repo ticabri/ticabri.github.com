@@ -1,100 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
 
-<!DOCTYPE html>
-<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
-<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
-<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
-<head>
-  <meta charset="utf-8">
-  <title>ticablog</title>
-  <meta name="author" content="ticabri">
-
-  
-  <meta name="description" content="Nouvel ordinateur, nouvelles habitudes : j&#8217;ai acheté un clavier US. Qu&#8217;est-ce que ça change ? Pour les développeurs, à peu prés tout. &hellip;">
-  
-
-  <!-- http://t.co/dKP3o1e -->
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  
-  <link rel="canonical" href="http://blog.ticabri.com">
-  <link href="/favicon.png" rel="icon">
-  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <link href="/atom.xml" rel="alternate" title="ticablog" type="application/atom+xml">
-  <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
-  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-
-  
-
-</head>
-
-<body   >
-  <header role="banner"><hgroup>
-  <h1><a href="/">ticablog</a></h1>
-  
-    <h2><em>«L'acte décrire peut ouvrir tant de portes, comme si un stylo n'était pas vraiment une plume mais une étrange variété de passe-partout.»</em> [Stephen King, La ligne verte]</h2>
-  
-</hgroup>
-
-</header>
-  <nav role="navigation"><ul class="subscription" data-subscription="rss">
-  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
-  
-</ul>
-  
-<form action="http://google.com/search" method="get">
-  <fieldset role="search">
-    <input type="hidden" name="q" value="site:blog.ticabri.com" />
-    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
-  </fieldset>
-</form>
-  
-<ul class="main-navigation">
-  <li><a href="/">Blog</a></li>
-  <li><a href="/blog/archives">Archives</a></li>
-</ul>
-
-</nav>
-  <div id="main">
-    <div id="content">
-      <div class="blog-index">
-  
-  
-  
-    <article>
-      
-  <header>
+  <title><![CDATA[ticablog]]></title>
+  <link href="http://blog.ticabri.com/atom.xml" rel="self"/>
+  <link href="http://blog.ticabri.com/"/>
+  <updated>2013-08-28T15:01:41+02:00</updated>
+  <id>http://blog.ticabri.com/</id>
+  <author>
+    <name><![CDATA[ticabri]]></name>
     
-      <h1 class="entry-title"><a href="/blog/2013/08/28/clavier-us/">Clavier US</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
   
-
-
-<time datetime="2013-08-28T13:10:00+02:00" pubdate data-updated="true">Aug 28<span>th</span>, 2013</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Nouvel ordinateur, nouvelles habitudes : j&#8217;ai acheté un clavier US. Qu&#8217;est-ce que ça change ? Pour les développeurs, à peu prés tout.
+  <entry>
+    <title type="html"><![CDATA[Clavier US]]></title>
+    <link href="http://blog.ticabri.com/blog/2013/08/28/clavier-us/"/>
+    <updated>2013-08-28T13:10:00+02:00</updated>
+    <id>http://blog.ticabri.com/blog/2013/08/28/clavier-us</id>
+    <content type="html"><![CDATA[<p>Nouvel ordinateur, nouvelles habitudes : j&#8217;ai acheté un clavier US. Qu&#8217;est-ce que ça change ? Pour les développeurs, à peu prés tout.
 Voici donc les visuels du clavier français classique &ldquo;azerty&rdquo; et du clavier us classique &ldquo;qwerty&rdquo;.</p>
 
 <h4>Clavier FR</h4>
@@ -121,44 +45,17 @@ Pour les tréma, c&#8217;est <code>⌥</code> + <code>u</code> et pour l&#8217;a
 <p>Ce billet pour vous dire : n&#8217;hésitez plus, le clavier US c&#8217;est ce qu&#8217;on fait de mieux. Et si vous devez renouveler votre clavier, alors lisez <a href="http://www.codinghorror.com/blog/2013/08/the-code-keyboard.html">ce billet</a> avant tout (<a href="https://twitter.com/nmartignole">@nmartignole</a> proposera une revue du clavier CODE dans quelques temps).</p>
 
 <div class='embed tweet'><blockquote class="twitter-tweet"><p>New keyboard ordered <a href="http://t.co/3auRPwUxjr">http://t.co/3auRPwUxjr</a> We&#39;ll review and test it on my blog, Touilleur Express.</p>&mdash; Nicolas Martignole (@nmartignole) <a href="https://twitter.com/nmartignole/statuses/372657871768797184">August 28, 2013</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+<script async src="http://blog.ticabri.com//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
 
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2013/06/30/indieweb-and-the-temple-of-doom/">IndieWeb and the Temple of Doom</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-06-30T15:39:00+02:00" pubdate data-updated="true">Jun 30<span>th</span>, 2013</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><h2>Hangouts Won’t Hangout With Other</h2>
+  <entry>
+    <title type="html"><![CDATA[IndieWeb and the Temple of Doom]]></title>
+    <link href="http://blog.ticabri.com/blog/2013/06/30/indieweb-and-the-temple-of-doom/"/>
+    <updated>2013-06-30T15:39:00+02:00</updated>
+    <id>http://blog.ticabri.com/blog/2013/06/30/indieweb-and-the-temple-of-doom</id>
+    <content type="html"><![CDATA[<h2>Hangouts Won’t Hangout With Other</h2>
 
 <p><img class="left" src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Vittala_Temple's_Gopuram.JPG/320px-Vittala_Temple's_Gopuram.JPG" title="Par Aravindreddy.d (Travail personnel) [CC-BY-SA-3.0], via Wikimedia Commons" ></p>
 
@@ -206,42 +103,15 @@ Pour les tréma, c&#8217;est <code>⌥</code> + <code>u</code> et pour l&#8217;a
 <p>Par la suite, vous transférerez tranquillement vos données vers <a href="http://indiewebcamp.com/Projects">des services auto-hébergés</a>, vous créerez votre propre raccourcisseur d&#8217;url, etc&hellip;</p>
 
 <p><a href="http://indiewebcamp.com/Getting_Started#Web_Hosting">Tous les détails sont fournis par IndieWeb</a> et je ne manquerai pas de faire une petite traduction lorsque j&#8217;en serai moi-même à cette étape.</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2013/05/28/zombie-ninjas-attack-a-survivors-retrospective/">Zombie Ninjas Attack: A Survivor&#8217;s Retrospective</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-05-28T21:03:00+02:00" pubdate data-updated="true">May 28<span>th</span>, 2013</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>ticablog tente une migration sur octopress, un framework pour Jekyll (le générateur de blog pour github). Les premiers pas sont assez faciles à faire tant la documentation est claire et précise.</p>
+  <entry>
+    <title type="html"><![CDATA[Zombie Ninjas Attack: A survivor's retrospective]]></title>
+    <link href="http://blog.ticabri.com/blog/2013/05/28/zombie-ninjas-attack-a-survivors-retrospective/"/>
+    <updated>2013-05-28T21:03:00+02:00</updated>
+    <id>http://blog.ticabri.com/blog/2013/05/28/zombie-ninjas-attack-a-survivors-retrospective</id>
+    <content type="html"><![CDATA[<p>ticablog tente une migration sur octopress, un framework pour Jekyll (le générateur de blog pour github). Les premiers pas sont assez faciles à faire tant la documentation est claire et précise.</p>
 
 <h2>Pourquoi ce titre ?!</h2>
 
@@ -260,76 +130,7 @@ Pour les tréma, c&#8217;est <code>⌥</code> + <code>u</code> et pour l&#8217;a
 <p>Bref, c&#8217;est vraiment sympa comme façon d&#8217;écrire, j&#8217;utilise les mêmes outils que pour travailler et c&#8217;est vraiment très rapide. On verra plus tard pour la customisation et l&#8217;utilisation plus avancée des outils.</p>
 
 <p>Je ne ferai pas la migration des billets de <a href="http://ticabri.blogspot.fr">http://ticabri.blogspot.fr</a> vers octopress tout de suite. Il sera toujours temps plus tard, quand j&#8217;aurai trouvé une méthode raisonnable.</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  <div class="pagination">
-    
-    <a href="/blog/archives">Blog Archives</a>
-    
-  </div>
-</div>
-<aside class="sidebar">
-  
-    <section>
-  <h1>About Me</h1>
-  <p>French developper with values. I start moving from blogger to github octopress blog.</p>
-</section>
-<section>
-  <h1>Recent Posts</h1>
-  <ul id="recent_posts">
-    
-      <li class="post">
-        <a href="/blog/2013/08/28/clavier-us/">Clavier US</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2013/06/30/indieweb-and-the-temple-of-doom/">IndieWeb and the Temple of Doom</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2013/05/28/zombie-ninjas-attack-a-survivors-retrospective/">Zombie Ninjas Attack: A Survivor&#8217;s Retrospective</a>
-      </li>
-    
-  </ul>
-</section>
-
-  
-</aside>
-
-    </div>
-  </div>
-  <footer role="contentinfo"><p>
-  Copyright &copy; 2013 - ticabri -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
-</p>
-
-</footer>
-  
-
-
-
-
-
-
-
-  <script type="text/javascript">
-    (function(){
-      var twitterWidgets = document.createElement('script');
-      twitterWidgets.type = 'text/javascript';
-      twitterWidgets.async = true;
-      twitterWidgets.src = '//platform.twitter.com/widgets.js';
-      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
-    })();
-  </script>
-
-
-
-
-
-</body>
-</html>
+</feed>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>
+            http://blog.ticabri.com/blog/2013/05/28/zombie-ninjas-attack-a-survivors-retrospective/
+        </loc>
+        <lastmod>2013-08-28T14:53:45+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.ticabri.com/blog/2013/06/30/indieweb-and-the-temple-of-doom/</loc>
+        <lastmod>2013-08-28T14:56:40+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.ticabri.com/blog/2013/08/28/clavier-us/</loc>
+        <lastmod>2013-08-28T14:57:14+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.ticabri.com/blog/archives/</loc>
+        <lastmod>2013-08-28T14:57:14+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.ticabri.com/</loc>
+        <lastmod>2013-08-28T14:57:14+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.ticabri.com/robots.txt</loc>
+        <lastmod>2013-08-28T14:39:38+02:00</lastmod>
+    </url>
+</urlset>
