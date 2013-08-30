@@ -4,7 +4,7 @@
   <title><![CDATA[ticablog]]></title>
   <link href="http://blog.ticabri.com/atom.xml" rel="self"/>
   <link href="http://blog.ticabri.com/"/>
-  <updated>2013-08-28T15:32:18+02:00</updated>
+  <updated>2013-08-31T00:20:39+02:00</updated>
   <id>http://blog.ticabri.com/</id>
   <author>
     <name><![CDATA[ticabri]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Start a Simple Web Server]]></title>
+    <link href="http://blog.ticabri.com/blog/2013/08/31/start-simple-web-server/"/>
+    <updated>2013-08-31T00:03:00+02:00</updated>
+    <id>http://blog.ticabri.com/blog/2013/08/31/start-simple-web-server</id>
+    <content type="html"><![CDATA[<p>Je viens de découvrir qu&#8217;il était simplissime de démarrer un petit serveur web sous UNIX avec python.</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>$ cd MyWebSite
+</span><span class='line'>$ python -m SimpleHTTPServer 8000
+</span><span class='line'>Serving HTTP on 0.0.0.0 port 8000 ...
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Il suffit de lancer cette ligne de commande dans le répertoire qui contient votre html/js/css et c&#8217;est tout. Je le note comme ça tout le monde pourra s&#8217;en rappeler, moi le premier.</p>
+
+<p>source: <a href="http://lifehacker.com/start-a-simple-web-server-from-any-directory-on-your-ma-496425450">http://lifehacker.com/start-a-simple-web-server-from-any-directory-on-your-ma-496425450</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Clavier US]]></title>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: developpement | ticablog]]></title>
+  <link href="http://blog.ticabri.com/blog/categories/developpement/atom.xml" rel="self"/>
+  <link href="http://blog.ticabri.com/"/>
+  <updated>2013-08-31T00:20:39+02:00</updated>
+  <id>http://blog.ticabri.com/</id>
+  <author>
+    <name><![CDATA[ticabri]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Start a Simple Web Server]]></title>
+    <link href="http://blog.ticabri.com/blog/2013/08/31/start-simple-web-server/"/>
+    <updated>2013-08-31T00:03:00+02:00</updated>
+    <id>http://blog.ticabri.com/blog/2013/08/31/start-simple-web-server</id>
+    <content type="html"><![CDATA[<p>Je viens de découvrir qu'il était simplissime de démarrer un petit serveur web sous UNIX avec python.</p>
+
+<p>```
+$ cd MyWebSite
+$ python -m SimpleHTTPServer 8000
+Serving HTTP on 0.0.0.0 port 8000 &hellip;</p>
+
+<p>```</p>
+
+<p>Il suffit de lancer cette ligne de commande dans le répertoire qui contient votre html/js/css et c'est tout. Je le note comme ça tout le monde pourra s'en rappeler, moi le premier.</p>
+
+<p>source: <a href="http://lifehacker.com/start-a-simple-web-server-from-any-directory-on-your-ma-496425450">http://lifehacker.com/start-a-simple-web-server-from-any-directory-on-your-ma-496425450</a></p>
+]]></content>
+  </entry>
+  
+</feed>
