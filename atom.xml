@@ -4,7 +4,7 @@
   <title><![CDATA[ticablog]]></title>
   <link href="http://blog.ticabri.com/atom.xml" rel="self"/>
   <link href="http://blog.ticabri.com/"/>
-  <updated>2013-08-31T00:35:31+02:00</updated>
+  <updated>2013-09-18T12:59:02+05:30</updated>
   <id>http://blog.ticabri.com/</id>
   <author>
     <name><![CDATA[ticabri]]></name>
@@ -14,9 +14,22 @@
 
   
   <entry>
+    <title type="html"><![CDATA[D'autres futurs sont possibles]]></title>
+    <link href="http://blog.ticabri.com/blog/2013/09/18/dautres-futurs-sont-possibles/"/>
+    <updated>2013-09-18T12:48:00+05:30</updated>
+    <id>http://blog.ticabri.com/blog/2013/09/18/dautres-futurs-sont-possibles</id>
+    <content type="html"><![CDATA[<p>Philosophons un peu ce matin avec une infographie trouvée chez <a href="http://www.courrierinternational.com/article/2013/09/17/d-autres-futurs-sont-possibles">courrierinternational</a>.</p>
+
+<p><img src="http://www.courrierinternational.com/files/2013/Hebdos/1193/Galerie/1193-Info.jpg"></p>
+
+<p>Fruit du travail de l&#8217;artiste et journaliste Jaime Serra (La Vanguardia, Barcelone).</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Start a Simple Web Server]]></title>
     <link href="http://blog.ticabri.com/blog/2013/08/31/start-simple-web-server/"/>
-    <updated>2013-08-31T00:03:00+02:00</updated>
+    <updated>2013-08-31T00:03:00+05:30</updated>
     <id>http://blog.ticabri.com/blog/2013/08/31/start-simple-web-server</id>
     <content type="html"><![CDATA[<p>Je viens de découvrir qu&#8217;il était simplissime de démarrer un petit serveur web sous UNIX avec python.</p>
 
@@ -38,7 +51,7 @@
   <entry>
     <title type="html"><![CDATA[Clavier US]]></title>
     <link href="http://blog.ticabri.com/blog/2013/08/28/clavier-us/"/>
-    <updated>2013-08-28T13:10:00+02:00</updated>
+    <updated>2013-08-28T13:10:00+05:30</updated>
     <id>http://blog.ticabri.com/blog/2013/08/28/clavier-us</id>
     <content type="html"><![CDATA[<p>Nouvel ordinateur, nouvelles habitudes : j&#8217;ai acheté un clavier US. Qu&#8217;est-ce que ça change ? Pour les développeurs, à peu prés tout.
 Voici donc les visuels du clavier français classique &ldquo;azerty&rdquo; et du clavier us classique &ldquo;qwerty&rdquo;.</p>
@@ -75,7 +88,7 @@ Pour les tréma, c&#8217;est <code>⌥</code> + <code>u</code> et pour l&#8217;a
   <entry>
     <title type="html"><![CDATA[IndieWeb and the Temple of Doom]]></title>
     <link href="http://blog.ticabri.com/blog/2013/06/30/indieweb-and-the-temple-of-doom/"/>
-    <updated>2013-06-30T15:39:00+02:00</updated>
+    <updated>2013-06-30T15:39:00+05:30</updated>
     <id>http://blog.ticabri.com/blog/2013/06/30/indieweb-and-the-temple-of-doom</id>
     <content type="html"><![CDATA[<h2>Hangouts Won’t Hangout With Other</h2>
 
@@ -131,7 +144,7 @@ Pour les tréma, c&#8217;est <code>⌥</code> + <code>u</code> et pour l&#8217;a
   <entry>
     <title type="html"><![CDATA[Zombie Ninjas Attack: A survivor's retrospective]]></title>
     <link href="http://blog.ticabri.com/blog/2013/05/28/zombie-ninjas-attack-a-survivors-retrospective/"/>
-    <updated>2013-05-28T21:03:00+02:00</updated>
+    <updated>2013-05-28T21:03:00+05:30</updated>
     <id>http://blog.ticabri.com/blog/2013/05/28/zombie-ninjas-attack-a-survivors-retrospective</id>
     <content type="html"><![CDATA[<p>ticablog tente une migration sur octopress, un framework pour Jekyll (le générateur de blog pour github). Les premiers pas sont assez faciles à faire tant la documentation est claire et précise.</p>
 

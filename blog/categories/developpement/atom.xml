@@ -4,7 +4,7 @@
   <title><![CDATA[Category: developpement | ticablog]]></title>
   <link href="http://blog.ticabri.com/blog/categories/developpement/atom.xml" rel="self"/>
   <link href="http://blog.ticabri.com/"/>
-  <updated>2013-08-31T00:35:31+02:00</updated>
+  <updated>2013-09-18T12:59:02+05:30</updated>
   <id>http://blog.ticabri.com/</id>
   <author>
     <name><![CDATA[ticabri]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Start a Simple Web Server]]></title>
     <link href="http://blog.ticabri.com/blog/2013/08/31/start-simple-web-server/"/>
-    <updated>2013-08-31T00:03:00+02:00</updated>
+    <updated>2013-08-31T00:03:00+05:30</updated>
     <id>http://blog.ticabri.com/blog/2013/08/31/start-simple-web-server</id>
     <content type="html"><![CDATA[<p>Je viens de découvrir qu'il était simplissime de démarrer un petit serveur web sous UNIX avec python.</p>
 
