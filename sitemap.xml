@@ -23,12 +23,18 @@
         <lastmod>2013-09-18T12:58:48+05:30</lastmod>
     </url>
     <url>
+        <loc>
+            http://blog.ticabri.com/blog/2013/09/27/utiliser-git-pour-deployer-votre-site-web/
+        </loc>
+        <lastmod>2013-09-27T14:07:36+05:30</lastmod>
+    </url>
+    <url>
         <loc>http://blog.ticabri.com/blog/archives/</loc>
-        <lastmod>2013-09-18T12:58:48+05:30</lastmod>
+        <lastmod>2013-09-27T14:07:36+05:30</lastmod>
     </url>
     <url>
         <loc>http://blog.ticabri.com/</loc>
-        <lastmod>2013-09-18T12:58:48+05:30</lastmod>
+        <lastmod>2013-09-27T14:07:36+05:30</lastmod>
     </url>
     <url>
         <loc>http://blog.ticabri.com/robots.txt</loc>
