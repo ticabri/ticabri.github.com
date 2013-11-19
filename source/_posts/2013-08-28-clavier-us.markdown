@@ -3,7 +3,7 @@ layout: post
 title: "Clavier US"
 date: 2013-08-28 13:10
 comments: true
-categories: 
+categories: developpement
 ---
 
 Nouvel ordinateur, nouvelles habitudes : j'ai acheté un clavier US. Qu'est-ce que ça change ? Pour les développeurs, à peu prés tout.
@@ -19,7 +19,8 @@ Voici donc les visuels du clavier français classique "azerty" et du clavier us 
 
 Je vous épargne le jeu des septs erreurs, les principales modifications sont au niveau des touches des lettres accentuées, il n'y en a pas sur le clavier US. Logique déduction, étant donné qu'il y a autant de touches sur l'un et l'autre, par quoi sont remplacées les touches accentuées ? Par des touches qui n'auraient jamais du disparaitre du clavier FR comme les accolades ou les crochets, le backslash, etc... Des touches bien utiles aux développeurs.
 
-### Mais alors comment faire les accents ?
+Mais alors comment faire les accents ?
+---
 
 Je ne sais pas comment ça se passe sous Windows, mais avec Mac OS X, c'est encore plus facile que sur un clavier français censé être prévu pour.
 Pour les accents graves, c'est `⌥` + `` ` `` suivi de la lettre à accentuer.

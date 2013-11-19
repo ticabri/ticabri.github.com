@@ -3,11 +3,11 @@ layout: post
 title: "IndieWeb and the Temple of Doom"
 date: 2013-06-30 15:39
 comments: true
-categories: 
+categories: blog, philosophie
 ---
 
 Hangouts Won’t Hangout With Other
----------------------------------
+---
 
 {% img left http://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Vittala_Temple's_Gopuram.JPG/320px-Vittala_Temple's_Gopuram.JPG Par Aravindreddy.d (Travail personnel) [CC-BY-SA-3.0], via Wikimedia Commons %}
 
@@ -24,7 +24,7 @@ Il illustre son propos en rappelant [l'excellente illustration](http://aaronpare
 {% img center http://aaronparecki.com/files/want-to-reply-join-gmail.png This is what email would have looked like if it were invented in the Web 2.0 era. Par Aaron Parecki %}
 
 IndieWeb and the Last Crusade
------------------------------
+---
 
 J'avais déjà entendu parler d'[IndieWebCamp](http://indiewebcamp.com/Main_Page) grâce [aux amis du Code And Coffee](https://twitter.com/AntoineCezar/status/347689992467922944). J'avais alors été voir le site et puis c'est tout. Maintenant que je suis mieux préparé, j'ai découvert un lien : Getting Started. On se sent moins perdu, moins idiot quand on a un lien Getting Started. Mais alors, de quoi ça cause ?
 

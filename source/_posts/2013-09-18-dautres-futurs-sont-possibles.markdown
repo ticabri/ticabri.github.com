@@ -3,10 +3,12 @@ layout: post
 title: "D'autres futurs sont possibles"
 date: 2013-09-18 12:48
 comments: true
-categories: 
+categories: philosophie
 ---
 
-Philosophons un peu ce matin avec une infographie trouvée chez [courrierinternational](http://www.courrierinternational.com/article/2013/09/17/d-autres-futurs-sont-possibles).
+Philosophons un peu ce matin avec une infographie trouvée chez [courrierinternational](http://www.courrierinternational.com/article/2013/09/17/d-autres-futurs-sont-possibles) (image en grand dans la suite).
+
+<!--more-->
 
 {% img http://www.courrierinternational.com/files/2013/Hebdos/1193/Galerie/1193-Info.jpg %}
 

@@ -9,7 +9,7 @@ categories: blog
 ticablog tente une migration sur octopress, un framework pour Jekyll (le générateur de blog pour github). Les premiers pas sont assez faciles à faire tant la documentation est claire et précise.
 
 Pourquoi ce titre ?!
---------------------
+---
 
 C'est l'exemple donné dans la documentation pour créer un nouveau billet. Le billet est généré par une ligne de commande :
 

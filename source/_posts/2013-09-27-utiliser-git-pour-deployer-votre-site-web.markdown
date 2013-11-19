@@ -3,7 +3,7 @@ layout: post
 title: "Utiliser Git pour deployer votre site web"
 date: 2013-09-27 13:51
 comments: true
-categories: 
+categories: developpement
 ---
 
 Git est désormais essentiel pour tout développement, y compris pour les sites web.
