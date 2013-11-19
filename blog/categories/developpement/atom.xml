@@ -4,7 +4,7 @@
   <title><![CDATA[Category: developpement | ticablog]]></title>
   <link href="http://blog.ticabri.com/blog/categories/developpement/atom.xml" rel="self"/>
   <link href="http://blog.ticabri.com/"/>
-  <updated>2013-09-27T17:33:21+05:30</updated>
+  <updated>2013-11-19T14:58:07+01:00</updated>
   <id>http://blog.ticabri.com/</id>
   <author>
     <name><![CDATA[ticabri]]></name>
@@ -14,9 +14,43 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Utiliser Git pour deployer votre site web]]></title>
+    <link href="http://blog.ticabri.com/blog/2013/09/27/utiliser-git-pour-deployer-votre-site-web/"/>
+    <updated>2013-09-27T13:51:00+02:00</updated>
+    <id>http://blog.ticabri.com/blog/2013/09/27/utiliser-git-pour-deployer-votre-site-web</id>
+    <content type="html"><![CDATA[<p>Git est désormais essentiel pour tout développement, y compris pour les sites web.</p>
+
+<p>Pour ce genre de développement web, j'ai mis en place la configuration suivante :</p>
+
+<ul>
+<li>mes outils de développement sur ma machine physique.</li>
+<li>un hébergement chez gandi qui autorise la publication via git et ssh.</li>
+<li>une machine virtuelle avec LAMP pour le serveur de développement, test ou pré-prod.</li>
+</ul>
+
+
+<p>L'idée ici est d'utiliser git pour <em>pusher</em> le site vers les serveurs que ce soit celui de production chez gandi.net ou que ce soit celui de dev sur la machine virtuelle.</p>
+
+<p><a href="http://toroid.org/ams">Abhijit Menon-Sen</a> nous explique comment faire dans <a href="http://toroid.org/ams/git-website-howto">un article en anglais</a>.</p>
+
+<p>Les étapes sont assez simples :</p>
+
+<ul>
+<li>autoriser la connexion ssh entre la machine <em>host</em> et la <em>guest</em> (i.e. la machine virtuelle) ;</li>
+<li>configurer un repository <code>--bare</code> sur la machine <em>guest</em> ;</li>
+<li>configurer un <a href="http://git-scm.com/book/en/Customizing-Git-Git-Hooks">hook git</a></li>
+<li>ajouter un <em>remote</em> pour pouvoir <em>pusher</em></li>
+</ul>
+
+
+<p>Ensuite un simple <code>git push web</code> et c'est déployer.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Start a Simple Web Server]]></title>
     <link href="http://blog.ticabri.com/blog/2013/08/31/start-simple-web-server/"/>
-    <updated>2013-08-31T00:03:00+05:30</updated>
+    <updated>2013-08-31T00:03:00+02:00</updated>
     <id>http://blog.ticabri.com/blog/2013/08/31/start-simple-web-server</id>
     <content type="html"><![CDATA[<p>Je viens de découvrir qu'il était simplissime de démarrer un petit serveur web sous UNIX avec python.</p>
 
@@ -30,6 +64,41 @@ Serving HTTP on 0.0.0.0 port 8000 &hellip;</p>
 <p>Il suffit de lancer cette ligne de commande dans le répertoire qui contient votre html/js/css et c'est tout. Je le note comme ça tout le monde pourra s'en rappeler, moi le premier.</p>
 
 <p>source: <a href="http://lifehacker.com/start-a-simple-web-server-from-any-directory-on-your-ma-496425450">http://lifehacker.com/start-a-simple-web-server-from-any-directory-on-your-ma-496425450</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Clavier US]]></title>
+    <link href="http://blog.ticabri.com/blog/2013/08/28/clavier-us/"/>
+    <updated>2013-08-28T13:10:00+02:00</updated>
+    <id>http://blog.ticabri.com/blog/2013/08/28/clavier-us</id>
+    <content type="html"><![CDATA[<p>Nouvel ordinateur, nouvelles habitudes : j'ai acheté un clavier US. Qu'est-ce que ça change ? Pour les développeurs, à peu prés tout.
+Voici donc les visuels du clavier français classique &ldquo;azerty&rdquo; et du clavier us classique &ldquo;qwerty&rdquo;.</p>
+
+<h4>Clavier FR</h4>
+
+<p><img class="<a" src="href="http://km.support.apple.com/library/APPLE/APPLECARE_ALLGEOS/HT2841/French.gif">http://km.support.apple.com/library/APPLE/APPLECARE_ALLGEOS/HT2841/French.gif</a>"></p>
+
+<h4>Clavier US</h4>
+
+<p><img class="<a" src="href="http://km.support.apple.com/library/APPLE/APPLECARE_ALLGEOS/HT2841/US%20English.gif">http://km.support.apple.com/library/APPLE/APPLECARE_ALLGEOS/HT2841/US%20English.gif</a>"></p>
+
+<p>Je vous épargne le jeu des septs erreurs, les principales modifications sont au niveau des touches des lettres accentuées, il n'y en a pas sur le clavier US. Logique déduction, étant donné qu'il y a autant de touches sur l'un et l'autre, par quoi sont remplacées les touches accentuées ? Par des touches qui n'auraient jamais du disparaitre du clavier FR comme les accolades ou les crochets, le backslash, etc&hellip; Des touches bien utiles aux développeurs.</p>
+
+<h2>Mais alors comment faire les accents ?</h2>
+
+<p>Je ne sais pas comment ça se passe sous Windows, mais avec Mac OS X, c'est encore plus facile que sur un clavier français censé être prévu pour.
+Pour les accents graves, c'est <code>⌥</code> + <code>`</code> suivi de la lettre à accentuer.
+Pour les accents aigus, c'est <code>⌥</code> + <code>e</code> suivi de la lettre à accentuer,
+Pour les tréma, c'est <code>⌥</code> + <code>u</code> et pour l'accent circonflexe, c'est <code>⌥</code> + <code>i</code>.</p>
+
+<p>Ainsi avec ces combinaisons astucieuses et faciles à prendre en main, il devient un jeu d'enfants de faire des majuscules accentuées. Évidence !</p>
+
+<p>Pour ce qui est de la disposition des touches <code>a</code>, <code>q</code> ou encore <code>z</code> et <code>w</code> ou la touche <code>m</code>, les habitudes viennent trés vite, d'autant que si vous êtes développeurs, ça va encore plus vite car on utilise vraiment le clavier et ses raccourcis.</p>
+
+<p>Ce billet pour vous dire : n'hésitez plus, le clavier US c'est ce qu'on fait de mieux. Et si vous devez renouveler votre clavier, alors lisez <a href="http://www.codinghorror.com/blog/2013/08/the-code-keyboard.html">ce billet</a> avant tout (<a href="https://twitter.com/nmartignole">@nmartignole</a> proposera une revue du clavier CODE dans quelques temps).</p>
+
+<p><div class='embed tweet'>Tweet could not be processed</div></p>
 ]]></content>
   </entry>
   
