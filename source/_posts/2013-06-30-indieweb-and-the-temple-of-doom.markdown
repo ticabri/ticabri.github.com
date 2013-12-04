@@ -3,7 +3,7 @@ layout: post
 title: "IndieWeb and the Temple of Doom"
 date: 2013-06-30 15:39
 comments: true
-categories: blog philosophie
+categories: [blog, philosophie]
 ---
 
 Hangouts Won’t Hangout With Other
