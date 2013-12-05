@@ -3,7 +3,7 @@ layout: post
 title: "Clavier US"
 date: 2013-08-28 13:10
 comments: true
-categories: developpement
+categories: développement
 ---
 
 Nouvel ordinateur, nouvelles habitudes : j'ai acheté un clavier US. Qu'est-ce que ça change ? Pour les développeurs, à peu prés tout.

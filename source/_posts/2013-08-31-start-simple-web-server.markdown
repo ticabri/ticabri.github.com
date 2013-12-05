@@ -3,7 +3,7 @@ layout: post
 title: "Start a Simple Web Server"
 date: 2013-08-31 00:03
 comments: true
-categories: developpement
+categories: développement
 ---
 
 Je viens de découvrir qu'il était simplissime de démarrer un petit serveur web sous UNIX avec python.
