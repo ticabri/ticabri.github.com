@@ -17,8 +17,7 @@ On notera également le professionalisme du point qui parle de cet entretien sur
 {% endblockquote %}
 
 [{% img left http://fc03.deviantart.net/fs71/i/2013/227/1/6/tex_avery_s_the_screwy_bugs_bunny_by_insaneasylum123-d6icaah.jpg 150 Tex Avery's The Screwy Bugs Bunny by InsaneAsylum123 %}](http://www.deviantart.com/?offset=34&view_mode=2&order=9&q=wolf+in+tex)
-Jusqu'à maintenant je n'ai jamais eu plus que 3 000 € par mois, soit 8 fois moins que celui de Cyril Hanouna. [Les suisses ont refusé](http://www.rtbf.be/info/monde/detail_initiative-1-12-la-suisse-vote-sur-la-limitation-des-gros-salaires?id=8142395)
-de limiter les hauts salaires avec un rapport de 1 à 12. [Le Parti de Gauche propose de limiter les écarts de salaire](http://www.jean-luc-melenchon.fr/arguments/taxer-les-riches-avec-le-revenu-maximum-et-le-salaire-maximum/) au sein d’une même entreprise à un rapport de 20.
+[Les suisses ont refusé](http://www.rtbf.be/info/monde/detail_initiative-1-12-la-suisse-vote-sur-la-limitation-des-gros-salaires?id=8142395) de limiter les hauts salaires avec un rapport de 1 à 12. [Le Parti de Gauche propose de limiter les écarts de salaire](http://www.jean-luc-melenchon.fr/arguments/taxer-les-riches-avec-le-revenu-maximum-et-le-salaire-maximum/) au sein d’une même entreprise à un rapport de 20.
 
 Il y a 2500 ans, [Platon proposait un rapport de 1 à 4 entre pauvreté et richesse](http://alternatives-economiques.fr/blogs/gadrey/2008/11/17/l%E2%80%99eventail-acceptable-des-revenus-platon-georges-marchais-etc). Si cette idée persiste, c’est peut-être qu’il y a une raison. Cyril Hanouna explique dans son entretien qu’il ne lui reste pas grand chose à la fin du mois malgré 25 000 € empochés en début de chaque mois. Autrement dit, ici encore l’adage est vrai : quand on veut, on peut ! Ou encore quelque soit le revenu d’une personne, elle arrivera toujours à tout dépenser.
 
