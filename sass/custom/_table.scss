@@ -1,0 +1,30 @@
+table {
+border-style:solid;
+border-width:1px;
+border-color:#e7e3e7;
+
+  th,  td {
+  border-style:dashed;
+  border-width:1px;
+  border-color:#e7e3e7;
+  padding: 3px 7px;
+  }
+ 
+  th {
+  border-style:solid;
+  font-weight:bold;
+  background: url("/images/noise.png?1330434582") repeat scroll left top rgb(242,242,242);
+  }
+
+  th[align="left"], td[align="left"] {
+  text-align:left;
+  }
+
+  th[align="right"], td[align="right"] {
+  text-align:right;
+  }
+
+  th[align="center"], td[align="center"] {
+  text-align:center;
+  }
+}
