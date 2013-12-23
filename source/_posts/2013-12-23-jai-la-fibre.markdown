@@ -31,9 +31,9 @@ Les débits n’ont absolument rien à voir avec de l’ADSL. Et même si un gro
 Bottleneck
 ---
 
-Malheureusement le bottleneck se déplace. Désormais c’est la carte wifi ou le VPN qui limitent les débits. Sur une tablette Nexus 7, on ne dépasse pas les 20 Mbps en download (2,5 Mo/s), via le wifi 802.11n on est limité à 50 Mbps (6,25 Mo/s).
+Malheureusement le bottleneck se déplace. Désormais c’est la carte wifi ou le serveur ou le VPN qui limitent les débits. Sur une tablette Nexus 7, on ne dépasse pas les 20 Mbps en download (2,5 Mo/s), ~~via le wifi 802.11n on est limité à 50 Mbps (6,25 Mo/s)~~ le wifi 802.11n a des limites d'environ 100-150 Mbps. En revanche, même sur speedtest, les serveurs ont leurs propres limites et réseaux, aussi il faut regarder les chiffres avec une bonne marge.
 
-Les limitations du VPN sont évidemment dépendantes de la solution choisie. Mes tests s’effectuent à travers les serveurs de VyprVPN (ping ; download ; upload) :
+Les limitations du VPN sont évidemment dépendantes de la solution choisie et des positions géographiques des serveurs. Mes tests s’effectuent à travers les serveurs de VyprVPN (ping ; download ; upload) :
 
 ping    | download  | upload  | lieu              | speedtest
 ---     | ---       | ---     | ---               | ---
