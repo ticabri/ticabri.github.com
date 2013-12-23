@@ -4,7 +4,7 @@
   <title><![CDATA[ticablog]]></title>
   <link href="http://blog.ticabri.com/atom.xml" rel="self"/>
   <link href="http://blog.ticabri.com/"/>
-  <updated>2013-12-12T14:10:50+01:00</updated>
+  <updated>2013-12-23T15:27:56+01:00</updated>
   <id>http://blog.ticabri.com/</id>
   <author>
     <name><![CDATA[ticabri]]></name>
@@ -12,6 +12,88 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[J'ai la fibre]]></title>
+    <link href="http://blog.ticabri.com/blog/2013/12/23/jai-la-fibre/"/>
+    <updated>2013-12-23T13:54:00+01:00</updated>
+    <id>http://blog.ticabri.com/blog/2013/12/23/jai-la-fibre</id>
+    <content type="html"><![CDATA[<p><img class="right" src="http://cl.ly/image/3N3m0H1x1f1B/3182912188.png" title="Speedtest carte réseau Gigabit" ></p>
+
+<p>Le NRA (nœud de raccordement) dans mon quartier est à 3500m, soit 49 dB d’atténuation de signal. Pour l&#8217;expliquer à Madame Michu : je téléchargeais en moyenne à 400 ko/s, soit un épisode de The Big Bang Theory (~ 350 Mo) – comment ça Madame Michu ne regarde pas TBBT ? – en 15 minutes. J’aime aussi préciser que malgré le décodeur numérique désigné par Starck, je ne pouvais regarder la tv hd, ni surfer et regarder la tv basse définition – et c’est vraiment moche, impossible de lire ce qui est écrit à l’écran – simultanément. Hâte d&#8217;avoir la fibre.</p>
+
+<h2>Ça y est, j’ai la fibre !</h2>
+
+<p>Il faut reprendre quelques habitudes. Cette fois pas de décodeur tv, économie sur la redevance, le temps de cerveau disponible et sur l’abonnement internet. Merci aux forfaits modulables de SFR. Mais est-ce que la technique suit ?</p>
+
+<p>On peut le dire ! La fibre offre trois avantages :</p>
+
+<ul>
+<li>un ping resserré à 14 ms</li>
+<li>une bande passante descendante à 290 Mbps</li>
+<li>une bande passante montante à 50 Mbps</li>
+</ul>
+
+
+<p>Ces mesures sont prises depuis un ordinateur avec une carte réseau Gigabit branchée à la box par un rj45 Gigabit. C’est vraiment pas mal, surtout pour l’upload : 50 Mbps, ça fait quand même des envois à 6 Mo/s contre 125 ko/s pour une ligne ADSL classique.
+Le download sur la meilleure ligne ADSL que j’ai eue est monté à 1,5 Mo/s, soit du 12 Mbps. Les fournisseurs annoncent tout de même une technologie pouvant atteindre les 20 Mbps, passons.</p>
+
+<p>Les débits n’ont absolument rien à voir avec de l’ADSL. Et même si un gros download est très agréable pour télécharger – sur une ligne ADSL de très bonne qualité, le même épisode de The Big Bang Theory ne prendrait que 4 minutes à être téléchargé – la différence se fait surtout sentir sur l’upload. L’upload est le A de ADSL, qui veut dire asymetric, point faible de la technologie ADSL.</p>
+
+<p><img class="center" src="http://cl.ly/image/3N3m0H1x1f1B/3182912188.png" title="Speedtest carte réseau Gigabit" ></p>
+
+<h2>Bottleneck</h2>
+
+<p>Malheureusement le bottleneck se déplace. Désormais c’est la carte wifi ou le VPN qui limitent les débits. Sur une tablette Nexus 7, on ne dépasse pas les 20 Mbps en download (2,5 Mo/s), via le wifi 802.11n on est limité à 50 Mbps (6,25 Mo/s).</p>
+
+<p>Les limitations du VPN sont évidemment dépendantes de la solution choisie. Mes tests s’effectuent à travers les serveurs de VyprVPN (ping ; download ; upload) :</p>
+
+<table>
+<thead>
+<tr>
+<th>ping    </th>
+<th> download  </th>
+<th> upload  </th>
+<th> lieu              </th>
+<th> speedtest</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>100 ms  </td>
+<td> 22 Mbps   </td>
+<td> 5 Mbps  </td>
+<td> Washington, USA   </td>
+<td> <img src="http://cl.ly/image/1W17191N3I3w/3182943632.png" title="VyprVPN USA" alt="image" /></td>
+</tr>
+<tr>
+<td>62 ms   </td>
+<td> 12 Mbps   </td>
+<td> 11 Mbps </td>
+<td> Reykjavik, Island </td>
+<td> <img src="http://cl.ly/image/02292G0r2p34/3182947376.png" title="VyprVPN Island" alt="image" /></td>
+</tr>
+<tr>
+<td>40 ms   </td>
+<td> 23 Mbps   </td>
+<td> 19 Mbps </td>
+<td> Paris, France     </td>
+<td> <img src="http://cl.ly/image/0c1G2r1h281p/3182950615.png" title="VyprVPN Paris" alt="image" /></td>
+</tr>
+<tr>
+<td>58 ms   </td>
+<td> 46 Mbps   </td>
+<td> 12 Mbps </td>
+<td> Vienna, Autria    </td>
+<td> <img src="http://cl.ly/image/1U3v2i3a1X1c/3182955706.png" title="VyprVPN Autria" alt="image" /></td>
+</tr>
+</tbody>
+</table>
+
+
+<p>etc…</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Tout travail mérite salaire]]></title>
