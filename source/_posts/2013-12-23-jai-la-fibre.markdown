@@ -3,12 +3,14 @@ layout: post
 title: "J'ai la fibre"
 date: 2013-12-23 13:54
 comments: true
-categories: developpement
+categories: développement
 ---
 
 {% img right http://cl.ly/image/3N3m0H1x1f1B/3182912188.png Speedtest carte réseau Gigabit %}
 
 Le NRA (nœud de raccordement) dans mon quartier est à 3500m, soit 49 dB d’atténuation de signal. Pour l'expliquer à Madame Michu : je téléchargeais en moyenne à 400 ko/s, soit un épisode de The Big Bang Theory (~ 350 Mo) – comment ça Madame Michu ne regarde pas TBBT ? – en 15 minutes. J’aime aussi préciser que malgré le décodeur numérique désigné par Starck, je ne pouvais regarder la tv hd, ni surfer et regarder la tv basse définition – et c’est vraiment moche, impossible de lire ce qui est écrit à l’écran – simultanément. Hâte d'avoir la fibre.
+
+<!-- more -->
 
 Ça y est, j’ai la fibre !
 ---

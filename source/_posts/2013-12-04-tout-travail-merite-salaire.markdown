@@ -3,7 +3,7 @@ layout: post
 title: "Tout travail mérite salaire"
 date: 2013-12-04 16:57
 comments: true
-categories: [philosophie, développement]
+categories: [philosophie, travail]
 ---
 
 Dans un entretien au Journal du Dimanche, Cyril Hanouna a fait parler de lui pour avoir déraisonné. Cela dit ce n’est pas la première fois qu’une personne du petit écran déraisonne, mais c’est une bonne occasion pour causer salaire.
