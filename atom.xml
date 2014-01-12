@@ -4,7 +4,7 @@
   <title><![CDATA[ticablog]]></title>
   <link href="http://blog.ticabri.com/atom.xml" rel="self"/>
   <link href="http://blog.ticabri.com/"/>
-  <updated>2014-01-12T14:01:38+01:00</updated>
+  <updated>2014-01-12T15:17:50+01:00</updated>
   <id>http://blog.ticabri.com/</id>
   <author>
     <name><![CDATA[ticabri]]></name>
@@ -12,6 +12,93 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[la horde agile]]></title>
+    <link href="http://blog.ticabri.com/blog/2014/01/12/la-horde-agile/"/>
+    <updated>2014-01-12T14:02:00+01:00</updated>
+    <id>http://blog.ticabri.com/blog/2014/01/12/la-horde-agile</id>
+    <content type="html"><![CDATA[<h2>Késako ?</h2>
+
+<p>La horde agile c&#8217;est nous. Enfin c&#8217;est ce que pense <a href="http://www.areyouagile.com/pages/a-propos.html">Pablo Pernot</a>. Évidemment je suis absolument d’accord avec lui. En fait <a href="https://github.com/pablopernot/lahordeagile"><em>&ldquo;la horde agile&rdquo;</em> c&#8217;est aussi un livre</a>, rédigé par Pablo et voilà ce qu&#8217;il en dit.</p>
+
+<blockquote><p>Cette horde agile surgit au cours d&#8217;une discussion de café avec les copains, comme un véhicule pour expliquer que l&#8217;agile c&#8217;est une culture et un savoir-être.</p><footer><strong>Pablo Pernot, la horde agile</strong> <cite><a href='https://github.com/pablopernot/lahordeagile'>github.com/pablopernot/&hellip;</a></cite></footer></blockquote>
+
+
+<p><a href="https://github.com/pablopernot/lahordeagile/blob/master/illustrations/images%20in%20prehistory.jpg"><img class="center" src="https://github.com/pablopernot/lahordeagile/raw/master/illustrations/images%20in%20prehistory.jpg" width="320"></a></p>
+
+<p>Si tu ne connais pas ce terme – <em>&ldquo;agile&rdquo;</em> – c&#8217;est que tu as probablement besoin de lire l&#8217;introduction de <em>la horde agile</em>. C&#8217;est rapide et ça ne mange pas de pain, et c&#8217;est <a href="https://github.com/pablopernot/lahordeagile/raw/master/lahordeagile.pdf">disponible en pdf ici</a>.</p>
+
+<p>J&#8217;ai tout lu et voilà ce que j&#8217;en retire.</p>
+
+<!--more-->
+
+
+<h2>L’importance des symboles dans le cerveau et les processus cognitifs</h2>
+
+<p>La horde nous apprend <em>&ldquo;que si tu veux vraiment retenir quelque chose comme il faut, un dessin ou un motif sera infiniment plus efficace qu’un ensemble de mots&rdquo;</em> (La horde agile, Verbal Overshadowing).  D’ailleurs les techniques de mémorisation tournent souvent autour de la construction de symboles pour former un tableau. En recherchant des exemples sur internet je suis tombé là-dessus : <a href="http://fr.wikipedia.org/wiki/Art_de_m%C3%A9moire">wikipedia.org/wiki/Art_de_mémoire</a>, représenter une liste ou un discours par un chemin imaginaire reliant des endroits bien connus dans lesquels on place les grandes étapes/thèmes à développer. Je crois que la horde agile est une bonne allégorie de cet art de mémoire. <a href="https://www.google.com/search?q=technique+de+m%C3%A9morisation">Les techniques de mémorisation tournent souvent autour des associations imagées</a>.</p>
+
+<p><a href="http://www.flickr.com/photos/mistinguette18/1778485118/"><img class="center" src="http://farm3.staticflickr.com/2365/1778485118_8cbba128b4_n.jpg" width="320" title="Nature morte à la pomme par Magali H" ></a></p>
+
+<h2>Le chiffre de Dunbar</h2>
+
+<p>J’ai rencontré le chiffre de Dunbar lors d&#8217;un contrat dans une grande banque : le département de gestion documentaire contenait environ <strong>150</strong> personnes, les groupes de projets regroupaient environ <strong>50</strong> personnes et les équipes étaient de taille <strong>7</strong>. J’y suis resté un peu plus de douze mois et c’est ma meilleure expérience de travail et de machine à café. Les projets avancés vite et étaient innovants. À part en donner un exemple je ne peux rien dire de plus que ça semblait fonctionner.</p>
+
+<h2>&ldquo;Nous entrons dans l&#8217;ère du travail contributif&rdquo;</h2>
+
+<p>La lecture de la horde agile m’a fait penser à <a href="http://fr.wikipedia.org/wiki/Bernard_Stiegler">Bernard Stiegler</a>.</p>
+
+<p>Bernard Stiegler <a href="http://rue89.nouvelobs.com/2013/02/02/bernard-stiegler-nous-entrons-dans-lere-du-travail-contributif-238900">parle d’un changement de mode de travail</a>, passant du travail de professionnel (formé pour le devenir en tout cas) au travail d’amateur (qui aime ce qu’il fait). Je relie cette prédiction au passage du niveau orange au jaune en passant par le vert de la horde agile (voir La horde agile,
+Spirale dynamique).</p>
+
+<blockquote><p>La Fnac, tout à fait à ses débuts, fonctionnait sur un modèle contributif. Tous les vendeurs de la Fnac étaient des amateurs : des musiciens, des photographes, etc. La Fnac en quelque sorte les sponsorisait, en les faisant bosser.</p><footer><strong>Bernard Stiegler, rue89</strong> <cite><a href='http://rue89.nouvelobs.com/2013/02/02/bernard-stiegler-nous-entrons-dans-lere-du-travail-contributif-238900'>rue89.nouvelobs.com/2013/02/02/&hellip;</a></cite></footer></blockquote>
+
+
+<h2>L&#8217;agriculture agile</h2>
+
+<p>J’ai été sensibilisé à la permaculture lors d’un stage. J’ai découvert les théories de la permaculture et de l’agilité à peu près en même temps. Et je n’ai pas arrêté de faire des rapprochements entre ces deux <em>“mouvements”</em>.
+La <a href="http://prise2terre.wordpress.com/la-permaculture-ques-aquo/">permaculture</a> est un concept proposé par Nasanobu Fukuoka puis Bill Mollison qui revient à dire que l’agriculteur (ou n’importe quel cultivateur, i.e. n’importe quel système qui tend à évoluer : on peut appliquer les principes de la permaculture à sa cuisine par exemple) se repositionne dans son contexte en suivant quelques méthodes et étapes, parmi lesquelles l’observation et la multiplication des liens et bordures (ou frontières).
+Par exemple, <a href="http://prise2terre.wordpress.com/about/">Mathieu</a> – qui ne connaît probablement pas l&#8217;agilité dans le monde informatique – définit les principes éthiques de la permaculture, personnellement ils me font penser aux principes de l&#8217;agilité :</p>
+
+<ul>
+<li>Prendre soin de la Terre</li>
+<li>Prendre soin des gens</li>
+<li>Limiter la consommation et redistribuer les surplus</li>
+</ul>
+
+
+<p>Pour rappel, voici <a href="http://fr.wikipedia.org/wiki/Manifeste_agile#Les_4_valeurs">les valeurs du manifeste agile</a> :</p>
+
+<ul>
+<li>Les individus et leurs interactions plus que les processus et les outils.</li>
+<li>Du logiciel qui fonctionne plus qu’une documentation exhaustive.</li>
+<li>La collaboration avec les clients plus que la négociation contractuelle.</li>
+<li>L’adaptation au changement plus que le suivi d’un plan.</li>
+</ul>
+
+
+<p>Les bordures sont également un concept important en permaculture qu’on peut relier à l’hétérogénéité de la horde.</p>
+
+<blockquote><p>Les Bordures font référence aux limites, qu’elles soient physiques ou non. Les limites peuvent être matérielles (rivière, mûr, arbres, structures, pentes, etc.), ou plus générales (financières, opinions, voisinages, temps disponible, les lois en vigueur, etc.).</p><footer><strong>Mathieu Foudral, prise2terre</strong> <cite><a href='http://prise2terre.wordpress.com/la-permaculture-ques-aquo/'>prise2terre.wordpress.com/&hellip;</a></cite></footer></blockquote>
+
+
+<p>Tout comme le <em>lean</em> ou les préceptes de l’agilité, l’importance dans la permaculture est aussi dans l’observation de l’environnement. De la même manière, les étapes d&#8217;un projet vont boucler autour de l’observation, l’action, l’enseignement.</p>
+
+<p><a href="http://permacultureprinciples.com/resources/free-downloads/"><img class="center" src="http://im.wk.io/images/p/6fe38/la-permaculture.x-png" width="320" title="permacultureprinciples.com" ></a></p>
+
+<p>Et tout comme la horde agile, la permaculture se voit comparer à des <a href="http://fr.wiktionary.org/wiki/calembredaine">calembredaines</a> d’utopistes (référence : <a href="http://www.cnrtl.fr/definition/utopiste"><em>Le barrage de Genissiat, un conte bleu, une calembredaine d’utopiste</em></a>). Les vieux de la vieille, en agriculture, rouspètent sur cette nouvelle mode qu’est la permaculture : <em>“ça existe depuis longtemps, c’est comme ça qu’on faisait avant !”</em> et son collègue adepte de l’agriculture intensive : <em>“D’ailleurs c’est parce que ça ne marchait pas qu’on en est là !”</em>.</p>
+
+<h2>Le contrôle et le fouet ou responsabilisation et confiance ?</h2>
+
+<p>J’ai également repensé aux <a href="http://fr.wikipedia.org/wiki/Th%C3%A9orie_X_et_th%C3%A9orie_Y">théories X et Y de McGregor</a> qui présentent, d’après moi, respectivement, les niveaux orange et vert. Dans ce cas-là, la proposition de McGregor confirme que le niveau vert permet l’accomplissement de chaque individu et donc des projets avec en prime de l’intérêt pour le travail. Bref, que nous devons réapprendre ce que aurait voulu nous enseigner la horde agile.</p>
+
+<h2>L&#8217;avenir n&#8217;est écrit nulle part</h2>
+
+<p>Les références données dans la horde agile donnent envie d’être creusées, je ne connais pas grand monde, mis à part Jacques Ferber qui a été mon professeur à la fac. Pablo m&#8217;a recommandé le dernier livre de Marc Halévy : <a href="http://www.noetique.eu/livres/prospective-2015">prospective 2015-2025 : l&#8217;après modernité</a>.</p>
+
+<p><a href="http://www.noetique.eu/livres/prospective-2015/bookCover/image_view_fullscreen"><img class="center" src="http://www.noetique.eu/livres/prospective-2015/bookCover" width="320"></a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Nous nous occupons des gens qui en ont vraiment besoin]]></title>
