@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Débarassons-nous enfin des restaurants du cœur"
+title: "Débarrassons-nous enfin des restaurants du cœur"
 date: 2013-12-04 10:54
 comments: true
 categories: [philosophie, permaculture]
