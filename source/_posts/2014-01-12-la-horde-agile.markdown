@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "la horde agile"
+title: "La horde agile"
 date: 2014-01-12 14:02
 comments: true
-categories: 
+categories: [philosophie, travail]
 ---
 
 Késako ?
