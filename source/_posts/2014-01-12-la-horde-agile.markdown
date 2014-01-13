@@ -33,7 +33,7 @@ La horde nous apprend *"que si tu veux vraiment retenir quelque chose comme il f
 Le chiffre de Dunbar
 ---
 
-J’ai rencontré le chiffre de Dunbar lors d'un contrat dans une grande banque : le département de gestion documentaire contenait environ **150** personnes, les groupes de projets regroupaient environ **50** personnes et les équipes étaient de taille **7**. J’y suis resté un peu plus de douze mois et c’est ma meilleure expérience de travail et de machine à café. Les projets avancés vite et étaient innovants. À part en donner un exemple je ne peux rien dire de plus que ça semblait fonctionner.
+J’ai rencontré le chiffre de Dunbar lors d'un contrat dans une grande banque : le département de gestion documentaire contenait environ **150** personnes, les groupes de projets regroupaient environ **50** personnes et les équipes étaient de taille **7**. J’y suis resté un peu plus de douze mois et c’est ma meilleure expérience de travail et de machine à café. Les projets avançaient vite et étaient innovants. À part en donner un exemple je ne peux rien dire de plus que ça semblait fonctionner.
 
 "Nous entrons dans l'ère du travail contributif"
 ---
@@ -80,7 +80,7 @@ Et tout comme la horde agile, la permaculture se voit comparer à des [calembred
 Le contrôle et le fouet ou responsabilisation et confiance ?
 ---
 
-J’ai également repensé aux [théories X et Y de McGregor](http://fr.wikipedia.org/wiki/Th%C3%A9orie_X_et_th%C3%A9orie_Y) qui présentent, d’après moi, respectivement, les niveaux orange et vert. Dans ce cas-là, la proposition de McGregor confirme que le niveau vert permet l’accomplissement de chaque individu et donc des projets avec en prime de l’intérêt pour le travail. Bref, que nous devons réapprendre ce que aurait voulu nous enseigner la horde agile.
+J’ai également repensé aux [théories X et Y de McGregor](http://fr.wikipedia.org/wiki/Th%C3%A9orie_X_et_th%C3%A9orie_Y) qui présentent, d’après moi, respectivement, les niveaux orange et vert. Dans ce cas-là, la proposition de McGregor confirme que le niveau vert permet l’accomplissement de chaque individu et donc des projets avec en prime de l’intérêt pour le travail. Bref, que nous devons réapprendre ce qu'aurait voulu nous enseigner la horde agile.
 
 L'avenir n'est écrit nulle part
 ---
