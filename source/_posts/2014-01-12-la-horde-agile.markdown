@@ -85,6 +85,6 @@ J’ai également repensé aux [théories X et Y de McGregor](http://fr.wikipedi
 L'avenir n'est écrit nulle part
 ---
 
-Les références données dans la horde agile donnent envie d’être creusées, je ne connais pas grand monde, mis à part Jacques Ferber qui a été mon professeur à la fac. Pablo m'a recommandé le dernier livre de Marc Halévy : [prospective 2015-2025 : l'après modernité](http://www.noetique.eu/livres/prospective-2015).
+Les références données dans la horde agile donnent envie d’être creusées, je ne connais pas grand monde, mis à part Jacques Ferber qui a été mon professeur à la fac. Pablo – bien que ne l'ayant pas encore terminé lorsque nous en avons parlé – m'a proposé de lire le dernier livre de Marc Halévy. Je fais de même pour qui veut creuser le sujet, nous aurons l'occasion d'en reparler : [prospective 2015-2025 : l'après modernité](http://www.noetique.eu/livres/prospective-2015).
 
 [{% img center http://www.noetique.eu/livres/prospective-2015/bookCover 320 %}](http://www.noetique.eu/livres/prospective-2015/bookCover/image_view_fullscreen)
