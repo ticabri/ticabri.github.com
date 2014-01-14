@@ -1,8 +1,8 @@
 $blockquote: $type-border !default;
-$sans: "PT Sans", "Helvetica Neue", Arial, sans-serif !default;
-$serif: "PT Serif", Georgia, Times, "Times New Roman", serif !default;
+$sans: "Open Sans", "PT Sans", "Helvetica Neue", Arial, sans-serif !default;
+$serif: "Open Sans", "PT Serif", Georgia, Times, "Times New Roman", serif !default;
 $mono: Menlo, Monaco, "Andale Mono", "lucida console", "Courier New", monospace !default;
-$heading-font-family: "PT Serif", "Georgia", "Helvetica Neue", Arial, sans-serif !default;
+$heading-font-family: "Open Sans", "PT Serif", "Georgia", "Helvetica Neue", Arial, sans-serif !default;
 $header-title-font-family: $heading-font-family !default;
 $header-subtitle-font-family: $heading-font-family !default;
 
@@ -61,6 +61,11 @@ h5, section h4, section section h3 {
 }
 h6, section h5, section section h4, section section section h3 {
   font-size: .8em;
+}
+
+P { 
+  text-align: justify;
+  line-height: 1.6;
 }
 
 p, article blockquote, ul, ol { margin-bottom: 1.5em; }
