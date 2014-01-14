@@ -29,6 +29,7 @@
   <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
 <link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 
   
 
@@ -77,6 +78,23 @@
 
 
   
+  <h2>2014</h2>
+
+<article>
+  
+<h1><a href="/blog/2014/01/12/la-horde-agile/">La horde agile</a></h1>
+<time datetime="2014-01-12T14:02:00+01:00" pubdate><span class='month'>Jan</span> <span class='day'>12</span> <span class='year'>2014</span></time>
+
+<footer>
+  <span class="categories">dans <a class='category' href='/blog/categories/philosophie/'>philosophie</a>, <a class='category' href='/blog/categories/travail/'>travail</a></span>
+</footer>
+
+
+</article>
+
+
+
+  
   <h2>2013</h2>
 
 <article>
@@ -85,7 +103,7 @@
 <time datetime="2013-12-04T16:57:00+01:00" pubdate><span class='month'>Dec</span> <span class='day'>04</span> <span class='year'>2013</span></time>
 
 <footer>
-  <span class="categories">posted in <a class='category' href='/blog/categories/philosophie/'>philosophie</a>, <a class='category' href='/blog/categories/travail/'>travail</a></span>
+  <span class="categories">dans <a class='category' href='/blog/categories/philosophie/'>philosophie</a>, <a class='category' href='/blog/categories/travail/'>travail</a></span>
 </footer>
 
 
@@ -99,7 +117,7 @@
 <time datetime="2013-12-04T10:54:00+01:00" pubdate><span class='month'>Dec</span> <span class='day'>04</span> <span class='year'>2013</span></time>
 
 <footer>
-  <span class="categories">posted in <a class='category' href='/blog/categories/permaculture/'>permaculture</a>, <a class='category' href='/blog/categories/philosophie/'>philosophie</a></span>
+  <span class="categories">dans <a class='category' href='/blog/categories/permaculture/'>permaculture</a>, <a class='category' href='/blog/categories/philosophie/'>philosophie</a></span>
 </footer>
 
 
@@ -113,7 +131,7 @@
 <time datetime="2013-11-19T12:04:00+01:00" pubdate><span class='month'>Nov</span> <span class='day'>19</span> <span class='year'>2013</span></time>
 
 <footer>
-  <span class="categories">posted in <a class='category' href='/blog/categories/philosophie/'>philosophie</a></span>
+  <span class="categories">dans <a class='category' href='/blog/categories/philosophie/'>philosophie</a></span>
 </footer>
 
 
@@ -127,7 +145,7 @@
 <time datetime="2013-09-18T12:48:00+02:00" pubdate><span class='month'>Sep</span> <span class='day'>18</span> <span class='year'>2013</span></time>
 
 <footer>
-  <span class="categories">posted in <a class='category' href='/blog/categories/philosophie/'>philosophie</a></span>
+  <span class="categories">dans <a class='category' href='/blog/categories/philosophie/'>philosophie</a></span>
 </footer>
 
 
@@ -141,7 +159,7 @@
 <time datetime="2013-06-30T15:39:00+02:00" pubdate><span class='month'>Jun</span> <span class='day'>30</span> <span class='year'>2013</span></time>
 
 <footer>
-  <span class="categories">posted in <a class='category' href='/blog/categories/blog/'>blog</a>, <a class='category' href='/blog/categories/philosophie/'>philosophie</a></span>
+  <span class="categories">dans <a class='category' href='/blog/categories/blog/'>blog</a>, <a class='category' href='/blog/categories/philosophie/'>philosophie</a></span>
 </footer>
 
 
@@ -156,10 +174,36 @@
 
 <aside class="sidebar">
   
-    <section>
-  <h1>Quid ?</h1>
-  <p>Quand j'étais étudiant, un professeur nous a dit qu'il n'était pas là pour nous enseigner le cours de <em>langage, évaluation et compilation</em> mais pour nous apprendre à apprendre. Depuis Internet est cette source d'information que l'on connaît. Avec ce blog, je fais ma part.</p>
+    
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/enguerran">@enguerran</a> on GitHub
+  
+  <script type="text/javascript">
+    $(document).ready(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'enguerran',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
 </section>
+
 <section>
   <h1>Recent Posts</h1>
   <ul id="recent_posts">
@@ -194,10 +238,9 @@
     </div>
   </div>
   <footer role="contentinfo"><p>
-  Copyright &copy; 2014 - ticabri -
+  <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="vertical-align: sub;" src="http://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a> - 2014 - ticabri -
   <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
 </p>
-
 </footer>
   
 
