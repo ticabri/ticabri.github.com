@@ -1,0 +1,64 @@
+==================================================================
+https://keybase.io/enguerran
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://blog.ticabri.com
+  * I am enguerran (https://keybase.io/enguerran) on keybase.
+  * I have a public key with fingerprint 4819 B3F0 07CC EB77 65D7  1F6D 7C1D D095 4E84 5BA7
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "4819b3f007cceb7765d71f6d7c1dd0954e845ba7",
+            "host": "keybase.io",
+            "key_id": "7C1DD0954E845BA7",
+            "uid": "5f3f21ed9e8a48dd385b3f71ac006400",
+            "username": "enguerran"
+        },
+        "service": {
+            "hostname": "blog.ticabri.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1396340415,
+    "expire_in": 157680000,
+    "prev": "3a7952d8b94c592d5a9cdd54249ac5132d9b67ac0051228d4f35368e35171b1f",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1.4.14 (GNU/Linux)
+
+owE1kW1IFFEUhnfXLLNMhQjCiBgMf7hs87nzgWGmBgtKSSiBxjIz98466s6ss+Ou
+H6nQJiFGZKEkkRZSUqQlhGymKcQSEmn9qU1Bwj6gJPthKEVu3RG7fy73Pc9533s4
+V9KSbA57e2XJ2Pj0YLn95fSaZDsthKZaMEkHTZjQgtXCzUtRNR80AoaqmZiA0RzB
+S5SC46wsQ4ll3QxgCcUNWJkAAOcZGnI0I4ks5sSq9aDVgWwkMQhdqo409PCqAKls
+IVFUZPHFiD9eYPENmwVGoRSSgICHnEhzAFAcg/JYQpRx3E3juAUGoaGJfohoqPka
+oGGIGtbqxJAcUmVofdrK3kKkOt3nMlVZlAzVJet+ZBAwdFOX9TpUrTbNgGA1m00B
+iw5Dybvl45VUDaDhUUMIGkFV1zCBQKRsqpYxQfFuisZpgnFisDGgGtCrWgTDujkc
+HSsGhpAlJbI8QwJO4mmZ4UnAiLwMAEOTNC/KDEGRgJfcrDUfQ5AkB2iFYig3BymG
+YAmJUDBrsnpNxwSUZIo+ZBlUfZpoNhgQa+20H9hmszts25Md1vpsqTsz/i/VWZxi
+65lqKTx3rW15OHdxfO3URn7b4KrQyKUnYi5+PnNppPJNDq7QrtQjj49KStX1bxWj
+WTOxV7uX9i4wJ/Y5ye9Cjo+NHvzbPpSZV54VPtZ/oftzNPazJtYZiT9Yn3saeR6+
+39X2sLmv4sXYI3B+Idobhp8m44tf/OU3PeuFwuxFM2VifubDH/tKbOC3Y3xH9q6J
+ibLcj6PPRmoPe8uieHdHGll6y5N0uaR5fwQ/mXZ7+AdZUQXVu1cT86+rJ2vid7DS
+xvB6BzWcXj836Mn2JM729twrSCTPZp7Z0xv5+i4u/XrLdtV4VvOMxic3kjOG+uHA
+oY2V9/l9/tylykvL/wA=
+=N8eg
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/enguerran
+
+==================================================================
