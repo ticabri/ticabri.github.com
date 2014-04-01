@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: blog | ticablog]]></title>
+  <link href="http://blog.ticabri.com/blog/categories/blog/atom.xml" rel="self"/>
+  <link href="http://blog.ticabri.com/"/>
+  <updated>2014-04-01T17:27:45+02:00</updated>
+  <id>http://blog.ticabri.com/</id>
+  <author>
+    <name><![CDATA[ticabri]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[IndieWeb and the Temple of Doom]]></title>
+    <link href="http://blog.ticabri.com/blog/2013/06/30/indieweb-and-the-temple-of-doom/"/>
+    <updated>2013-06-30T15:39:00+02:00</updated>
+    <id>http://blog.ticabri.com/blog/2013/06/30/indieweb-and-the-temple-of-doom</id>
+    <content type="html"><![CDATA[<h2>Hangouts Won’t Hangout With Other</h2>
+
+<p><img class="left <a" src="href="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Vittala_Temple">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Vittala_Temple</a>&rsquo;s_Gopuram.JPG/320px-Vittala_Temple&rsquo;s_Gopuram.JPG" title="Par Aravindreddy.d (Travail personnel) [CC-BY-SA-3.0], via Wikimedia Commons" ></p>
+
+<p>Laurent Eschenauer revient sur les annonces de Google à la conférence annuel Google I/O : <a href="http://eschnou.com/entry/whats-next-google--dropping-smtp-support--62-24930.html">la fin de XMPP chez Hangouts</a>. Le nouveau produit de Google permettant de communiquer avec ses amis abandonne le support du protocole de messagerie instantané XMPP. XMPP faisait partie intégrante de Google Talk depuis plus de dix ans. XMPP permet l'envoi de messages instantanés entre clients desktop, comme Pidgin, et permet la communication entre les utilisateurs des différents réseaux de messagerie instantanée.</p>
+
+<p><blockquote><p>Unfortunately, the new product drops support for the XMPP instant messaging protocol, which has been an integral part of Talk for over ten years. XMPP delivers instant messages to desktop clients, like Pidgin, and enables communication between users on different instant messaging networks.</p><footer><strong>Unknown Lamer <a href="http://tech.slashdot.org/story/13/05/20/2315216/google-drops-xmpp-support">http://tech.slashdot.org/story/13/05/20/2315216/google-drops-xmpp-support</a> Google Drops XMPP Support</strong></footer></blockquote></p>
+
+<p>Laurent Eschenauer se/nous demande quel est la prochaine étape de Google ? Supprimer le support de SMTP, le protocole des emails (qui permet de la même façon que XMPP de partager des emails à travers différents services reposant sur SMTP) ?</p>
+
+<p>Il illustre son propos en rappelant <a href="http://aaronparecki.com/notes/2013/03/31/2/this-is-what-email-would-have-looked-like">l'excellente illustration</a> de <a href="https://twitter.com/aaronpk">@aaronpk</a>. Et nous rappelle les solutions possibles pour éviter le pire et rester maitre de ses données et donc de l'Internet. Parmi celles-ci, je me permets d'insister sur IndieWeb.</p>
+
+<p><img class="center <a" src="href="http://aaronparecki.com/files/want-to-reply-join-gmail.png">http://aaronparecki.com/files/want-to-reply-join-gmail.png</a>" title="This is what email would have looked like if it were invented in the Web 2.0 era. Par Aaron Parecki" ></p>
+
+<h2>IndieWeb and the Last Crusade</h2>
+
+<p>J'avais déjà entendu parler d'<a href="http://indiewebcamp.com/Main_Page">IndieWebCamp</a> grâce <a href="https://twitter.com/AntoineCezar/status/347689992467922944">aux amis du Code And Coffee</a>. J'avais alors été voir le site et puis c'est tout. Maintenant que je suis mieux préparé, j'ai découvert un lien : Getting Started. On se sent moins perdu, moins idiot quand on a un lien Getting Started. Mais alors, de quoi ça cause ?</p>
+
+<p><img class="center <a" src="href="http://indiewebcamp.com/images/a/a6/indiewebcamp_logo.svg">http://indiewebcamp.com/images/a/a6/indiewebcamp_logo.svg</a>" title="IndieWebCamp logo" ></p>
+
+<h3>Première étape : un nom de domaine</h3>
+
+<p>IndieWeb recommande de se faire conseiller un registrar par un ami qui a confiance dans le sien. Je ne vais pas m'éterniser : <a href="https://www.gandi.net/">no bullshit avec gandi.net</a>. Je vous laisse découvrir pourquoi ils se labellisent dans le <a href="https://www.gandi.net/no-bullshit">no bullshit</a>.</p>
+
+<p>Mais alors pourquoi faire un nom de domaine ?</p>
+
+<h3>Possible étape : personnaliser ses services</h3>
+
+<p>Vous avez un compte blogger ? Un compte wordpress ? IndieWeb vous recommande de personnaliser les adresses à vos services avec votre nom de domaine tout neuf et surtout à vous. C'est ainsi que désormais vous pouvez retrouver ce blog sur le sous-domaine <a href="http://blog.ticabri.com">blog.ticabri.com</a>.</p>
+
+<p>IndieWeb fait la distinction entre les redirections vers les <a href="http://indiewebcamp.com/silo">silo</a> et les services hébergé. Un silo c'est facebook, google/google+, flickr, twitter. Un service hébergé c'est wordpress, blogger ou tumblr qui peuvent être mis en place pour servir votre domaine personnel pour vous. Autrement dit, avec un silo, vous proposez une redirection depuis <a href="http://facebook.ticabri.com">facebook.ticabri.com</a> vers <a href="http://www.facebook.com/ticabri">facebook.com/ticabri</a> et les visiteurs voient alors dans leur navigateur l'adresse du silo. Avec un service hébergé, vos visiteurs ont l'impression d'être chez vous, comme pour blogger.ticabri.com.</p>
+
+<p>Évidemment vos contenus sont quand même hébergé chez un tiers qui peut à tout moment supprimer, perdre, effacer, utiliser vos données.</p>
+
+<h3>Deuxième étape : héberger ses données</h3>
+
+<p><img class="right <a" src="href="http://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Toda_Hut.JPG/320px-Toda_Hut.JPG">http://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Toda_Hut.JPG/320px-Toda_Hut.JPG</a>" title="Par Pratheepps [CC-BY-SA-3.0], via Wikimedia Commons" ></p>
+
+<p>Il est clair que vous n'avez pas les moyens de monter un serveur chez vous : non pas que ce soit trop cher, non pas que ce soit compliqué, mais si vous lisez ça, c'est que cette solution a déjà été un échec (probablement à cause de la maintenance) ou qu'elle ne vous est jamais venue à l'esprit.</p>
+
+<p>Personnellement j'ai tenté l'expérience et c'est quand même pas si pratique que ça. Dans ce cas, dirigez vous vers un provider, un hébergeur. Gandi propose des forfaits d'hébergement, <a href="https://www.alwaysdata.com/">AlwaysData</a> offre même un hébergement gratuit, pour les autres, je vous laisse faire vos recherches.</p>
+
+<p>Une fois l'hébergeur sélectionné, le prix payé et les identifiants de connexion obtenus (control panel, ftp, sql), vous pouvez commencer à mettre en place l'ensemble des solutions proposées par IndieWeb dont la première, importante mais certainement pas finale : un fichier index.html avec votre hCard et les liens vers vos autres profils de réseaux sociaux.</p>
+
+<p>Par la suite, vous transférerez tranquillement vos données vers <a href="http://indiewebcamp.com/Projects">des services auto-hébergés</a>, vous créerez votre propre raccourcisseur d'url, etc&hellip;</p>
+
+<p><a href="http://indiewebcamp.com/Getting_Started#Web_Hosting">Tous les détails sont fournis par IndieWeb</a> et je ne manquerai pas de faire une petite traduction lorsque j'en serai moi-même à cette étape.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Zombie Ninjas Attack: A survivor's retrospective]]></title>
+    <link href="http://blog.ticabri.com/blog/2013/05/28/zombie-ninjas-attack-a-survivors-retrospective/"/>
+    <updated>2013-05-28T21:03:00+02:00</updated>
+    <id>http://blog.ticabri.com/blog/2013/05/28/zombie-ninjas-attack-a-survivors-retrospective</id>
+    <content type="html"><![CDATA[<p>ticablog tente une migration sur octopress, un framework pour Jekyll (le générateur de blog pour github). Les premiers pas sont assez faciles à faire tant la documentation est claire et précise.</p>
+
+<h2>Pourquoi ce titre ?!</h2>
+
+<p>C'est l'exemple donné dans la documentation pour créer un nouveau billet. Le billet est généré par une ligne de commande :</p>
+
+<p><code>
+rake new_post["Zombie Ninjas Attack: A survivor's retrospective"]
+</code></p>
+
+<p>Il suffit ensuite d'écrire son billet en respectant la syntaxe markdown (ou une autre si ça vous chante). Dans le fichier, une petite configuration Yaml permet de définir les quelques meta information du billet : titre, date, catégories, etc.</p>
+
+<p><img class="left <a" src="href="http://www.octopress.org/images/logo.png">http://www.octopress.org/images/logo.png</a>"></p>
+
+<p>Le billet est écrit, il ne reste plus qu'à générer le code html avec un <code>rake generate</code> puis un <code>rake deploy</code> pour déployer le blog sur github.</p>
+
+<p>Bref, c'est vraiment sympa comme façon d'écrire, j'utilise les mêmes outils que pour travailler et c'est vraiment très rapide. On verra plus tard pour la customisation et l'utilisation plus avancée des outils.</p>
+
+<p>Je ne ferai pas la migration des billets de <a href="http://ticabri.blogspot.fr">http://ticabri.blogspot.fr</a> vers octopress tout de suite. Il sera toujours temps plus tard, quand j'aurai trouvé une méthode raisonnable.</p>
+]]></content>
+  </entry>
+  
+</feed>

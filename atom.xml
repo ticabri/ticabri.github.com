@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[ticablog]]></title>
+  <link href="http://blog.ticabri.com/atom.xml" rel="self"/>
+  <link href="http://blog.ticabri.com/"/>
+  <updated>2014-04-01T17:27:45+02:00</updated>
+  <id>http://blog.ticabri.com/</id>
+  <author>
+    <name><![CDATA[ticabri]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[La horde agile]]></title>
+    <link href="http://blog.ticabri.com/blog/2014/01/12/la-horde-agile/"/>
+    <updated>2014-01-12T14:02:00+01:00</updated>
+    <id>http://blog.ticabri.com/blog/2014/01/12/la-horde-agile</id>
+    <content type="html"><![CDATA[<h2>Késako ?</h2>
+
+<p>La horde agile c&#8217;est nous. Enfin c&#8217;est ce que pense <a href="http://www.areyouagile.com/pages/a-propos.html">Pablo Pernot</a>. Évidemment je suis absolument d’accord avec lui. En fait <a href="https://github.com/pablopernot/lahordeagile"><em>&ldquo;la horde agile&rdquo;</em> c&#8217;est aussi un livre</a>, rédigé par Pablo et voilà ce qu&#8217;il en dit.</p>
+
+<blockquote><p>Cette horde agile surgit au cours d&#8217;une discussion de café avec les copains, comme un véhicule pour expliquer que l&#8217;agile c&#8217;est une culture et un savoir-être.</p><footer><strong>Pablo Pernot, la horde agile</strong> <cite><a href='https://github.com/pablopernot/lahordeagile'>github.com/pablopernot/&hellip;</a></cite></footer></blockquote>
+
+
+<p><a href="https://github.com/pablopernot/lahordeagile/blob/master/illustrations/images%20in%20prehistory.jpg"><img class="center" src="https://github.com/pablopernot/lahordeagile/raw/master/illustrations/images%20in%20prehistory.jpg" width="320"></a></p>
+
+<p>Si tu ne connais pas ce terme – <em>&ldquo;agile&rdquo;</em> – c&#8217;est que tu as probablement besoin de lire l&#8217;introduction de <em>la horde agile</em>. C&#8217;est rapide et ça ne mange pas de pain, et c&#8217;est <a href="https://github.com/pablopernot/lahordeagile/raw/master/lahordeagile.pdf">disponible en pdf ici</a>.</p>
+
+<p>J&#8217;ai tout lu et voilà ce que j&#8217;en retire.</p>
+
+<!--more-->
+
+
+<h2>L’importance des symboles dans le cerveau et les processus cognitifs</h2>
+
+<p>La horde nous apprend <em>&ldquo;que si tu veux vraiment retenir quelque chose comme il faut, un dessin ou un motif sera infiniment plus efficace qu’un ensemble de mots&rdquo;</em> (La horde agile, Verbal Overshadowing).  D’ailleurs les techniques de mémorisation tournent souvent autour de la construction de symboles pour former un tableau. En recherchant des exemples sur internet je suis tombé là-dessus : <a href="http://fr.wikipedia.org/wiki/Art_de_m%C3%A9moire">wikipedia.org/wiki/Art_de_mémoire</a>, représenter une liste ou un discours par un chemin imaginaire reliant des endroits bien connus dans lesquels on place les grandes étapes/thèmes à développer. Je crois que la horde agile est une bonne allégorie de cet art de mémoire. <a href="https://www.google.com/search?q=technique+de+m%C3%A9morisation">Les techniques de mémorisation tournent souvent autour des associations imagées</a>.</p>
+
+<p><a href="http://www.flickr.com/photos/mistinguette18/1778485118/"><img class="center" src="http://farm3.staticflickr.com/2365/1778485118_8cbba128b4_n.jpg" width="320" title="Nature morte à la pomme par Magali H" ></a></p>
+
+<h2>Le chiffre de Dunbar</h2>
+
+<p>J’ai rencontré le chiffre de Dunbar lors d&#8217;un contrat dans une grande banque : le département de gestion documentaire contenait environ <strong>150</strong> personnes, les groupes de projets regroupaient environ <strong>50</strong> personnes et les équipes étaient de taille <strong>7</strong>. J’y suis resté un peu plus de douze mois et c’est ma meilleure expérience de travail et de machine à café. Les projets avancés vite et étaient innovants. À part en donner un exemple je ne peux rien dire de plus que ça semblait fonctionner.</p>
+
+<h2>&ldquo;Nous entrons dans l&#8217;ère du travail contributif&rdquo;</h2>
+
+<p>La lecture de la horde agile m’a fait penser à <a href="http://fr.wikipedia.org/wiki/Bernard_Stiegler">Bernard Stiegler</a>.</p>
+
+<p>Bernard Stiegler <a href="http://rue89.nouvelobs.com/2013/02/02/bernard-stiegler-nous-entrons-dans-lere-du-travail-contributif-238900">parle d’un changement de mode de travail</a>, passant du travail de professionnel (formé pour le devenir en tout cas) au travail d’amateur (qui aime ce qu’il fait). Je relie cette prédiction au passage du niveau orange au jaune en passant par le vert de la horde agile (voir La horde agile,
+Spirale dynamique).</p>
+
+<blockquote><p>La Fnac, tout à fait à ses débuts, fonctionnait sur un modèle contributif. Tous les vendeurs de la Fnac étaient des amateurs : des musiciens, des photographes, etc. La Fnac en quelque sorte les sponsorisait, en les faisant bosser.</p><footer><strong>Bernard Stiegler, rue89</strong> <cite><a href='http://rue89.nouvelobs.com/2013/02/02/bernard-stiegler-nous-entrons-dans-lere-du-travail-contributif-238900'>rue89.nouvelobs.com/2013/02/02/&hellip;</a></cite></footer></blockquote>
+
+
+<h2>L&#8217;agriculture agile</h2>
+
+<p>J’ai été sensibilisé à la permaculture lors d’un stage. J’ai découvert les théories de la permaculture et de l’agilité à peu près en même temps. Et je n’ai pas arrêté de faire des rapprochements entre ces deux <em>“mouvements”</em>.
+La <a href="http://prise2terre.wordpress.com/la-permaculture-ques-aquo/">permaculture</a> est un concept proposé par Nasanobu Fukuoka puis Bill Mollison qui revient à dire que l’agriculteur (ou n’importe quel cultivateur, i.e. n’importe quel système qui tend à évoluer : on peut appliquer les principes de la permaculture à sa cuisine par exemple) se repositionne dans son contexte en suivant quelques méthodes et étapes, parmi lesquelles l’observation et la multiplication des liens et bordures (ou frontières).
+Par exemple, <a href="http://prise2terre.wordpress.com/about/">Mathieu</a> – qui ne connaît probablement pas l&#8217;agilité dans le monde informatique – définit les principes éthiques de la permaculture, personnellement ils me font penser aux principes de l&#8217;agilité :</p>
+
+<ul>
+<li>Prendre soin de la Terre</li>
+<li>Prendre soin des gens</li>
+<li>Limiter la consommation et redistribuer les surplus</li>
+</ul>
+
+
+<p>Pour rappel, voici <a href="http://fr.wikipedia.org/wiki/Manifeste_agile#Les_4_valeurs">les valeurs du manifeste agile</a> :</p>
+
+<ul>
+<li>Les individus et leurs interactions plus que les processus et les outils.</li>
+<li>Du logiciel qui fonctionne plus qu’une documentation exhaustive.</li>
+<li>La collaboration avec les clients plus que la négociation contractuelle.</li>
+<li>L’adaptation au changement plus que le suivi d’un plan.</li>
+</ul>
+
+
+<p>Les bordures sont également un concept important en permaculture qu’on peut relier à l’hétérogénéité de la horde.</p>
+
+<blockquote><p>Les Bordures font référence aux limites, qu’elles soient physiques ou non. Les limites peuvent être matérielles (rivière, mûr, arbres, structures, pentes, etc.), ou plus générales (financières, opinions, voisinages, temps disponible, les lois en vigueur, etc.).</p><footer><strong>Mathieu Foudral, prise2terre</strong> <cite><a href='http://prise2terre.wordpress.com/la-permaculture-ques-aquo/'>prise2terre.wordpress.com/&hellip;</a></cite></footer></blockquote>
+
+
+<p>Tout comme le <em>lean</em> ou les préceptes de l’agilité, l’importance dans la permaculture est aussi dans l’observation de l’environnement. De la même manière, les étapes d&#8217;un projet vont boucler autour de l’observation, l’action, l’enseignement.</p>
+
+<p><a href="http://permacultureprinciples.com/resources/free-downloads/"><img class="center" src="http://im.wk.io/images/p/6fe38/la-permaculture.x-png" width="320" title="permacultureprinciples.com" ></a></p>
+
+<p>Et tout comme la horde agile, la permaculture se voit comparer à des <a href="http://fr.wiktionary.org/wiki/calembredaine">calembredaines</a> d’utopistes (référence : <a href="http://www.cnrtl.fr/definition/utopiste"><em>Le barrage de Genissiat, un conte bleu, une calembredaine d’utopiste</em></a>). Les vieux de la vieille, en agriculture, rouspètent sur cette nouvelle mode qu’est la permaculture : <em>“ça existe depuis longtemps, c’est comme ça qu’on faisait avant !”</em> et son collègue adepte de l’agriculture intensive : <em>“D’ailleurs c’est parce que ça ne marchait pas qu’on en est là !”</em>.</p>
+
+<h2>Le contrôle et le fouet ou responsabilisation et confiance ?</h2>
+
+<p>J’ai également repensé aux <a href="http://fr.wikipedia.org/wiki/Th%C3%A9orie_X_et_th%C3%A9orie_Y">théories X et Y de McGregor</a> qui présentent, d’après moi, respectivement, les niveaux orange et vert. Dans ce cas-là, la proposition de McGregor confirme que le niveau vert permet l’accomplissement de chaque individu et donc des projets avec en prime de l’intérêt pour le travail. Bref, que nous devons réapprendre ce que aurait voulu nous enseigner la horde agile.</p>
+
+<h2>L&#8217;avenir n&#8217;est écrit nulle part</h2>
+
+<p>Les références données dans la horde agile donnent envie d’être creusées, je ne connais pas grand monde, mis à part Jacques Ferber qui a été mon professeur à la fac. Pablo m&#8217;a recommandé le dernier livre de Marc Halévy : <a href="http://www.noetique.eu/livres/prospective-2015">prospective 2015-2025 : l&#8217;après modernité</a>.</p>
+
+<p><a href="http://www.noetique.eu/livres/prospective-2015/bookCover/image_view_fullscreen"><img class="center" src="http://www.noetique.eu/livres/prospective-2015/bookCover" width="320"></a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Nous nous occupons des gens qui en ont vraiment besoin]]></title>
+    <link href="http://blog.ticabri.com/blog/2014/01/07/nous-nous-occupons-des-gens-qui-en-ont-vraiment-besoin/"/>
+    <updated>2014-01-07T11:23:00+01:00</updated>
+    <id>http://blog.ticabri.com/blog/2014/01/07/nous-nous-occupons-des-gens-qui-en-ont-vraiment-besoin</id>
+    <content type="html"><![CDATA[<blockquote><p>J’aime le travail : il me fascine. Je peux rester des heures à le regarder.</p><footer><strong>Jerome K. Jerome, Trois hommes dans un bateau</strong> <cite><a href='http://evene.lefigaro.fr/citation/aime-travail-fascine-peux-rester-heures-regarder-51707.php'>evene.lefigaro.fr/citation/&hellip;</a></cite></footer></blockquote>
+
+
+<p>Pour autant les déménagements personnels et les contextes professionnels peuvent amener un salarié à se retrouver en période de chômage. Le chômage, chômer…</p>
+
+<!-- more -->
+
+
+<h2>Un peu d&#8217;éthymologie</h2>
+
+<p>Le dictionnaire m’apprend le sens arrêté des mots, il définit pour le mot chômer :</p>
+
+<ol>
+<li> <strong><em>Emploi trans.</em></strong> Suspendre son travail pendant les jours fériés pour célébrer une fête civile ou religieuse.
+<em>Ex. : “Tiens, maître Gosselin a mis ses chausses rouges : c’est aujourd’hui un jour à chômer.” dans La vie quotidienne au temps de St Louis, Faral.</em></li>
+<li> <strong><em>Emploi gén. intrans.</em></strong> [En parlant d’une pers., d’une usine, d’un secteur quelconque de l’activité] Cesser le travail par manque d’ouvrage.
+<em>Ex. : “Depuis deux mois, la houille restait sur le carreau de ses fosses, presque toutes les usines chômaient.” dans Germinal, Zola.</em></li>
+<li> <strong><em>Vx, emploi trans. indir.</em></strong> Manquer de quelque chose.
+<em>Ex. : Chômer de nourriture, de livres.</em></li>
+</ol>
+
+
+<p>L’étymologie est, elle aussi, à étudier : du bas latin <em>“caumare”</em>, <em>“se reposer pendant la chaleur”</em> attesté au 6e siècle.</p>
+
+<p><img class="left" src="http://farm3.staticflickr.com/2259/1872000955_194b761b73_n.jpg" title="Mining in Kailo, Julien Harneis" ></p>
+
+<p>Comme d’habitude, le sens change. Il désigne tout d’abord le repos pendant la chaleur au 6e siècle, au 12e siècle <em>&ldquo;ne pas chômer de&rdquo;</em> veut dire <em>&ldquo;ne pas arrêter de, ne pas cesser de&rdquo;</em> puis au 13e siècle il prend le sens de &ldquo;<em>ne pas travailler&rdquo;</em>. Personnellement en période de chômage, je n’arrête pas ! En revanche il faut reconnaître que <a href="http://youtu.be/zpB_xnkuSHc">j’arrête de pointer au bureau</a> et j’arrête de fournir des livrables à un employeur. Pour faire de l’informatique, un ordinateur suffit et il suffit de demander à n’importe quel geek pour comprendre qu’il y a toujours à faire avec un ordinateur : développer son projet perso, faire des recherches sur sa passion du moment, apprendre un nouveau langage ou toute nouvelle capacité, écrire sur son blog ou finir son jeu vidéo. Sans parler de la vie de tous les jours, des déménagements, des aménagements, des voyages.</p>
+
+<p>Bref !</p>
+
+<p>C’est aussi le moment de faire le point sur ce qu’on veut faire, sur ce qu&#8217;on peut faire, et ça, c’est formidable et effrayant à la fois. Chacun sa voie.</p>
+
+<h2>Les charges entrainent des droits</h2>
+
+<p>Mais pour tous il y a la case Pôle Emploi. Je ne reviendrai pas sur les victoires sociales nécessaires pour en arriver là, en revanche je voudrai revenir sur l’expérience que j’y ai vécue.</p>
+
+<p>J’ai profité de Pôle Emploi à deux reprises : la première fois pendant 6 mois et la deuxième fois est toujours en cours, mais plus pour longtemps.</p>
+
+<p><span class='pullquote-left' data-pullquote='Ce que vous recevez en allocations lorsque vous ne travaillez pas n’est pas payé par ce que vous aviez cotisé mais par la richesse que les actuels travailleurs créent.'>
+Chaque mois <a href="http://youtu.be/cqIcOaKAX4k?t=53m">vous travaillez pour financer</a> – entre votre brut et votre net – une part à l’assurance chômage et autre CSG. Comme toute assurance, <strong>ce n’est pas une épargne</strong> : les charges que vous payez en travaillant servent à ceux qui ne travaillent pas. Ce que vous recevez en allocations lorsque vous ne travaillez pas n’est pas payé par ce que vous aviez cotisé mais par la richesse que les actuels travailleurs créent. <a href="http://www.liberation.fr/economie/2013/08/29/connaissez-vous-votre-bulletin-de-paie_927982">Connaissez-vous votre bulletin de paye ?</a>
+</span></p>
+
+<p>Quel bonheur d’être son propre patron pour peu d’avoir les moyens financiers de l’être : héritage, placement, spéculation ou tout simplement prime de licenciement puis allocations chômage. Décidez de son activité, non pas en se basant sur sa rentabilité, mais en se basant sur des valeurs plus personnelles. Ça tombe bien car si on est un peu perdu ou effrayé face au marché de l’emploi, de larges instants sont offerts à la sérendipité et autres loisirs créatifs par pôle emploi : le premier rendez-vous avec un conseiller pour travailler sur le cv, l’orientation professionnelle, la recherche d’annonces, le passage d’entretiens est très tard. Au cours de mes deux expériences, il a fallut attendre 3 mois et 6 mois avant de rencontrer quelqu&#8217;un.</p>
+
+<p><img class="center" src="http://farm1.staticflickr.com/77/191063346_e4e1e16ab4_n.jpg" title="the same horizon, Norma Desmond" ></p>
+
+<h2>Ma première fois avec pôpôle</h2>
+
+<p>La première fois, j’en ai profité pour faire <strong>un bilan de compétences</strong> proposé par la conseillère qui me recevait. Le bilan de compétence est sous-traité. Il coûte assez cher, mais rassurez-vous (ou inquiétez-vous) c’est à la charge de pôle emploi. Ce n’était pas du tout ce à quoi je m’attendais.</p>
+
+<p>Le résultat du bilan ? Le bilan confirme que je suis autonome dans ma recherche d’emploi, que j’ai les compétences suffisantes pour écrire un cv repérable et une lettre de motivation motivante. \o/</p>
+
+<p>J’ai préféré le <a href="http://deboutlesgens.com/blog/jai-pourtant-tout-ce-quil-faut-pour-%C3%AAtre-heureux/">test MBTI</a> pour en savoir plus sur soi.</p>
+
+<p>De retour en rendez-vous avec la conseillère de pôle emploi, nous discutâmes marché de l’emploi informatique local : c’est à dire SSII. Elle me proposait des annonces d’administrateur réseau alors que je n’ai occupé uniquement que des postes de développeurs. Évidemment elle n’était pas spécialiste, elle ne faisait pas la différence entre un geek à lunettes et un geek à barbe ou vice versa. Finalement j’ai trouvé un job en lisant ma timeline twitter que je suis tombé sur <a href="http://www.ladepeche.fr/article/2011/11/24/1223554-une-societe-toulousaine-se-propose-de-corriger-les-fautes-d-orthographe-de-l-elysee.html">un article parlant d’une société d’édition de logicielle toulousaine</a>, je les ai appelés, quelqu’un venait de les quitter, ils m’ont embauché.</p>
+
+<p>Bref, <strong>ma première fois chez Pôle Emploi était déjà un mauvais souvenir</strong>, il n’a été utile qu’au versement de l’allocation au retour à l’emploi (ARE).</p>
+
+<h2>Ma deuxième fois, pas mieux</h2>
+
+<p>La deuxième fois je savais à quoi m’attendre. J’ai suivi la procédure à la lettre : connexion mensuelle au site de pôle emploi pour m’actualiser et recherche active de travail auprès de mon réseau et des services en ligne comme viadeo ou linkedin. Si vous n’avez jamais été sur le site, vous ratez quelque chose : tout est fait pour compliquer la tâche de l’utilisateur, et encore je <em>touche</em> en ordinateur ; je n’ose même pas imaginer le calvaire du chercheur d’emploi de 50 ans qui sait pourtant très bien se servir de viadeo. Les pages ne sont pas clairement identifiables, les liens des menus changent sans arrêt, les process sont d’une autre époque.</p>
+
+<p>Petit détail sur l&#8217;actualisation mensuelle de mon statut de chercheur d&#8217;emploi qui suit la procédure suivante :</p>
+
+<ol>
+<li>se connecter avec ses identifiants : toujours les mêmes [<a href="http://note.io/K1l9Wf">capture</a>]</li>
+<li>cliquer sur <em>&ldquo;je m&#8217;actualise&rdquo;</em> entre telle et telle date [<a href="http://note.io/K1l84O">capture</a>]</li>
+<li>valider les 6 mêmes questions : répondre toujours <em>&ldquo;non&rdquo;</em> sauf la dernière question – êtes-vous toujours à la recherche d&#8217;un emploi ? – répondre <em>&ldquo;oui&rdquo;</em> [<a href="http://note.io/K1l8l3">capture</a>]</li>
+<li>et non pas d&#8217;autres étapes…</li>
+</ol>
+
+
+<p>Pour un informaticien, mais pour tous ceux qui n&#8217;aiment pas les pertes de temps, je dois avouer que c&#8217;est quand même très agaçant. C&#8217;est la seule chose à faire pour toucher ses ARE ; c&#8217;est la seule obligation mensuelle (en tout cas dans les 6 premiers mois) pour ne pas être radié ; c&#8217;est toujours la même chose et ça n&#8217;apporte rien.</p>
+
+<p>J’ai été convoqué une première fois, assez tôt, pour mon inscription, entretien qui s’est conclu par la validation de mon autonomie quant à la recherche d’emploi et, petite nouveauté, au transfert de mon dossier à <strong>l’agence spécial cadre</strong>. Mais elle a quoi de spécial l’agence spécial cadre ? <em>&ldquo;Eh bien Monsieur, les besoins des cadres sont spécifiques, les agents ici sont spécialisés pour accompagner les cadres vers le retour à l’emploi.&rdquo;</em></p>
+
+<p>Voilà comment j&#8217;ai traduit : <em>&ldquo;Je vous en pose des questions Monsieur ? Les cadres ont un métier plus difficile et plus important que les autres et je ne dis ça que pour vous flatter. Les agents ici ont eu une semaine de formation, mais ils se spécialisent surtout sur le tas puisqu’ils ne voient que des cadres qui sont pour la grande majorité largement capable d’écrire un cv et de retrouver un boulot ; vous comprendrez donc que les agents ici ont eu une promotion puisqu’on a moins de travail.&rdquo;</em></p>
+
+<p>Je me demande bien ce qui diffère tant les cadres des autres salariés alors qu’il y a plus de points communs entre le travail et la convention collective un développeur informatique non cadre et un développeur informatique cadre, qu’entre un développeur informatique cadre et un directeur d’agence bancaire, cadre lui aussi.</p>
+
+<p><img class="right" src="http://www-03.ibm.com/ibm/history/exhibits/rochester/images/overlay/4506VV4010.jpg" title="IBM Application System 400 Family" >
+Au bout de 6 mois je suis donc convoqué à un entretien avec <strong>une conseillère spécialiste cadre informatique</strong> qui tombe des nues lorsqu’elle lit les premières lignes de mon cv <em>&ldquo;développeur passionné&rdquo;</em> : <em>&ldquo;Eh bien Monsieur, c’est très bien d’être passionné, tout le monde ne l’est pas.&rdquo;</em> La traduction emprunte exactement le même modèle (voir la traduction ci-dessus) que précédemment : flatterie, et preuve qu’elle n’est spécialiste de rien. La spécialiste cadre informatique ne connait pas le monde du travail, elle n’a donné qu’une preuve de son inexpérience : elle a cité AS/400 pour illustrer le vocabulaire hyper-spécialisé – et donc l&#8217;intérêt d&#8217;un pôle emploi spécial cadres avec des conseillers spéciaux pour l&#8217;informatique – d’un informaticien, en 2013. Elle ne connait pas les boites d’éditions logicielles à Toulouse – il n&#8217;y en a pas beaucoup pourtant –, elle ne connait que Expectra, groupe Ranstad, ou Capgemini. En fait elle regarde la tv comme tout le monde.</p>
+
+<p>De toute façon mon cv est à jour, j’ai déjà décroché des entretiens, j’attends encore des réponses. Bref, ma deuxième fois est identique – au folklore près – à la première : je suis autonome pour mon retour à l’emploi, pôle emploi ne sera utile que pour m’aider financièrement.</p>
+
+<h2>Retour d&#8217;expérience</h2>
+
+<p>Pour ceux qui comme moi sont autonomes, Pôle Emploi se doit d’être un soutien psychologique pour aider le chercheur à tenir la distance. Plus que nécessaire en ces temps de capitalisation – il y aurait de quoi payer le travail si on arrêtait de payer le capital – à l’image des lièvres dans les marathons difficiles.</p>
+
+<p>Pour ceux qui ont besoin d’aide, il serait plus utile d’avoir un premier rendez-vous avec un conseiller le plus tôt possible, lors de la rédaction du cv, pas 6 mois après l’inscription. J’avais rencontré des conseillers d’orientation à la fac, je les avais classés à l’époque dans une catégorie peu glorieuse ne s’intéressant ni aux métiers, ni aux étudiants. Je catégorise, c’est certain, mais en partant de mon expérience jamais contre-dite. Leur seul recommandation envers un étudiant souhaitant s’orienter vers l’informatique : <em>&ldquo;Inutile de tenter le DEUG MIAS, seuls les anciens élèves d’école d’ingénieur réussissent. Et c’est le seul moyen de faire une licence d’informatique.&rdquo;</em></p>
+
+<p>Bullshit!</p>
+
+<p>Pour aller plus loin :</p>
+
+<ul>
+<li><a href="http://youtu.be/_tru7cOEle4">L&#8217;avenir du travail</a> par Albert Jacquart, 1999</li>
+<li><a href="http://www.rue89.com/2013/02/02/bernard-stiegler-nous-entrons-dans-lere-du-travail-contributif-238900">Nous entrons dans l&#8217;ère du travail contributif</a> par Bernard Stiegler, 2013</li>
+<li><a href="http://youtu.be/cqIcOaKAX4k">Inculture(s) 5 : le travail</a> par Scop le Pavé, 2013</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[J'ai la fibre]]></title>
+    <link href="http://blog.ticabri.com/blog/2013/12/23/jai-la-fibre/"/>
+    <updated>2013-12-23T13:54:00+01:00</updated>
+    <id>http://blog.ticabri.com/blog/2013/12/23/jai-la-fibre</id>
+    <content type="html"><![CDATA[<p><img class="right" src="http://cl.ly/image/3N3m0H1x1f1B/3182912188.png" title="Speedtest carte réseau Gigabit" ></p>
+
+<p>Le NRA (nœud de raccordement) dans mon quartier est à 3500m, soit 49 dB d’atténuation de signal. Pour l&#8217;expliquer à Madame Michu : je téléchargeais en moyenne à 400 ko/s, soit un épisode de The Big Bang Theory (~ 350 Mo) – comment ça Madame Michu ne regarde pas TBBT ? – en 15 minutes. J’aime aussi préciser que malgré le décodeur numérique désigné par Starck, je ne pouvais regarder la tv hd, ni surfer et regarder la tv basse définition – et c’est vraiment moche, impossible de lire ce qui est écrit à l’écran – simultanément. Hâte d&#8217;avoir la fibre.</p>
+
+<!-- more -->
+
+
+<h2>Ça y est, j’ai la fibre !</h2>
+
+<p>Il faut reprendre quelques habitudes. Cette fois pas de décodeur tv, économie sur la redevance, le temps de cerveau disponible et sur l’abonnement internet. Merci aux forfaits modulables de SFR. Mais est-ce que la technique suit ?</p>
+
+<p>On peut le dire ! La fibre offre trois avantages :</p>
+
+<ul>
+<li>un ping resserré à 14 ms</li>
+<li>une bande passante descendante à 290 Mbps</li>
+<li>une bande passante montante à 50 Mbps</li>
+</ul>
+
+
+<p>Ces mesures sont prises depuis un ordinateur avec une carte réseau Gigabit branchée à la box par un rj45 Gigabit. C’est vraiment pas mal, surtout pour l’upload : 50 Mbps, ça fait quand même des envois à 6 Mo/s contre 125 ko/s pour une ligne ADSL classique.
+Le download sur la meilleure ligne ADSL que j’ai eue est monté à 1,5 Mo/s, soit du 12 Mbps. Les fournisseurs annoncent tout de même une technologie pouvant atteindre les 20 Mbps, passons.</p>
+
+<p>Les débits n’ont absolument rien à voir avec de l’ADSL. Et même si un gros download est très agréable pour télécharger – sur une ligne ADSL de très bonne qualité, le même épisode de The Big Bang Theory ne prendrait que 4 minutes à être téléchargé – la différence se fait surtout sentir sur l’upload. L’upload est le A de ADSL, qui veut dire asymetric, point faible de la technologie ADSL.</p>
+
+<p><img class="center" src="http://cl.ly/image/3N3m0H1x1f1B/3182912188.png" title="Speedtest carte réseau Gigabit" ></p>
+
+<h2>Bottleneck</h2>
+
+<p>Malheureusement le bottleneck se déplace. Désormais c’est la carte wifi ou le serveur ou le VPN qui limitent les débits. Sur une tablette Nexus 7, on ne dépasse pas les 20 Mbps en download (2,5 Mo/s), <del>via le wifi 802.11n on est limité à 50 Mbps (6,25 Mo/s)</del> le wifi 802.11n a des limites d&#8217;environ 100-150 Mbps. En revanche, même sur speedtest, les serveurs ont leurs propres limites et réseaux, aussi il faut regarder les chiffres avec une bonne marge.</p>
+
+<p>Les limitations du VPN sont évidemment dépendantes de la solution choisie et des positions géographiques des serveurs. Mes tests s’effectuent à travers les serveurs de VyprVPN (ping ; download ; upload) :</p>
+
+<table>
+<thead>
+<tr>
+<th>ping    </th>
+<th> download  </th>
+<th> upload  </th>
+<th> lieu              </th>
+<th> speedtest</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>100 ms  </td>
+<td> 22 Mbps   </td>
+<td> 5 Mbps  </td>
+<td> Washington, USA   </td>
+<td> <img src="http://cl.ly/image/1W17191N3I3w/3182943632.png" title="VyprVPN USA" alt="image" /></td>
+</tr>
+<tr>
+<td>62 ms   </td>
+<td> 12 Mbps   </td>
+<td> 11 Mbps </td>
+<td> Reykjavik, Island </td>
+<td> <img src="http://cl.ly/image/02292G0r2p34/3182947376.png" title="VyprVPN Island" alt="image" /></td>
+</tr>
+<tr>
+<td>40 ms   </td>
+<td> 23 Mbps   </td>
+<td> 19 Mbps </td>
+<td> Paris, France     </td>
+<td> <img src="http://cl.ly/image/0c1G2r1h281p/3182950615.png" title="VyprVPN Paris" alt="image" /></td>
+</tr>
+<tr>
+<td>58 ms   </td>
+<td> 46 Mbps   </td>
+<td> 12 Mbps </td>
+<td> Vienna, Autria    </td>
+<td> <img src="http://cl.ly/image/1U3v2i3a1X1c/3182955706.png" title="VyprVPN Autria" alt="image" /></td>
+</tr>
+</tbody>
+</table>
+
+
+<p>etc…</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Tout travail mérite salaire]]></title>
+    <link href="http://blog.ticabri.com/blog/2013/12/04/tout-travail-merite-salaire/"/>
+    <updated>2013-12-04T16:57:00+01:00</updated>
+    <id>http://blog.ticabri.com/blog/2013/12/04/tout-travail-merite-salaire</id>
+    <content type="html"><![CDATA[<p>Dans un entretien au Journal du Dimanche, Cyril Hanouna a fait parler de lui pour avoir déraisonné. Cela dit ce n’est pas la première fois qu’une personne du petit écran déraisonne, mais c’est une bonne occasion pour causer salaire.</p>
+
+<p>On notera également le professionalisme du point qui parle de cet entretien sur son site sans jamais donné un lien vers l&#8217;article d&#8217;origine. Et pour être sûr d&#8217;hameçonner le lecteur, il appose un titre truqué – <a href="http://www.lepoint.fr/ces-gens-la/hanouna-25-000-euros-c-est-tres-peu-01-12-2013-1763746_264.php">Hanouna : 25 000 euros, &ldquo;c&#8217;est peu&rdquo;</a> – alors que la citation dans son contexte est beaucoup plus claire.</p>
+
+<!-- more -->
+
+
+
+
+<blockquote><p>&#8220;Je suis animateur et producteur de Touche pas à mon poste mais D8 a fait une bonne affaire. Pour 40.000 euros, elle a une émission qu&#8217;elle peut rediffuser plusieurs fois par jour sans rien payer en plus. Je gagne 25.000 euros par mois. Ça peut paraître beaucoup, mais par rapport à d&#8217;autres animateurs, c&#8217;est très peu. L&#8217;émission génère vraiment de la pub. À la fin du mois, il ne me reste pas grand-chose. Pourtant, rien d&#8217;extraordinaire : je joue au tennis, je ne pars qu&#8217;une fois par an en vacances et j&#8217;achète peu de fringues. Mon seul caprice, c&#8217;est les voitures. Le reste part dans les impôts, l&#8217;appartement près d&#8217;Europe 1 où j&#8217;ai une quotidienne et les nounous. Mais je suis heureux, je m&#8217;éclate. Mon père se demande encore quand je vais trouver un vrai travail.&#8221;</p><footer><strong>Cyril Hanouna</strong> <cite><a href='http://www.lejdd.fr/Medias/Television/Cyril-Hanouna-un-cancre-devenu-culte-641255'>Cyril Hanouna, Un Cancre Devenu Culte, Le JDD</a></cite></footer></blockquote>
+
+
+<p><a href="http://www.deviantart.com/?offset=34&amp;view_mode=2&amp;order=9&amp;q=wolf+in+tex"><img class="left" src="http://fc03.deviantart.net/fs71/i/2013/227/1/6/tex_avery_s_the_screwy_bugs_bunny_by_insaneasylum123-d6icaah.jpg" width="150" title="Tex Avery's The Screwy Bugs Bunny by InsaneAsylum123" ></a>
+<a href="http://www.rtbf.be/info/monde/detail_initiative-1-12-la-suisse-vote-sur-la-limitation-des-gros-salaires?id=8142395">Les suisses ont refusé</a> de limiter les hauts salaires avec un rapport de 1 à 12. <a href="http://www.jean-luc-melenchon.fr/arguments/taxer-les-riches-avec-le-revenu-maximum-et-le-salaire-maximum/">Le Parti de Gauche propose de limiter les écarts de salaire</a> au sein d’une même entreprise à un rapport de 20.</p>
+
+<p>Il y a 2500 ans, <a href="http://alternatives-economiques.fr/blogs/gadrey/2008/11/17/l%E2%80%99eventail-acceptable-des-revenus-platon-georges-marchais-etc">Platon proposait un rapport de 1 à 4 entre pauvreté et richesse</a>. Si cette idée persiste, c’est peut-être qu’il y a une raison. Cyril Hanouna explique dans son entretien qu’il ne lui reste pas grand chose à la fin du mois malgré 25 000 € empochés en début de chaque mois. Autrement dit, ici encore l’adage est vrai : quand on veut, on peut ! Ou encore quelque soit le revenu d’une personne, elle arrivera toujours à tout dépenser.</p>
+
+<p><span class='pullquote-left' data-pullquote='il reste encore un long chemin à faire, Votre Altesse, tu peux me croire'>
+C’est d’ailleurs une bonne chose, non ? Mieux que de spéculer. Est-ce que tel travail mérite tel salaire ? C’est une autre question. Mais il faut savoir que Cyril Hanouna est producteur et qu’il est bien placé pour affirmer que ce n’est pas tant que ça par rapport aux autres animateurs. Vue <a href="http://youtu.be/3K6Vz1WmnXI?t=1h7m51s">la réaction de Christophe Dechavanne et de Laurent Ruquier sur le plateau d’On n’est pas couché face à Besancenot</a> qui leur explique que le NPA veut taxer à 100% au-delà de 260 000 €, <a href="http://youtu.be/b6IKv7rXRtY?t=1m13s">il reste encore un long chemin à faire, Votre Altesse, tu peux me croire</a>.
+</span></p>
+
+<p><a href="http://commons.wikimedia.org/wiki/File:Lewis_Hine_Power_house_mechanic_working_on_steam_pump.jpg"><img class="right" src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Lewis_Hine_Power_house_mechanic_working_on_steam_pump.jpg/172px-Lewis_Hine_Power_house_mechanic_working_on_steam_pump.jpg" width="150" title="Photo de Lewis Hine, 1920" ></a></p>
+
+<p>Convaincu ? Intéressé ? Désabusé ? Ulcéré ?</p>
+
+<p>Donc ça vous intéresse. Dans ce cas je vous propose de regarder cette conférence gesticulée de Franck Lepage et Gaël Tanguy. Si vous ne connaissez pas encore Franck Lepage, c’est lui qui fait <a href="http://youtu.be/oNJo-E4MEk8">ça</a>. Ils abordent tout un tas de sujet autour du travail – la vidéo dure 2h30 – de la <a href="http://youtu.be/cqIcOaKAX4k?t=52m49s">feuille de salaire</a>, aux <a href="http://youtu.be/cqIcOaKAX4k?t=1h33m7s">syndicats</a> en passant par le <a href="http://youtu.be/cqIcOaKAX4k?t=2h11m00s">salaire</a> et le <a href="http://youtu.be/cqIcOaKAX4k?t=2h11m52s">salaire jeune</a> et les <a href="http://youtu.be/cqIcOaKAX4k?t=2h11m52s">retraites</a>. J&#8217;ai mis des marques-frame en lien, vous pouvez retrouver la vidéo en entier juste en dessous de l&#8217;article.</p>
+
+<p>Dans cette vidéo, ils nous expliquent ce que sont le travail libre et le travail subordonné. Au passage vous savez forcément d’où vient le mot travail. L’article wikipedia nous raconte.</p>
+
+<p><span class='pullquote-right' data-pullquote='le mot &#8220;travail&#8221; est un déverbal de &#8220;travailler&#8221;, issu du latin populaire &#8220;tripaliare&#8221;, signifiant &#8220;tourmenter, torturer avec le trepalium&#8221;.'></p>
+
+<blockquote><p>Sous l&#8217;Antiquité, le terme bas latin trepalium (attesté en 582) est une déformation de tripalium, un instrument formé de trois pieux, deux verticaux et un placé en transversale, auquel on attachait les animaux pour les ferrer ou les soigner, ou les esclaves pour les punir.<br/>Apparu au XIIe siècle, selon Alain Rey, le mot &#8220;travail&#8221; est un déverbal de &#8220;travailler&#8221;, issu du latin populaire &#8220;tripaliare&#8221;, signifiant &#8220;tourmenter, torturer avec le trepalium&#8221;.</p><footer><strong>Éthymologie du mot &#8220;travail&#8221;</strong> <cite><a href='http://fr.wikipedia.org/wiki/Travail_%28%C3%A9conomie%29#.C3.89tymologie'>Wikipedia</a></cite></footer></blockquote>
+
+
+<p></span></p>
+
+<p>Autre proposition à la mode autour des rémunérations : le revenu de base. La NSA (qui écoute tout le monde) a d’ailleurs retrouvé une communication téléphonique bien intéressante.</p>
+
+<blockquote><p>Le revenu de base est un droit inaliénable, inconditionnel, cumulable avec d’autres revenus, distribué par une communauté politique à tous ses membres, de la naissance à la mort, sur base individuelle, sans contrôle des ressources ni exigence de contrepartie, dont le montant et le financement sont ajustés démocratiquement.</p><footer><strong>Définition du Mouvement Français</strong> <cite><a href='http://revenudebase.info/comprendre-le-revenu-de-base/'>Le Revenu De Base</a></cite></footer></blockquote>
+
+
+<h5>Inculture(s) 5 : le travail</h5>
+
+<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/cqIcOaKAX4k "></iframe></div>
+
+
+<h5>Le revenu de base c&#8217;est aussi un cadeau</h5>
+
+<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/RYk8axLqCKQ "></iframe></div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Débarrassons-nous enfin des restaurants du cœur]]></title>
+    <link href="http://blog.ticabri.com/blog/2013/12/04/debarrassons-nous-enfin-des-restaurants-du-coeur/"/>
+    <updated>2013-12-04T10:54:00+01:00</updated>
+    <id>http://blog.ticabri.com/blog/2013/12/04/debarrassons-nous-enfin-des-restaurants-du-coeur</id>
+    <content type="html"><![CDATA[<p><a href="https://dons.restosducoeur.org/"><img class="left" src="https://dons.restosducoeur.org/images/logo.gif" title="Faire un don" ></a></p>
+
+<p>Quand j&#8217;ai pensé à ce titre, je me suis demandé s&#8217;il n&#8217;était pas trop provocateur. Mais finalement, ce serait une bonne chose que les restaurants du cœure disparaissent, ça voudrait dire qu&#8217;on n&#8217;a plus peur ni d&#8217;avoir faim, ni d&#8217;avoir froid.</p>
+
+<p>Il y a quelques jours, un article sur les Echos proposait un titre utopique : <a href="http://lecercle.lesechos.fr/economistes-project-syndicate/autres-auteurs/221184406/nourriture-monde">De la nourriture pour tout le monde</a> (par <a href="http://lecercle.lesechos.fr/221144447/jeremy_oppenheim">Jeremy Oppenheim</a> et <a href="http://lecercle.lesechos.fr/221144446/tristram_stuart">Tristram Stuart</a>).</p>
+
+<blockquote><p>La Terre est capable de nourrir tout le monde. Manquer de résoudre les problèmes qui touchent à l&#8217;offre et à la demande équivaut à une mauvaise gestion ridicule et à un crime envers les pauvres du monde, les autres espèces de la planète et envers les générations futures.</p><footer><strong>Jeremy Oppenheim et Tristram Stuart, Le Cercle - Les Echos</strong> <cite><a href='http://lecercle.lesechos.fr/economistes-project-syndicate/autres-auteurs/221184406/nourriture-monde'>De La Nourriture Pour Tout Le Monde</a></cite></footer></blockquote>
+
+
+<p>Bien sûr, changer les habitudes de consommation qu&#8217;on sait mauvaises est un pas important. Je pense aux viandes souvent trop fréquentes dans le repas français, je pense à la distance entre les aliments produits et les plats consommés, tant en termes géographiques que sanitaires.</p>
+
+<p>L&#8217;exemple des cantines de stéphanois qui a été donné sur France Bleu – <a href="http://www.francebleu.fr/infos/peut-nourrir-tout-le-monde-avec-le-bio-999686">peut-on nourrir tout le monde avec le bio ?</a> – nous montre qu&#8217;il y a du chemin à faire pour apprendre à manger dans un monde que l&#8217;on souhaite durable, et donc propre et proche de la Nature. Mais certains spécialistes pensent qu&#8217;une solution existe, ils l&#8217;appellent <em><a href="http://www.permaculturedesign.fr/les-moissons-du-futur-lagro-ecologie-peut-elle-nourrir-le-monde/">permaculture</a></em>.</p>
+
+<p><a href="http://www.incredible-edible.info/?page_id=141"><img class="center" src="http://www.incredible-edible.info/wp-content/uploads/2012/05/a047_incroyables_comestibles_visuel_w680.jpg" title="Incroyables Commestibles" ></a></p>
+
+<p>Mais si tout ceci est bien théorique, certains irreductibles appliquent bel et bien ces préceptes à succès. Comme seul exemple, probablement le plus accessible, connaissez-vous les <em><a href="http://www.incredible-edible.info/?p=1">incroyables commestibles</a></em> ?</p>
+
+<!-- more -->
+
+
+<p><a href="http://stinkyblinkygialo.deviantart.com/art/fuck-me-ask-google-D-188443837?hf=1"><img class="center" src="http://fc04.deviantart.net/fs71/i/2010/338/6/a/fuck_me_ask_google__d_by_stinkyblinkygialo-d347071.jpg" width="400" title="Fuck me! Ask Google" ></a></p>
+
+<h2>Pour aller plus loin :</h2>
+
+<ul>
+<li><a href="http://www.guidepotagerurbain.com/">Le potager urbain</a></li>
+<li><a href="http://lecercle.lesechos.fr/economistes-project-syndicate/autres-auteurs/221184406/nourriture-monde">De la nourriture pour tout le monde</a></li>
+<li><a href="http://www.francebleu.fr/infos/peut-nourrir-tout-le-monde-avec-le-bio-999686">peut-on nourrir tout le monde avec le bio ?</a></li>
+<li><a href="http://www.incredible-edible.info/?p=1">incroyables commestibles</a></li>
+<li><a href="https://dons.restosducoeur.org/">Faire un don aux Restos du Cœur</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Comme une envie de Tex Avery]]></title>
+    <link href="http://blog.ticabri.com/blog/2013/11/19/comme-une-envie-de-tex-avery/"/>
+    <updated>2013-11-19T12:04:00+01:00</updated>
+    <id>http://blog.ticabri.com/blog/2013/11/19/comme-une-envie-de-tex-avery</id>
+    <content type="html"><![CDATA[<p>À l&#8217;approche des fêtes de fin d&#8217;année, ma mère, enseignante, veut offrir de la culture à ses élèves. Nous sommes en 2013, elle décide donc de leur offrir un dvd de Tex Avery à chacun. Même en ZEP à La Réunion tout le monde a un lecteur dvd à la maison, via un ordinateur, une box internet ou un lecteur de salon. Et Tex Avery c&#8217;est vieux, ça doit être tombé dans le domaine public. Je reçois donc ce mail :</p>
+
+<blockquote><p>Dis-moi, est-il envisageable que je trouve sur le WEB et que je copie des dessins animés de Tex avery pour les graver sur un dvd que j&#8217;offrirai à mes élèves ? Comme ce sont des dessins de 1950 ça devrait être libre de droit et j&#8217;en ai vu sur youtube.</p></blockquote>
+
+
+<p>Tiens, oui, c&#8217;est pas si bête. Qu&#8217;en est-il ?</p>
+
+<!--more-->
+
+
+<h2>Domaine public ?</h2>
+
+<p><img class="right" src="http://upload.wikimedia.org/wikipedia/en/f/fb/Tex_Avery_portrait.jpg" title="© MGM internal publicity" ></p>
+
+<p>J&#8217;ai donc été faire un petit tour pour voir ce qu&#8217;il en était. Ce n&#8217;est pas facile d&#8217;avoir une réponse claire, mais il semble que seuls certains dessins animés de Tex Avery sont dans le domaine public. Mais alors, comment savoir lesquels sont concernés ? J&#8217;ai bien l&#8217;impression que c&#8217;est, là aussi, une question compliquée. Pourtant la loi est claire :</p>
+
+<blockquote><p>Aux États-Unis une œuvre, même inachevée, est créée lorsqu&#8217;elle est fixée matériellement sur un support.<br/>Désormais, toute œuvre créée bénéficie d&#8217;une protection de 70 ans post mortem si le titulaire est une personne physique. En vertu de la loi sur l’extension de la durée du copyright, les entreprises bénéficient d&#8217;une protection de 95 ans à compter de la publication, ou de 120 ans à compter de la création si cette durée est plus longue.</p><footer><strong>fr.wikipedia.org</strong> <cite><a href='http://fr.wikipedia.org/wiki/Droit_d%27auteur#Am.C3.A9rique'>Droit D&#8217;auteur, Amérique</a></cite></footer></blockquote>
+
+
+<p>Les courts-métrages de Tex Avery existent en tant qu&#8217;œuvres en deux exemplaires : la version couleur qui appartient à Turner Entertainment et la version noir et blanc qui appartient toujours à Warner Bros. Cela dit <a href="http://www.ted.com/talks/lang/fr/james_b_glattfelder_who_controls_the_world.html">les deux sociétés appartiennent au même groupe</a> : Time Warner. En revanche quelques courts sont dans le domaine public, bien que les copies originales appartiennent toujours à Warner Bros et Turner Entertainment.</p>
+
+<blockquote><p>Today, the copyrights to all classic color cartoons directed by Avery at Warners and MGM are owned by Turner Entertainment, with Warner Bros. handling distribution. (WB owns the black-and-white cartoons directly.) Turner and WB are both units of Time Warner. The cartoons he directed at the Lantz studio are owned by their original distributors, Universal Studios. A few of Avery&#8217;s WB and MGM shorts are in the public domain, but WB and Turner hold the original film elements.</p><footer><strong>en.wikipedia.org</strong> <cite><a href='http://en.wikipedia.org/wiki/Tex_Avery#Legacy'>Tex Avery, Legacy</a></cite></footer></blockquote>
+
+
+<p><img class="center" src="http://upload.wikimedia.org/wikipedia/fr/3/36/MGM_Logo.jpg" title="© Metro-Goldwyn-Mayer 300" ></p>
+
+<p>On devrait donc pouvoir trouver les courts-métrages de Tex Avery chez nos commerçants préférés. Voyons voir déjà ce que recense <a href="http://www.allocine.fr/personne/fichepersonne-1865/filmographie/">Allocine.com</a>.</p>
+
+<h2>L&#8217;offre commerciale ?</h2>
+
+<p>Allocine recense environ 130 courts-métrages publiés entre 1935 (il y a 78 ans) et 1955 (58 ans). Tex Avery est mort en 1980.</p>
+
+<p>Regardons ce que nous propose le commerce&hellip;</p>
+
+<ul>
+<li>fnac : très difficile à trouver sur fnac.com puisque le site ne fait pas la différence entre &lsquo;Tex&rsquo; et &lsquo;Texas&rsquo; (du coup <a href="http://recherche.fnac.com/SearchResult/ResultList.aspx?SCat=4!1&amp;Search=tex+avery&amp;SFilt=3!28&amp;sft=1&amp;sl=1.1525">la page de recherche est polluée par les dvd de Walker Texas Ranger</a>&hellip;).</li>
+<li>amazon : on retrouve quelques supports en commun avec la fnac.</li>
+</ul>
+
+
+<p>Le coffret Tex Avery semble l&#8217;objet le plus abouti (<a href="http://video.fnac.com/a1465280/Tex-Avery-Edition-Limitee-DVD-Zone-2">fnac</a>, <a href="http://www.amazon.fr/dp/B003XS00II">amazon</a>) : &ldquo;En regroupant 63 dessins animés réalisés par Tex Avery entre 1942 et 1955, Warner redonne (enfin !) vie au bestiaire le plus &#8220;cultissime&rdquo; de l&#8217;histoire du cartoon&#8221;.</p>
+
+<p>Bref, je pense que nous ne pourrons pas aller beaucoup plus loin pour l&#8217;offre commerciale.</p>
+
+<h2>L&#8217;offre gratuite ?</h2>
+
+<p>C&#8217;est à ce moment que j&#8217;ai eu envie de partager cette histoire. Comme je le disais plus haut, nous sommes en 2013 ! Est-ce qu&#8217;en 2013 on peut accèder aux <a href="https://www.google.com/search?q=tex+avery+public+domain">œuvres de Tex Avery disponibles dans le fameux domaine public</a> ?</p>
+
+<p><img src="http://f.cl.ly/items/233U3y0W0y17180P1l3J/Screen%20Shot%202013-11-19%20at%2013.46.00.png" title="Recherche google" ></p>
+
+<p><span class='pullquote-right' data-pullquote='Si c&#8217;est gratuit c&#8217;est que c&#8217;est vous le produit'>
+Les premiers résultats pointent vers la page wikipedia de Tex Avery (ben oui, c&#8217;est google&hellip;) et vers <a href="http://tellmespud.blogspot.com/2011/09/collection-of-public-domain-cartoons.html">le blog d&#8217;un gars qui a publié une liste en 2011</a>. On trouve ensuite des liens vers youtube.com. Œuvres dans le domaine public disponibles sur une plateforme payante&hellip; On ne paye pas sur youtube ? Si c&#8217;est gratuit c&#8217;est que c&#8217;est vous le produit. Et je ne parle même pas de la guerre de tranchées que se livrent free et youtube.
+</span></p>
+
+<p><img class="left" src="http://f.cl.ly/items/2L2d2O1P2h35232w1n40/TexAvery.jpg" width="300"></p>
+
+<p>Sur Google français, les résultats sont un peu différent : une playlist sur dailymotion est disponible. On retrouve aussi <a href="http://www.hooper.fr/forums/manga-animation/les-bons-vieux-tex-avery">un forum sur lequel des passionnés font une liste de leurs Tex Avery préférés</a> qui pointent sur youtube.</p>
+
+<p>Puisqu&#8217;ils sont dans le domaine public on doit pouvoir les enregistrer, les copier sur un dvd et les offrir à des élèves. Mais comment faire pour pomper youtube ? Est-ce autorisé ? Comment avoir accès à une version de bonne qualité ?</p>
+
+<p>Toutes ces questions impliquent d&#8217;<a href="http://lifehacker.com/380702/five-best-dvd-ripping-tools">obscures actions</a> et <a href="http://moult-films.blogspot.com/2012/12/tex-avery-etait-il-raciste.html">réflexions</a> que je n&#8217;entamerai pas ici.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Utiliser Git pour deployer votre site web]]></title>
+    <link href="http://blog.ticabri.com/blog/2013/09/27/utiliser-git-pour-deployer-votre-site-web/"/>
+    <updated>2013-09-27T13:51:00+02:00</updated>
+    <id>http://blog.ticabri.com/blog/2013/09/27/utiliser-git-pour-deployer-votre-site-web</id>
+    <content type="html"><![CDATA[<p>Git est désormais essentiel pour tout développement, y compris pour les sites web.</p>
+
+<p>Pour ce genre de développement web, j&#8217;ai mis en place la configuration suivante :</p>
+
+<ul>
+<li>mes outils de développement sur ma machine physique.</li>
+<li>un hébergement chez gandi qui autorise la publication via git et ssh.</li>
+<li>une machine virtuelle avec LAMP pour le serveur de développement, test ou pré-prod.</li>
+</ul>
+
+
+<p>L&#8217;idée ici est d&#8217;utiliser git pour <em>pusher</em> le site vers les serveurs que ce soit celui de production chez gandi.net ou que ce soit celui de dev sur la machine virtuelle.</p>
+
+<p><a href="http://toroid.org/ams">Abhijit Menon-Sen</a> nous explique comment faire dans <a href="http://toroid.org/ams/git-website-howto">un article en anglais</a>.</p>
+
+<p>Les étapes sont assez simples :</p>
+
+<ul>
+<li>autoriser la connexion ssh entre la machine <em>host</em> et la <em>guest</em> (i.e. la machine virtuelle) ;</li>
+<li>configurer un repository <code>--bare</code> sur la machine <em>guest</em> ;</li>
+<li>configurer un <a href="http://git-scm.com/book/en/Customizing-Git-Git-Hooks">hook git</a></li>
+<li>ajouter un <em>remote</em> pour pouvoir <em>pusher</em></li>
+</ul>
+
+
+<p>Ensuite un simple <code>git push web</code> et c&#8217;est déployer.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[D'autres futurs sont possibles]]></title>
+    <link href="http://blog.ticabri.com/blog/2013/09/18/dautres-futurs-sont-possibles/"/>
+    <updated>2013-09-18T12:48:00+02:00</updated>
+    <id>http://blog.ticabri.com/blog/2013/09/18/dautres-futurs-sont-possibles</id>
+    <content type="html"><![CDATA[<p>Philosophons un peu ce matin avec une infographie trouvée chez <a href="http://www.courrierinternational.com/article/2013/09/17/d-autres-futurs-sont-possibles">courrierinternational</a> (image en grand dans la suite).</p>
+
+<!--more-->
+
+
+<p><img src="http://www.courrierinternational.com/files/2013/Hebdos/1193/Galerie/1193-Info.jpg"></p>
+
+<p>Fruit du travail de l&#8217;artiste et journaliste Jaime Serra (La Vanguardia, Barcelone).</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Start a Simple Web Server]]></title>
+    <link href="http://blog.ticabri.com/blog/2013/08/31/start-simple-web-server/"/>
+    <updated>2013-08-31T00:03:00+02:00</updated>
+    <id>http://blog.ticabri.com/blog/2013/08/31/start-simple-web-server</id>
+    <content type="html"><![CDATA[<p>Je viens de découvrir qu&#8217;il était simplissime de démarrer un petit serveur web sous UNIX avec python.</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>$ cd MyWebSite
+</span><span class='line'>$ python -m SimpleHTTPServer 8000
+</span><span class='line'>Serving HTTP on 0.0.0.0 port 8000 ...
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Il suffit de lancer cette ligne de commande dans le répertoire qui contient votre html/js/css et c&#8217;est tout. Je le note comme ça tout le monde pourra s&#8217;en rappeler, moi le premier.</p>
+
+<p>source: <a href="http://lifehacker.com/start-a-simple-web-server-from-any-directory-on-your-ma-496425450">http://lifehacker.com/start-a-simple-web-server-from-any-directory-on-your-ma-496425450</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Clavier US]]></title>
+    <link href="http://blog.ticabri.com/blog/2013/08/28/clavier-us/"/>
+    <updated>2013-08-28T13:10:00+02:00</updated>
+    <id>http://blog.ticabri.com/blog/2013/08/28/clavier-us</id>
+    <content type="html"><![CDATA[<p>Nouvel ordinateur, nouvelles habitudes : j&#8217;ai acheté un clavier US. Qu&#8217;est-ce que ça change ? Pour les développeurs, à peu prés tout.
+Voici donc les visuels du clavier français classique &ldquo;azerty&rdquo; et du clavier us classique &ldquo;qwerty&rdquo;.</p>
+
+<h4>Clavier FR</h4>
+
+<p><img src="http://km.support.apple.com/library/APPLE/APPLECARE_ALLGEOS/HT2841/French.gif"></p>
+
+<h4>Clavier US</h4>
+
+<p><img src="http://km.support.apple.com/library/APPLE/APPLECARE_ALLGEOS/HT2841/US%20English.gif"></p>
+
+<p>Je vous épargne le jeu des septs erreurs, les principales modifications sont au niveau des touches des lettres accentuées, il n&#8217;y en a pas sur le clavier US. Logique déduction, étant donné qu&#8217;il y a autant de touches sur l&#8217;un et l&#8217;autre, par quoi sont remplacées les touches accentuées ? Par des touches qui n&#8217;auraient jamais du disparaitre du clavier FR comme les accolades ou les crochets, le backslash, etc&hellip; Des touches bien utiles aux développeurs.</p>
+
+<h2>Mais alors comment faire les accents ?</h2>
+
+<p>Je ne sais pas comment ça se passe sous Windows, mais avec Mac OS X, c&#8217;est encore plus facile que sur un clavier français censé être prévu pour.
+Pour les accents graves, c&#8217;est <code>⌥</code> + <code>`</code> suivi de la lettre à accentuer.
+Pour les accents aigus, c&#8217;est <code>⌥</code> + <code>e</code> suivi de la lettre à accentuer,
+Pour les tréma, c&#8217;est <code>⌥</code> + <code>u</code> et pour l&#8217;accent circonflexe, c&#8217;est <code>⌥</code> + <code>i</code>.</p>
+
+<p>Ainsi avec ces combinaisons astucieuses et faciles à prendre en main, il devient un jeu d&#8217;enfants de faire des majuscules accentuées. Évidence !</p>
+
+<p>Pour ce qui est de la disposition des touches <code>a</code>, <code>q</code> ou encore <code>z</code> et <code>w</code> ou la touche <code>m</code>, les habitudes viennent trés vite, d&#8217;autant que si vous êtes développeurs, ça va encore plus vite car on utilise vraiment le clavier et ses raccourcis.</p>
+
+<p>Ce billet pour vous dire : n&#8217;hésitez plus, le clavier US c&#8217;est ce qu&#8217;on fait de mieux. Et si vous devez renouveler votre clavier, alors lisez <a href="http://www.codinghorror.com/blog/2013/08/the-code-keyboard.html">ce billet</a> avant tout (<a href="https://twitter.com/nmartignole">@nmartignole</a> proposera une revue du clavier CODE dans quelques temps).</p>
+
+<div class='embed tweet'><blockquote class="twitter-tweet"><p>New keyboard ordered <a href="http://t.co/3auRPwUxjr">http://t.co/3auRPwUxjr</a> We&#39;ll review and test it on my blog, Touilleur Express.</p>&mdash; Nicolas Martignole (@nmartignole) <a href="https://twitter.com/nmartignole/statuses/372657871768797184">August 28, 2013</a></blockquote>
+<script async src="http://blog.ticabri.com//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[IndieWeb and the Temple of Doom]]></title>
+    <link href="http://blog.ticabri.com/blog/2013/06/30/indieweb-and-the-temple-of-doom/"/>
+    <updated>2013-06-30T15:39:00+02:00</updated>
+    <id>http://blog.ticabri.com/blog/2013/06/30/indieweb-and-the-temple-of-doom</id>
+    <content type="html"><![CDATA[<h2>Hangouts Won’t Hangout With Other</h2>
+
+<p><img class="left" src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Vittala_Temple's_Gopuram.JPG/320px-Vittala_Temple's_Gopuram.JPG" title="Par Aravindreddy.d (Travail personnel) [CC-BY-SA-3.0], via Wikimedia Commons" ></p>
+
+<p>Laurent Eschenauer revient sur les annonces de Google à la conférence annuel Google I/O : <a href="http://eschnou.com/entry/whats-next-google--dropping-smtp-support--62-24930.html">la fin de XMPP chez Hangouts</a>. Le nouveau produit de Google permettant de communiquer avec ses amis abandonne le support du protocole de messagerie instantané XMPP. XMPP faisait partie intégrante de Google Talk depuis plus de dix ans. XMPP permet l&#8217;envoi de messages instantanés entre clients desktop, comme Pidgin, et permet la communication entre les utilisateurs des différents réseaux de messagerie instantanée.</p>
+
+<blockquote><p>Unfortunately, the new product drops support for the XMPP instant messaging protocol, which has been an integral part of Talk for over ten years. XMPP delivers instant messages to desktop clients, like Pidgin, and enables communication between users on different instant messaging networks.</p><footer><strong>Unknown Lamer</strong> <cite><a href='http://tech.slashdot.org/story/13/05/20/2315216/google-drops-xmpp-support'>Google Drops XMPP Support</a></cite></footer></blockquote>
+
+
+<p>Laurent Eschenauer se/nous demande quel est la prochaine étape de Google ? Supprimer le support de SMTP, le protocole des emails (qui permet de la même façon que XMPP de partager des emails à travers différents services reposant sur SMTP) ?</p>
+
+<p>Il illustre son propos en rappelant <a href="http://aaronparecki.com/notes/2013/03/31/2/this-is-what-email-would-have-looked-like">l&#8217;excellente illustration</a> de <a href="https://twitter.com/aaronpk">@aaronpk</a>. Et nous rappelle les solutions possibles pour éviter le pire et rester maitre de ses données et donc de l&#8217;Internet. Parmi celles-ci, je me permets d&#8217;insister sur IndieWeb.</p>
+
+<p><img class="center" src="http://aaronparecki.com/files/want-to-reply-join-gmail.png" title="This is what email would have looked like if it were invented in the Web 2.0 era. Par Aaron Parecki" ></p>
+
+<h2>IndieWeb and the Last Crusade</h2>
+
+<p>J&#8217;avais déjà entendu parler d&#8217;<a href="http://indiewebcamp.com/Main_Page">IndieWebCamp</a> grâce <a href="https://twitter.com/AntoineCezar/status/347689992467922944">aux amis du Code And Coffee</a>. J&#8217;avais alors été voir le site et puis c&#8217;est tout. Maintenant que je suis mieux préparé, j&#8217;ai découvert un lien : Getting Started. On se sent moins perdu, moins idiot quand on a un lien Getting Started. Mais alors, de quoi ça cause ?</p>
+
+<p><img class="center" src="http://indiewebcamp.com/images/a/a6/indiewebcamp_logo.svg" title="IndieWebCamp logo" ></p>
+
+<h3>Première étape : un nom de domaine</h3>
+
+<p>IndieWeb recommande de se faire conseiller un registrar par un ami qui a confiance dans le sien. Je ne vais pas m&#8217;éterniser : <a href="https://www.gandi.net/">no bullshit avec gandi.net</a>. Je vous laisse découvrir pourquoi ils se labellisent dans le <a href="https://www.gandi.net/no-bullshit">no bullshit</a>.</p>
+
+<p>Mais alors pourquoi faire un nom de domaine ?</p>
+
+<h3>Possible étape : personnaliser ses services</h3>
+
+<p>Vous avez un compte blogger ? Un compte wordpress ? IndieWeb vous recommande de personnaliser les adresses à vos services avec votre nom de domaine tout neuf et surtout à vous. C&#8217;est ainsi que désormais vous pouvez retrouver ce blog sur le sous-domaine <a href="http://blog.ticabri.com">blog.ticabri.com</a>.</p>
+
+<p>IndieWeb fait la distinction entre les redirections vers les <a href="http://indiewebcamp.com/silo">silo</a> et les services hébergé. Un silo c&#8217;est facebook, google/google+, flickr, twitter. Un service hébergé c&#8217;est wordpress, blogger ou tumblr qui peuvent être mis en place pour servir votre domaine personnel pour vous. Autrement dit, avec un silo, vous proposez une redirection depuis <a href="http://facebook.ticabri.com">facebook.ticabri.com</a> vers <a href="http://www.facebook.com/ticabri">facebook.com/ticabri</a> et les visiteurs voient alors dans leur navigateur l&#8217;adresse du silo. Avec un service hébergé, vos visiteurs ont l&#8217;impression d&#8217;être chez vous, comme pour blogger.ticabri.com.</p>
+
+<p>Évidemment vos contenus sont quand même hébergé chez un tiers qui peut à tout moment supprimer, perdre, effacer, utiliser vos données.</p>
+
+<h3>Deuxième étape : héberger ses données</h3>
+
+<p><img class="right" src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Toda_Hut.JPG/320px-Toda_Hut.JPG" title="Par Pratheepps [CC-BY-SA-3.0], via Wikimedia Commons" ></p>
+
+<p>Il est clair que vous n&#8217;avez pas les moyens de monter un serveur chez vous : non pas que ce soit trop cher, non pas que ce soit compliqué, mais si vous lisez ça, c&#8217;est que cette solution a déjà été un échec (probablement à cause de la maintenance) ou qu&#8217;elle ne vous est jamais venue à l&#8217;esprit.</p>
+
+<p>Personnellement j&#8217;ai tenté l&#8217;expérience et c&#8217;est quand même pas si pratique que ça. Dans ce cas, dirigez vous vers un provider, un hébergeur. Gandi propose des forfaits d&#8217;hébergement, <a href="https://www.alwaysdata.com/">AlwaysData</a> offre même un hébergement gratuit, pour les autres, je vous laisse faire vos recherches.</p>
+
+<p>Une fois l&#8217;hébergeur sélectionné, le prix payé et les identifiants de connexion obtenus (control panel, ftp, sql), vous pouvez commencer à mettre en place l&#8217;ensemble des solutions proposées par IndieWeb dont la première, importante mais certainement pas finale : un fichier index.html avec votre hCard et les liens vers vos autres profils de réseaux sociaux.</p>
+
+<p>Par la suite, vous transférerez tranquillement vos données vers <a href="http://indiewebcamp.com/Projects">des services auto-hébergés</a>, vous créerez votre propre raccourcisseur d&#8217;url, etc&hellip;</p>
+
+<p><a href="http://indiewebcamp.com/Getting_Started#Web_Hosting">Tous les détails sont fournis par IndieWeb</a> et je ne manquerai pas de faire une petite traduction lorsque j&#8217;en serai moi-même à cette étape.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Zombie Ninjas Attack: A survivor's retrospective]]></title>
+    <link href="http://blog.ticabri.com/blog/2013/05/28/zombie-ninjas-attack-a-survivors-retrospective/"/>
+    <updated>2013-05-28T21:03:00+02:00</updated>
+    <id>http://blog.ticabri.com/blog/2013/05/28/zombie-ninjas-attack-a-survivors-retrospective</id>
+    <content type="html"><![CDATA[<p>ticablog tente une migration sur octopress, un framework pour Jekyll (le générateur de blog pour github). Les premiers pas sont assez faciles à faire tant la documentation est claire et précise.</p>
+
+<h2>Pourquoi ce titre ?!</h2>
+
+<p>C&#8217;est l&#8217;exemple donné dans la documentation pour créer un nouveau billet. Le billet est généré par une ligne de commande :</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>rake new_post["Zombie Ninjas Attack: A survivor's retrospective"]</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Il suffit ensuite d&#8217;écrire son billet en respectant la syntaxe markdown (ou une autre si ça vous chante). Dans le fichier, une petite configuration Yaml permet de définir les quelques meta information du billet : titre, date, catégories, etc.</p>
+
+<p><img class="left" src="http://www.octopress.org/images/logo.png"></p>
+
+<p>Le billet est écrit, il ne reste plus qu&#8217;à générer le code html avec un <code>rake generate</code> puis un <code>rake deploy</code> pour déployer le blog sur github.</p>
+
+<p>Bref, c&#8217;est vraiment sympa comme façon d&#8217;écrire, j&#8217;utilise les mêmes outils que pour travailler et c&#8217;est vraiment très rapide. On verra plus tard pour la customisation et l&#8217;utilisation plus avancée des outils.</p>
+
+<p>Je ne ferai pas la migration des billets de <a href="http://ticabri.blogspot.fr">http://ticabri.blogspot.fr</a> vers octopress tout de suite. Il sera toujours temps plus tard, quand j&#8217;aurai trouvé une méthode raisonnable.</p>
+]]></content>
+  </entry>
+  
+</feed>
