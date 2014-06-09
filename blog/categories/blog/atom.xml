@@ -4,7 +4,7 @@
   <title><![CDATA[Category: blog | ticablog]]></title>
   <link href="http://blog.ticabri.com/blog/categories/blog/atom.xml" rel="self"/>
   <link href="http://blog.ticabri.com/"/>
-  <updated>2014-06-09T13:01:06+02:00</updated>
+  <updated>2014-06-09T15:42:35+02:00</updated>
   <id>http://blog.ticabri.com/</id>
   <author>
     <name><![CDATA[ticabri]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Déployer son site octopress depuis une nouvelle machine]]></title>
+    <link href="http://blog.ticabri.com/blog/2014/06/09/deployer-son-site-octopress-depuis-une-nouvelle-machine/"/>
+    <updated>2014-06-09T13:16:00+02:00</updated>
+    <id>http://blog.ticabri.com/blog/2014/06/09/deployer-son-site-octopress-depuis-une-nouvelle-machine</id>
+    <content type="html"><![CDATA[<p><a href="http://blog.ticabri.com/blog/2013/05/28/zombie-ninjas-attack-a-survivors-retrospective/">Ce blog tourne avec Octopress</a>, un framework pour Jekyll et la mise en ligne d'un nouveau contenu se fait <a href="http://blog.ticabri.com/blog/2013/09/27/utiliser-git-pour-deployer-votre-site-web/">grâce à Git</a>.</p>
+
+<p>Pour autant la stratégie de déploiement des sources de la branche <code>source</code> vers la branche <code>master</code> du repo github utilise un répertoire dans <code>source</code> nommé <code>_deploy</code> dans lequel est stocké tout ce qui va être pushé sur la branche<code>master</code>. Et si vous utilisez plusieurs machines, cela peut vite devenir un cass-tête.</p>
+
+<p>La marche à suivre est pourant simple. Sur la nouvelle machine :</p>
+
+<ul>
+<li>récupérez les sources ;
+<code>
+git clone -b source git@github.com:username/username.github.com.git octopress
+</code></li>
+<li>récupérez l'état à jour de <code>_deploy</code> ;
+<code>
+git clone git@github.com:username/username.github.com.git _deploy
+</code></li>
+<li><em>faites vos modifications</em></li>
+<li>faites un <code>rake generate</code> pour mettre à jour <code>_deploy</code> ;</li>
+<li>pushez vos modifications sur la branche <code>source</code> de github ;</li>
+<li>faites un <code>rake deploy</code> pour envoyer tout ça sur la branche master de github.</li>
+</ul>
+
+
+<p>Toutes ces infos viennent du billet de blog de <a href="http://blog.zerosharp.com/clone-your-octopress-to-blog-from-two-places/">0# (zerosharp)</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[IndieWeb and the Temple of Doom]]></title>
