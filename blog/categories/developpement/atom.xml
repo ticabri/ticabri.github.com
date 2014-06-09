@@ -4,7 +4,7 @@
   <title><![CDATA[Category: développement | ticablog]]></title>
   <link href="http://blog.ticabri.com/blog/categories/developpement/atom.xml" rel="self"/>
   <link href="http://blog.ticabri.com/"/>
-  <updated>2014-04-01T18:05:40+02:00</updated>
+  <updated>2014-06-09T11:44:18+02:00</updated>
   <id>http://blog.ticabri.com/</id>
   <author>
     <name><![CDATA[ticabri]]></name>
@@ -14,18 +14,20 @@
 
   
   <entry>
-    <title type="html"><![CDATA[J'ai la fibre]]></title>
+    <title type="html"><![CDATA[Réveillez la fibre optique qui est en vous]]></title>
     <link href="http://blog.ticabri.com/blog/2013/12/23/jai-la-fibre/"/>
     <updated>2013-12-23T13:54:00+01:00</updated>
     <id>http://blog.ticabri.com/blog/2013/12/23/jai-la-fibre</id>
     <content type="html"><![CDATA[<p><img class="right <a" src="href="http://cl.ly/image/3N3m0H1x1f1B/3182912188.png">http://cl.ly/image/3N3m0H1x1f1B/3182912188.png</a>" title="Speedtest carte réseau Gigabit" ></p>
 
-<p>Le NRA (nœud de raccordement) dans mon quartier est à 3500m, soit 49 dB d’atténuation de signal. Pour l'expliquer à Madame Michu : je téléchargeais en moyenne à 400 ko/s, soit un épisode de The Big Bang Theory (~ 350 Mo) – comment ça Madame Michu ne regarde pas TBBT ? – en 15 minutes. J’aime aussi préciser que malgré le décodeur numérique désigné par Starck, je ne pouvais regarder la tv hd, ni surfer et regarder la tv basse définition – et c’est vraiment moche, impossible de lire ce qui est écrit à l’écran – simultanément. Hâte d'avoir la fibre.</p>
+<p><em>Retour d'expérience sur la fibre optique fraichement installée chez moi.</em></p>
+
+<p>Le NRA (nœud de raccordement) dans le quartier est à 3500m, soit 49 dB d’atténuation de signal. Pour l'expliquer à Madame Michu : je téléchargeais en moyenne à 400 ko/s, soit un épisode de The Big Bang Theory (~ 350 Mo) – comment ça Madame Michu ne regarde pas TBBT ? – en 15 minutes. J’aime aussi préciser que malgré le décodeur numérique designé par Starck, je ne pouvais regarder la tv hd, ni surfer et regarder la tv basse définition simultanément.</p>
 
 <!-- more -->
 
 
-<h2>Ça y est, j’ai la fibre !</h2>
+<h2>La fibre en détails !</h2>
 
 <p>Il faut reprendre quelques habitudes. Cette fois pas de décodeur tv, économie sur la redevance, le temps de cerveau disponible et sur l’abonnement internet. Merci aux forfaits modulables de SFR. Mais est-ce que la technique suit ?</p>
 
