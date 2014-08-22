@@ -3,7 +3,7 @@ layout: post
 title: "Épanouissement technique ?"
 date: 2014-06-09 15:45
 comments: true
-categories: [travai, développement]
+categories: [travail, développement]
 published: false
 ---
 
