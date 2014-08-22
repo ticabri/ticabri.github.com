@@ -153,10 +153,7 @@ ERR
     # Returns string
     #
     def category_links(categories)
-      dir = @context.registers[:site].config['category_dir']
-      categories = categories.sort!.map do |item|
-        "<a class='category' href='/#{dir}/#{item.to_url}/'>#{item}</a>"
-      end
+      categories = categories.sort!.map { |c| category_link c }
 
       case categories.length
       when 0
@@ -166,6 +163,17 @@ ERR
       else
         "#{categories[0...-1].join(', ')}, #{categories[-1]}"
       end
+    end
+
+    # Outputs a single category as an <a> link.
+    #
+    #  +category+ is a category string to format as an <a> link
+    #
+    # Returns string
+    #
+    def category_link(category)
+      dir = @context.registers[:site].config['category_dir']
+      "<a class='category' href='/#{dir}/#{category.to_url}/'>#{category}</a>"
     end
 
     # Outputs the post.date as formatted html, with hooks for CSS styling.
