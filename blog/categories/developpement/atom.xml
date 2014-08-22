@@ -4,7 +4,7 @@
   <title><![CDATA[Category: développement | ticablog]]></title>
   <link href="http://blog.ticabri.com/blog/categories/developpement/atom.xml" rel="self"/>
   <link href="http://blog.ticabri.com/"/>
-  <updated>2014-08-22T16:22:33+02:00</updated>
+  <updated>2014-08-22T16:25:24+02:00</updated>
   <id>http://blog.ticabri.com/</id>
   <author>
     <name><![CDATA[ticabri]]></name>
@@ -12,6 +12,65 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Épanouissement technique ?]]></title>
+    <link href="http://blog.ticabri.com/blog/2014/06/09/epanouissement-technique/"/>
+    <updated>2014-06-09T15:45:00+02:00</updated>
+    <id>http://blog.ticabri.com/blog/2014/06/09/epanouissement-technique</id>
+    <content type="html"><![CDATA[<p>Lors de <a href="http://sudweb.fr/2014/">#SudWeb2014</a>, David Bruant et Pablo Pernot ont fait un <em>happening</em> pour que nous parlions tous ensemble <a href="http://www.areyouagile.com/2014/05/4-malaises-et-un-tres-bon-moment/">d'épanouissement technique</a>.</p>
+
+<p>C'était l'occasion de prendre la parole pour donner son point de vue ou partager ses bonnes pratiques. Mais comme l'explique Pablo, la mayonnaise n'a pas forcément bien pris.</p>
+
+<h2>L'épanouissement avant la technique</h2>
+
+<p>Mon avis est qu'il n'est pas nécessaire d'être à la pointe de la technique pour être épanoui. En revanche il est important de trouver une motivation pour être épanoui. Et il est assez naturel de penser que lorsqu'il y a épanouissement, l'expertise n'est pas bien loin.</p>
+
+<p>Si vous demandez à quelqu'un ce qu'il fait dans la vie, il vous parlera très probablement de son travail rémunéré plutôt que de quelque hobby sur lequel il peut passer nuits et week-ends à travailler. Pourtant c'est dans ce hobby de passionné que notre convive s'épanouit.</p>
+
+<p>Et si vous lui demandez s'il aime son travail ou s'il ne préfèrerait pas être rémunéré pour s'épanouir dans son hobby, la réponse sera très probablement <em>non</em>. Ce qui est bien dommage, mais il n'a pas l'habitude de concevoir le travail comme une activité épanouissante.</p>
+
+<p>Le travail c'est avant tout (au moyen-âge) un engin de torture, le tribalerium. Désormais quand vous parlez de <em>travail</em> à quelqu'un, il aura très vite à l'esprit l'image d'une tâche fatigante, mais nécessaire car rémunérée.</p>
+
+<p>À l'inverse, un hobby ou une passion n'aurait aucune chance d'être rémunérée et il n'est donc pas envisageable d'en faire son travail.</p>
+
+<p>Qu'ils ont de la chance ceux qui peuvent faire de leur passion un travail, pensons-nous tous au fond de nous !</p>
+
+<h2>Le développement informatique comme hobby</h2>
+
+<p>Vous ne connaissez pas le <em>Code Retreat</em> ?</p>
+
+<p>Un samedi, une dizaine de développeurs se retrouvent dans un local prêté par une entreprise pour faire des <em>katas</em>. Ils ne sont pas rémunérés et encore moins obligés, et pourtant à chaque occurrence ils sont nombreux à vouloir participer.</p>
+
+<p>Qu'est-ce qui les motive ? Sont-ils de pompeux barbus qui n'ont aucune vie sociale et qui ne mangent des légumes que lorsqu'ils sont éparpillés sur une pâte à pizza ?</p>
+
+<p>Et bien non.</p>
+
+<p>Ils veulent être techniquement meilleur car ils s'épanouissent dans leur travail. Ils ont potentiellement d'autres passions, mais celle de créer un logiciel répondant à un besoin à partir de quelques lignes de code tapées sur un ordinateur en est une.</p>
+
+<p>Mais alors ils sont tombés dedans quand ils étaient petits ?</p>
+
+<p>Pas forcément. Pour beaucoup, certes. Mais pour la plupart, à mon sens &mdash; aucune statistique pour prouver ma position &mdash;, les choses n'ont pas été forcément évidentes. Alors comment un développeur peut-il devenir un développeur épanoui ?</p>
+
+<h2>Être épanoui techniquement ? Quel intérêt ?</h2>
+
+<p>Comme pour toutes les passions, difficile de savoir ce qui pousse untel à passer du temps à faire quelque chose ?</p>
+
+<p>L'intérêt.</p>
+
+<p>Qu'il soit pécunière, passioné ou culturel, l'intérêt est la clef de la passion et donc de l'épanouissement.</p>
+
+<p>Pour les tâches personnelles, l'intérêt est personnel et facile à trouver. Pour les tâches professionnelles, celles que vous êtes <em>obligé</em> d'accomplir, il est parfois plus difficile à inculquer.</p>
+
+<p>Il y a de nombreuses façons d'intéresser quelqu'un à l'accomplissement d'une tâche, certaines n'apporteront pas forcément l'épanouissement recherché. Posez-lui un flingue sur la tempe, menacez ses proches ou proposez-lui beaucoup d'argent et vous voilà dans un film d'action américain. Ce n'est certainement pas la bonne façon.</p>
+
+<p>Par contre, intéressez-le à ce pourquoi il doit exécuter telle tâche, expliquez-lui l'importance de la réalisation de cette tâche, impliquez-le dans l'ensemble du projet, demandez-lui son avis, son expertise. Vous le verrez alors mettre du coeur à l'ouvrage.</p>
+
+<h2>Du travail à l'artisanat</h2>
+
+<p>Petit à petit, en s'intéressant au pourquoi du comment, il commence à comprendre pourquoi sa tâche est importante. Il ne boulonne plus les boulons à la chaine comme un simple robot mono-tâche [&hellip;]</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Déployer son site octopress depuis une nouvelle machine]]></title>
@@ -182,41 +241,6 @@ Serving HTTP on 0.0.0.0 port 8000 &hellip;</p>
 <p>Il suffit de lancer cette ligne de commande dans le répertoire qui contient votre html/js/css et c'est tout. Je le note comme ça tout le monde pourra s'en rappeler, moi le premier.</p>
 
 <p>source: <a href="http://lifehacker.com/start-a-simple-web-server-from-any-directory-on-your-ma-496425450">http://lifehacker.com/start-a-simple-web-server-from-any-directory-on-your-ma-496425450</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Clavier US]]></title>
-    <link href="http://blog.ticabri.com/blog/2013/08/28/clavier-us/"/>
-    <updated>2013-08-28T13:10:00+02:00</updated>
-    <id>http://blog.ticabri.com/blog/2013/08/28/clavier-us</id>
-    <content type="html"><![CDATA[<p>Nouvel ordinateur, nouvelles habitudes : j'ai acheté un clavier US. Qu'est-ce que ça change ? Pour les développeurs, à peu prés tout.
-Voici donc les visuels du clavier français classique &ldquo;azerty&rdquo; et du clavier us classique &ldquo;qwerty&rdquo;.</p>
-
-<h4>Clavier FR</h4>
-
-<p><img class="<a" src="href="http://km.support.apple.com/library/APPLE/APPLECARE_ALLGEOS/HT2841/French.gif">http://km.support.apple.com/library/APPLE/APPLECARE_ALLGEOS/HT2841/French.gif</a>"></p>
-
-<h4>Clavier US</h4>
-
-<p><img class="<a" src="href="http://km.support.apple.com/library/APPLE/APPLECARE_ALLGEOS/HT2841/US%20English.gif">http://km.support.apple.com/library/APPLE/APPLECARE_ALLGEOS/HT2841/US%20English.gif</a>"></p>
-
-<p>Je vous épargne le jeu des septs erreurs, les principales modifications sont au niveau des touches des lettres accentuées, il n'y en a pas sur le clavier US. Logique déduction, étant donné qu'il y a autant de touches sur l'un et l'autre, par quoi sont remplacées les touches accentuées ? Par des touches qui n'auraient jamais du disparaitre du clavier FR comme les accolades ou les crochets, le backslash, etc&hellip; Des touches bien utiles aux développeurs.</p>
-
-<h2>Mais alors comment faire les accents ?</h2>
-
-<p>Je ne sais pas comment ça se passe sous Windows, mais avec Mac OS X, c'est encore plus facile que sur un clavier français censé être prévu pour.
-Pour les accents graves, c'est <code>⌥</code> + <code>`</code> suivi de la lettre à accentuer.
-Pour les accents aigus, c'est <code>⌥</code> + <code>e</code> suivi de la lettre à accentuer,
-Pour les tréma, c'est <code>⌥</code> + <code>u</code> et pour l'accent circonflexe, c'est <code>⌥</code> + <code>i</code>.</p>
-
-<p>Ainsi avec ces combinaisons astucieuses et faciles à prendre en main, il devient un jeu d'enfants de faire des majuscules accentuées. Évidence !</p>
-
-<p>Pour ce qui est de la disposition des touches <code>a</code>, <code>q</code> ou encore <code>z</code> et <code>w</code> ou la touche <code>m</code>, les habitudes viennent trés vite, d'autant que si vous êtes développeurs, ça va encore plus vite car on utilise vraiment le clavier et ses raccourcis.</p>
-
-<p>Ce billet pour vous dire : n'hésitez plus, le clavier US c'est ce qu'on fait de mieux. Et si vous devez renouveler votre clavier, alors lisez <a href="http://www.codinghorror.com/blog/2013/08/the-code-keyboard.html">ce billet</a> avant tout (<a href="https://twitter.com/nmartignole">@nmartignole</a> proposera une revue du clavier CODE dans quelques temps).</p>
-
-<p><div class='embed tweet'>Tweet could not be processed</div></p>
 ]]></content>
   </entry>
   
