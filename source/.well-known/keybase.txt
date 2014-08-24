@@ -1,0 +1,57 @@
+==================================================================
+https://keybase.io/enguerran
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://blog.ticabri.com
+  * I am enguerran (https://keybase.io/enguerran) on keybase.
+  * I have a public key with fingerprint 4819 B3F0 07CC EB77 65D7  1F6D 7C1D D095 4E84 5BA7
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "4819b3f007cceb7765d71f6d7c1dd0954e845ba7",
+            "host": "keybase.io",
+            "key_id": "7C1DD0954E845BA7",
+            "uid": "5f3f21ed9e8a48dd385b3f71ac006400",
+            "username": "enguerran"
+        },
+        "service": {
+            "hostname": "blog.ticabri.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1396367190,
+    "expire_in": 157680000,
+    "prev": "021148b6d5c98d0f6e7ed06ac42a81da703c1c51e5ad8cb1edf7d68eb4663eb2",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1.4.14 (GNU/Linux)
+
+owE1kV1IFFEUx3ettIxMMCrsg7iUL9o2s/O9q4iuQoFgtGqQxu7M3LvrtDqzzs5u
+iZlBESQiIvlRkSjSg/kQVopuX0ZYlh9liqQP7UOFUBm1iFEvdifsvhzuOb/z/5/D
+adm2wZJgbSgvGoqO9pZaJ0ZXJYvbESurA5IGa4GjDgTQv+BTVD/Sg7qiGsABaJ4U
+JMpHEJwsI4njWAZypI+FnExCSAgMjXiakUQOZIFKLWR2YBlJDCGbouEc/ngUiLOc
+iywoMPlCzOfnmXz4X4HxUT47iaCAeJHmIaR4BvtxpCgTBEsThAmGkK6K1QjTSPWH
+ka6LKqjPAjgdUWRkDm16ryNSlea3GYosSrpik7VqLBDUNUOTtSpcrTSMoMNsNmqD
+Jn0WSZ51HY+kqBAvjxsiSA8pmgocJCZlQzGFSUpgKZYjBSILoHNBRUcexSQYjuUJ
+/EwbFMGShJ0kaV5iISMLPCR8LOIQJFhRpu0iT0KRIyiZlBkSMSLkZQnv7uMgyyOJ
+ZlkKSXZgblajasDB4zFFP5YMKX5VNMI6AvVXrXs3WqwJlsRNCeb5LMlbUv8fdXvV
+ZsvtN2r8ek5u973O1z0dNX/0i3Gh010TmDmx61v8+OBCoGfPs+nM2ZTBIuvSlTPz
+mUWHU6J0162uJzcWB9YssdzYncSKpsxH7+Puwh+X+18EfkajXc3QWzhAtLf/Puha
+Tr22I7wzw53u3JfuXf6aUlxyOvwgadj5sG/k45EPL4f7fxWIX8a9p+zvmhfic29b
+DiWdTGttWyx9NZWTQQ4AZ8XsqDabBoL5NtC41hB0FffN9eRfmGldmdCmQpPZeTMH
+Sl05bVtLQkOrR716+d3vTfPOx0/rYsLnaCPVsRY5fyx7qTu8f/ekUJb8Kbv9UnXz
+eO9IrmN6xT52c+x+UuS56y8=
+=Qdqs
+-----END PGP MESSAGE-----
