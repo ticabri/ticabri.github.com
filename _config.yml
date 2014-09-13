@@ -21,6 +21,7 @@ subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
 email:
+email_md5: 6180cba9de548187a77ebd7b344ada58
 
 # ----------------------- #
 #    Jekyll & Plugins     #
