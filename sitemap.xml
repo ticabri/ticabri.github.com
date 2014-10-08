@@ -4,78 +4,82 @@
         <loc>
             http://blog.ticabri.com/blog/2013/05/28/zombie-ninjas-attack-a-survivors-retrospective/
         </loc>
-        <lastmod>2014-09-13T22:49:30+02:00</lastmod>
+        <lastmod>2014-10-08T09:34:40+02:00</lastmod>
     </url>
     <url>
         <loc>http://blog.ticabri.com/blog/2013/06/30/indieweb-and-the-temple-of-doom/</loc>
-        <lastmod>2014-09-13T22:49:30+02:00</lastmod>
+        <lastmod>2014-10-08T09:34:40+02:00</lastmod>
     </url>
     <url>
         <loc>http://blog.ticabri.com/blog/2013/08/28/clavier-us/</loc>
-        <lastmod>2014-09-13T22:49:09+02:00</lastmod>
+        <lastmod>2014-10-08T09:34:40+02:00</lastmod>
     </url>
     <url>
         <loc>http://blog.ticabri.com/blog/2013/08/31/start-simple-web-server/</loc>
-        <lastmod>2014-09-13T22:49:09+02:00</lastmod>
+        <lastmod>2014-10-08T09:34:40+02:00</lastmod>
     </url>
     <url>
         <loc>http://blog.ticabri.com/blog/2013/09/18/dautres-futurs-sont-possibles/</loc>
-        <lastmod>2014-09-13T22:49:09+02:00</lastmod>
+        <lastmod>2014-10-08T09:34:40+02:00</lastmod>
     </url>
     <url>
         <loc>
             http://blog.ticabri.com/blog/2013/09/27/utiliser-git-pour-deployer-votre-site-web/
         </loc>
-        <lastmod>2014-09-13T22:49:09+02:00</lastmod>
+        <lastmod>2014-10-08T09:34:40+02:00</lastmod>
     </url>
     <url>
         <loc>http://blog.ticabri.com/blog/2013/11/19/comme-une-envie-de-tex-avery/</loc>
-        <lastmod>2014-09-13T22:49:30+02:00</lastmod>
+        <lastmod>2014-10-08T09:34:40+02:00</lastmod>
     </url>
     <url>
         <loc>
             http://blog.ticabri.com/blog/2013/12/04/debarrassons-nous-enfin-des-restaurants-du-coeur/
         </loc>
-        <lastmod>2014-09-13T22:49:09+02:00</lastmod>
+        <lastmod>2014-10-08T09:34:40+02:00</lastmod>
     </url>
     <url>
         <loc>http://blog.ticabri.com/blog/2013/12/04/tout-travail-merite-salaire/</loc>
-        <lastmod>2014-09-13T22:49:09+02:00</lastmod>
+        <lastmod>2014-10-08T09:34:40+02:00</lastmod>
     </url>
     <url>
         <loc>http://blog.ticabri.com/blog/2013/12/23/jai-la-fibre/</loc>
-        <lastmod>2014-09-13T22:49:09+02:00</lastmod>
+        <lastmod>2014-10-08T09:34:40+02:00</lastmod>
     </url>
     <url>
         <loc>
             http://blog.ticabri.com/blog/2014/01/07/nous-nous-occupons-des-gens-qui-en-ont-vraiment-besoin/
         </loc>
-        <lastmod>2014-09-13T22:49:30+02:00</lastmod>
+        <lastmod>2014-10-08T09:34:40+02:00</lastmod>
     </url>
     <url>
         <loc>http://blog.ticabri.com/blog/2014/01/12/la-horde-agile/</loc>
-        <lastmod>2014-09-13T22:49:30+02:00</lastmod>
+        <lastmod>2014-10-08T09:34:40+02:00</lastmod>
     </url>
     <url>
         <loc>
             http://blog.ticabri.com/blog/2014/06/09/deployer-son-site-octopress-depuis-une-nouvelle-machine/
         </loc>
-        <lastmod>2014-09-13T22:49:09+02:00</lastmod>
+        <lastmod>2014-10-08T09:34:40+02:00</lastmod>
     </url>
     <url>
-        <loc>http://blog.ticabri.com/blog/archives/</loc>
-        <lastmod>2014-09-13T22:49:30+02:00</lastmod>
-    </url>
-    <url>
-        <loc>http://blog.ticabri.com/blog/categories/</loc>
-        <lastmod>2014-09-13T22:49:09+02:00</lastmod>
+        <loc>http://blog.ticabri.com/blog/2014/10/08/dans-ton-flux/</loc>
+        <lastmod>2014-10-08T11:55:33+02:00</lastmod>
     </url>
     <url>
         <loc>http://blog.ticabri.com/</loc>
-        <lastmod>2014-09-13T22:49:30+02:00</lastmod>
+        <lastmod>2014-10-08T11:55:33+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.ticabri.com/blog/categories/</loc>
+        <lastmod>2014-10-08T09:34:40+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.ticabri.com/blog/archives/</loc>
+        <lastmod>2014-10-08T11:55:33+02:00</lastmod>
     </url>
     <url>
         <loc>http://blog.ticabri.com/robots.txt</loc>
-        <lastmod>2014-09-13T10:59:36+02:00</lastmod>
+        <lastmod>2014-08-22T15:13:43+02:00</lastmod>
     </url>
 </urlset>

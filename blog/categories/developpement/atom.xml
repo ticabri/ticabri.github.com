@@ -4,7 +4,7 @@
   <title><![CDATA[Category: développement | ticablog]]></title>
   <link href="http://blog.ticabri.com/blog/categories/developpement/atom.xml" rel="self"/>
   <link href="http://blog.ticabri.com/"/>
-  <updated>2014-09-13T22:52:57+02:00</updated>
+  <updated>2014-10-08T11:56:15+02:00</updated>
   <id>http://blog.ticabri.com/</id>
   <author>
     <name><![CDATA[ticabri]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Dans ton flux]]></title>
+    <link href="http://blog.ticabri.com/blog/2014/10/08/dans-ton-flux/"/>
+    <updated>2014-10-08T09:40:00+02:00</updated>
+    <id>http://blog.ticabri.com/blog/2014/10/08/dans-ton-flux</id>
+    <content type="html"><![CDATA[<p>Tout ceux qui ont essayé React et Flux doivent avoir pris connaissance des exemples proposés sur le <a href="https://github.com/facebook/flux/tree/master/examples">github de flux</a>.</p>
+
+<p>Pour rappel, voici l'organisation logicielle que propose Facebook sous le nom de flux.</p>
+
+<p><a href="http://www.toptal.com/front-end/simple-data-flow-in-react-applications-using-flux-and-backbone"><img class="center" src="/images/posts/toptal-blog-image-1412170548235.png" title="source: toptal" ></a></p>
+
+<p>Afin de mieux visualiser les interactions entre les stores et les composants react, voici un schéma des interactions.</p>
+
+<p><a href="/images/posts/flux-chat.png"><img class="center" src="/images/posts/flux-chat.png"></a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Déployer son site octopress depuis une nouvelle machine]]></title>
@@ -182,41 +199,6 @@ Serving HTTP on 0.0.0.0 port 8000 &hellip;</p>
 <p>Il suffit de lancer cette ligne de commande dans le répertoire qui contient votre html/js/css et c'est tout. Je le note comme ça tout le monde pourra s'en rappeler, moi le premier.</p>
 
 <p>source: <a href="http://lifehacker.com/start-a-simple-web-server-from-any-directory-on-your-ma-496425450">http://lifehacker.com/start-a-simple-web-server-from-any-directory-on-your-ma-496425450</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Clavier US]]></title>
-    <link href="http://blog.ticabri.com/blog/2013/08/28/clavier-us/"/>
-    <updated>2013-08-28T13:10:00+02:00</updated>
-    <id>http://blog.ticabri.com/blog/2013/08/28/clavier-us</id>
-    <content type="html"><![CDATA[<p>Nouvel ordinateur, nouvelles habitudes : j'ai acheté un clavier US. Qu'est-ce que ça change ? Pour les développeurs, à peu prés tout.
-Voici donc les visuels du clavier français classique &ldquo;azerty&rdquo; et du clavier us classique &ldquo;qwerty&rdquo;.</p>
-
-<h4>Clavier FR</h4>
-
-<p><img class="<a" src="href="http://km.support.apple.com/library/APPLE/APPLECARE_ALLGEOS/HT2841/French.gif">http://km.support.apple.com/library/APPLE/APPLECARE_ALLGEOS/HT2841/French.gif</a>"></p>
-
-<h4>Clavier US</h4>
-
-<p><img class="<a" src="href="http://km.support.apple.com/library/APPLE/APPLECARE_ALLGEOS/HT2841/US%20English.gif">http://km.support.apple.com/library/APPLE/APPLECARE_ALLGEOS/HT2841/US%20English.gif</a>"></p>
-
-<p>Je vous épargne le jeu des septs erreurs, les principales modifications sont au niveau des touches des lettres accentuées, il n'y en a pas sur le clavier US. Logique déduction, étant donné qu'il y a autant de touches sur l'un et l'autre, par quoi sont remplacées les touches accentuées ? Par des touches qui n'auraient jamais du disparaitre du clavier FR comme les accolades ou les crochets, le backslash, etc&hellip; Des touches bien utiles aux développeurs.</p>
-
-<h2>Mais alors comment faire les accents ?</h2>
-
-<p>Je ne sais pas comment ça se passe sous Windows, mais avec Mac OS X, c'est encore plus facile que sur un clavier français censé être prévu pour.
-Pour les accents graves, c'est <code>⌥</code> + <code>`</code> suivi de la lettre à accentuer.
-Pour les accents aigus, c'est <code>⌥</code> + <code>e</code> suivi de la lettre à accentuer,
-Pour les tréma, c'est <code>⌥</code> + <code>u</code> et pour l'accent circonflexe, c'est <code>⌥</code> + <code>i</code>.</p>
-
-<p>Ainsi avec ces combinaisons astucieuses et faciles à prendre en main, il devient un jeu d'enfants de faire des majuscules accentuées. Évidence !</p>
-
-<p>Pour ce qui est de la disposition des touches <code>a</code>, <code>q</code> ou encore <code>z</code> et <code>w</code> ou la touche <code>m</code>, les habitudes viennent trés vite, d'autant que si vous êtes développeurs, ça va encore plus vite car on utilise vraiment le clavier et ses raccourcis.</p>
-
-<p>Ce billet pour vous dire : n'hésitez plus, le clavier US c'est ce qu'on fait de mieux. Et si vous devez renouveler votre clavier, alors lisez <a href="http://www.codinghorror.com/blog/2013/08/the-code-keyboard.html">ce billet</a> avant tout (<a href="https://twitter.com/nmartignole">@nmartignole</a> proposera une revue du clavier CODE dans quelques temps).</p>
-
-<p><div class='embed tweet'>Tweet could not be processed</div></p>
 ]]></content>
   </entry>
   
