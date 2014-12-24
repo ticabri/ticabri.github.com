@@ -4,7 +4,7 @@
   <title><![CDATA[Category: travail | ticablog]]></title>
   <link href="http://blog.ticabri.com/blog/categories/travail/atom.xml" rel="self"/>
   <link href="http://blog.ticabri.com/"/>
-  <updated>2014-12-24T17:03:21+01:00</updated>
+  <updated>2014-12-24T17:09:44+01:00</updated>
   <id>http://blog.ticabri.com/</id>
   <author>
     <name><![CDATA[ticabri]]></name>
@@ -27,38 +27,52 @@
 <p>S'il n'est pas forcément nécessaire d'être à la pointe de la technique pour être épanoui. Il est important de trouver une motivation pour être épanoui. Et je pense que lorsqu'il y a épanouissement, l'expertise n'est pas bien loin.</p>
 
 <p>Lorsque je rencontre de nouvelles têtes et que nous faisons les présentations, vient souvent la fameuse question : &ldquo;que fais-tu dans la vie ?&rdquo;
-Cette question a deux interprétations possibles :
-1. Quel est ton rôle professionnel dans la société ?
-2. Quelles sont tes passions ?</p>
+Cette question a deux interprétations possibles :</p>
+
+<ol>
+<li>Quel est ton rôle professionnel dans la société ?</li>
+<li>Quelles sont tes passions ?</li>
+</ol>
+
 
 <p>Je dois avouer que peu de gens me répondent en me parlant de leurs hobbies. Passion et travail sont souvent deux catégories bien distinctes et peu peuvent se targuer de les rassembler et ainsi de <strong>s'épanouir au travail</strong>.</p>
 
-<p>Deux corollaires :
-&ndash; Aimez-vous votre travail ?
-&ndash; Seriez-vous prêt à être payé pour pratiquer votre hobby ?</p>
+<p>Deux corollaires :</p>
+
+<ul>
+<li>Aimez-vous votre travail ?</li>
+<li>Seriez-vous prêt à être payé pour pratiquer votre hobby ?</li>
+</ul>
+
 
 <p>Ce qui est bien dommage : on n'a pas l'habitude de concevoir le travail comme une activité épanouissante.
 Le travail c'est avant tout (au moyen-âge) un engin de torture, le tribalerium. Désormais quand vous parlez de <em>travail</em> à quelqu'un, il aura très vite à l'esprit l'image d'une tâche fatigante, mais nécessaire car rémunérée.</p>
 
 <p>À l'inverse, on ne peut que difficilement imaginer qu'un hobby ou une passion puissent être rémunérée et il n'est donc pas envisageable d'en faire son travail.</p>
 
-<h2>Le travail comme hobby</h2>
+<h2>Le travail comme hobby ou les outils de l'épanouissement technique</h2>
 
-<p>On a pris l'habitude de considérer deux champs lexicaux :
-1. travail : sérieux, professionnel, industrialisation, respect
-2. hobby : amusant, amateur, dimanche, décontracté</p>
+<p>On a pris l'habitude de considérer deux champs lexicaux :</p>
 
-<p>D'ailleurs le talk d'Agnès Hasser à SudWeb 2013 avait créé la polémique. Pas en terme de contenu, ce dernier ayant plutôt été reconnu de bonne faction. Mais au sujet du titre : <a href="http://vimeo.com/69882988">Conduite de changement, de l'artisanat à l'industrialisation</a>. Autrement dit : <em>&ldquo;Fini de rigoler, on passe aux choses sérieuses.&rdquo;</em> ou encore <em>&ldquo;Arrête avec tes rustines, on va professionnaliser tout ça.&rdquo;</em>.</p>
+<ol>
+<li>travail : sérieux, professionnel, industrialisation, respect</li>
+<li>hobby : amusant, amateur, dimanche, décontracté</li>
+</ol>
+
+
+<p>D'ailleurs le talk d'<a href="https://twitter.com/tut_tuuut">Agnès Hasser</a> à SudWeb 2013 avait créé la polémique. Pas en terme de contenu, ce dernier ayant plutôt été reconnu de bonne faction. Mais au sujet du titre : <a href="http://vimeo.com/69882988">Conduite de changement, de l'artisanat à l'industrialisation</a>. Autrement dit : <em>&ldquo;Fini de rigoler, on passe aux choses sérieuses.&rdquo;</em> ou encore <em>&ldquo;Arrête avec tes rustines, on va professionnaliser tout ça.&rdquo;</em>.</p>
 
 <p>Je ne crois pas qu'il soit sain d'opposer ces termes. Je ne crois pas qu'il faille forcément distinguer le monde du travail et les loisirs. Je vous laisse vous faire votre propre avis.</p>
 
-<h2>L'épanouissement technique</h2>
-
 <p>Tous vous le diront : <em>c'est en forgeant qu'on devient forgeron</em>. On ne devient pas un expert du jour au lendemain. Il faut passer du temps sur le sujet pour apprendre de ses erreurs et prendre suffisamment de recul pour permettre l'innovation.</p>
 
-<p>Et là encore, de manière générale, on peut distinguer deux cadres d'activités :
-1. le travail pour lequel il faut se forcer.
-2. le hobby pour lequel on ne compte pas ses heures.</p>
+<p>Et là encore, de manière générale, on peut distinguer deux cadres d'activités :</p>
+
+<ol>
+<li>le travail pour lequel il faut se forcer.</li>
+<li>le hobby pour lequel on ne compte pas ses heures.</li>
+</ol>
+
 
 <p>En fait, <a href="http://fr.wikipedia.org/wiki/Douglas_McGregor">Douglas McGregor</a> proposent <a href="http://fr.wikipedia.org/wiki/Th%C3%A9orie_X_et_th%C3%A9orie_Y">deux théories autour du travail</a> qui font étrangement penser à la différence entre un hobby et un travail. Plutôt que de paraphraser wikipedia, je vous laisse en prendre connaissance. (TL;DR) L'idée principale étant que dans la théorie X il faut forcer le travailleur à se mettre à la tâche pendant que dans la théorie Y et grâce à la responsabilisation et à la satisfaction, le travailleur trouve tous les intérêts du monde dans son activité. Cette dernière entraine donc le travailleur dans un cercle virtueux d'épanouissement, contrairement à la première qui enferme le travailleur dans un cercle vicieux.</p>
 
@@ -78,11 +92,15 @@ Le travail c'est avant tout (au moyen-âge) un engin de torture, le tribalerium.
 
 <p>Je ne suis pas tombé dans l'informatique quand j'étais petit. J'ai travaillé pour en faire ma passion afin d'être suffisamment passionné pour en faire mon travail. Et c'est dans cet équilibre que je recherche l'épanouissement technique. Car je suis un passionné.</p>
 
-<p>Si vous voulez vous passionner dans le développement, rien de tel que :
-&ndash; les <a href="https://blog.crafting-labs.fr/?post/2011/11/05/Code-Retreat-Toulouse-3-d%C3%A9cembre">code retreats</a>
-&ndash; les <a href="http://aperoweb-toulouse.github.io/">apéros web</a>
-&ndash; les <a href="http://www.meetup.com/Software-Craftsmanship-Toulouse/">meetups</a>
-&ndash; et bien sûr les conférences comme <a href="http://sudweb.fr/2014/">SudWeb</a></p>
+<p>Si vous voulez vous passionner dans le développement, rien de tel que :</p>
+
+<ul>
+<li>les <a href="https://blog.crafting-labs.fr/?post/2011/11/05/Code-Retreat-Toulouse-3-d%C3%A9cembre">code retreats</a></li>
+<li>les <a href="http://aperoweb-toulouse.github.io/">apéros web</a></li>
+<li>les <a href="http://www.meetup.com/Software-Craftsmanship-Toulouse/">meetups</a></li>
+<li>et bien sûr les conférences comme <a href="http://sudweb.fr/2014/">SudWeb</a></li>
+</ul>
+
 
 <p>À vous de découvrir ce qui se fait proche de chez vous ou en ligne.</p>
 ]]></content>
