@@ -4,7 +4,7 @@
   <title><![CDATA[Category: développement | ticablog]]></title>
   <link href="http://blog.ticabri.com/blog/categories/developpement/atom.xml" rel="self"/>
   <link href="http://blog.ticabri.com/"/>
-  <updated>2014-12-24T17:09:44+01:00</updated>
+  <updated>2015-01-08T10:28:56+01:00</updated>
   <id>http://blog.ticabri.com/</id>
   <author>
     <name><![CDATA[ticabri]]></name>
@@ -271,7 +271,7 @@ Le download sur la meilleure ligne ADSL que j’ai eue est monté à 1,5 Mo/s, s
 </ul>
 
 
-<p>Ensuite un simple <code>git push web</code> et c'est déployer.</p>
+<p>Ensuite un simple <code>git push web</code> et c'est déployé.</p>
 ]]></content>
   </entry>
   
