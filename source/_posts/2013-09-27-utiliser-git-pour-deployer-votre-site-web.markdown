@@ -25,4 +25,4 @@ Les étapes sont assez simples :
 - configurer un [hook git](http://git-scm.com/book/en/Customizing-Git-Git-Hooks)
 - ajouter un _remote_ pour pouvoir _pusher_
 
-Ensuite un simple ```git push web``` et c'est déployer.
+Ensuite un simple ```git push web``` et c'est déployé.
