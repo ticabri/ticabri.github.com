@@ -4,6 +4,7 @@ title: "Se faire insulter"
 date: 2015-01-12 16:18
 comments: true
 categories: philosophie
+published: false
 ---
 
 Mon dernier billet est bourré d'insultes envers les religions. Les insultes envers les religions portent un nom particulier : [le blasphème](http://fr.wiktionary.org/wiki/blasph%C3%A8me). Le Gaffiot nous explique que [_blasphemia_](http://www.lexilogos.com/latin/gaffiot.php?q=blasphemia) est une parole outrageante. On pourrait aussi définir le terme par : _parole irrévérencieuse sur les choses sacrées_. Enfin le Larousse nous dit que l'outrage est [une parole tout à fait contraire à une règle, à un principe](http://www.larousse.fr/dictionnaires/francais/outrage/56942?q=outrage#56612).
