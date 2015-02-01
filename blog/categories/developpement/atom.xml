@@ -4,7 +4,7 @@
   <title><![CDATA[Category: développement | ticablog]]></title>
   <link href="http://blog.ticabri.com/blog/categories/developpement/atom.xml" rel="self"/>
   <link href="http://blog.ticabri.com/"/>
-  <updated>2015-01-09T14:35:07+01:00</updated>
+  <updated>2015-02-01T15:42:44+01:00</updated>
   <id>http://blog.ticabri.com/</id>
   <author>
     <name><![CDATA[ticabri]]></name>
@@ -18,13 +18,13 @@
     <link href="http://blog.ticabri.com/blog/2014/12/24/epanouissement-technique/"/>
     <updated>2014-12-24T17:00:00+01:00</updated>
     <id>http://blog.ticabri.com/blog/2014/12/24/epanouissement-technique</id>
-    <content type="html"><![CDATA[<p>Lors de <a href="http://sudweb.fr/2014/">#SudWeb2014</a>, David Bruant et Pablo Pernot ont fait un <em>happening</em> pour que nous parlions tous ensemble <a href="http://www.areyouagile.com/2014/05/4-malaises-et-un-tres-bon-moment/">d'épanouissement technique</a>.</p>
+    <content type="html"><![CDATA[<p>Lors de <a href="http://sudweb.fr/2014/">#SudWeb2014</a>, David Bruant et Pablo Pernot ont fait un <em>happening</em> pour que nous parlions tous ensemble <a href="http://www.areyouagile.com/2014/05/4-malaises-et-un-tres-bon-moment/">d&#8217;épanouissement technique</a>.</p>
 
-<p>C'était l'occasion de prendre la parole pour donner son point de vue ou partager ses bonnes pratiques. Mais comme <a href="http://www.areyouagile.com/2014/05/4-malaises-et-un-tres-bon-moment/">l'explique Pablo</a>, la mayonnaise n'a pas forcément bien pris.</p>
+<p>C&#8217;était l&#8217;occasion de prendre la parole pour donner son point de vue ou partager ses bonnes pratiques. Mais comme <a href="http://www.areyouagile.com/2014/05/4-malaises-et-un-tres-bon-moment/">l&#8217;explique Pablo</a>, la mayonnaise n&#8217;a pas forcément bien pris.</p>
 
-<h2>L'épanouissement avant la technique</h2>
+<h2>L&#8217;épanouissement avant la technique</h2>
 
-<p>S'il n'est pas forcément nécessaire d'être à la pointe de la technique pour être épanoui. Il est important de trouver une motivation pour être épanoui. Et je pense que lorsqu'il y a épanouissement, l'expertise n'est pas bien loin.</p>
+<p>S&#8217;il n&#8217;est pas forcément nécessaire d&#8217;être à la pointe de la technique pour être épanoui. Il est important de trouver une motivation pour être épanoui. Et je pense que lorsqu&#8217;il y a épanouissement, l&#8217;expertise n&#8217;est pas bien loin.</p>
 
 <p>Lorsque je rencontre de nouvelles têtes et que nous faisons les présentations, vient souvent la fameuse question : &ldquo;que fais-tu dans la vie ?&rdquo;
 Cette question a deux interprétations possibles :</p>
@@ -35,7 +35,7 @@ Cette question a deux interprétations possibles :</p>
 </ol>
 
 
-<p>Je dois avouer que peu de gens me répondent en me parlant de leurs hobbies. Passion et travail sont souvent deux catégories bien distinctes et peu peuvent se targuer de les rassembler et ainsi de <strong>s'épanouir au travail</strong>.</p>
+<p>Je dois avouer que peu de gens me répondent en me parlant de leurs hobbies. Passion et travail sont souvent deux catégories bien distinctes et peu peuvent se targuer de les rassembler et ainsi de <strong>s&#8217;épanouir au travail</strong>.</p>
 
 <p>Deux corollaires :</p>
 
@@ -45,14 +45,14 @@ Cette question a deux interprétations possibles :</p>
 </ul>
 
 
-<p>Ce qui est bien dommage : on n'a pas l'habitude de concevoir le travail comme une activité épanouissante.
-Le travail c'est avant tout (au moyen-âge) un engin de torture, le tribalerium. Désormais quand vous parlez de <em>travail</em> à quelqu'un, il aura très vite à l'esprit l'image d'une tâche fatigante, mais nécessaire car rémunérée.</p>
+<p>Ce qui est bien dommage : on n&#8217;a pas l&#8217;habitude de concevoir le travail comme une activité épanouissante.
+Le travail c&#8217;est avant tout (au moyen-âge) un engin de torture, le tribalerium. Désormais quand vous parlez de <em>travail</em> à quelqu&#8217;un, il aura très vite à l&#8217;esprit l&#8217;image d&#8217;une tâche fatigante, mais nécessaire car rémunérée.</p>
 
-<p>À l'inverse, on ne peut que difficilement imaginer qu'un hobby ou une passion puissent être rémunérée et il n'est donc pas envisageable d'en faire son travail.</p>
+<p>À l&#8217;inverse, on ne peut que difficilement imaginer qu&#8217;un hobby ou une passion puissent être rémunérée et il n&#8217;est donc pas envisageable d&#8217;en faire son travail.</p>
 
-<h2>Le travail comme hobby ou les outils de l'épanouissement technique</h2>
+<h2>Le travail comme hobby ou les outils de l&#8217;épanouissement technique</h2>
 
-<p>On a pris l'habitude de considérer deux champs lexicaux :</p>
+<p>On a pris l&#8217;habitude de considérer deux champs lexicaux :</p>
 
 <ol>
 <li>travail : sérieux, professionnel, industrialisation, respect</li>
@@ -60,13 +60,13 @@ Le travail c'est avant tout (au moyen-âge) un engin de torture, le tribalerium.
 </ol>
 
 
-<p>D'ailleurs le talk d'<a href="https://twitter.com/tut_tuuut">Agnès Hasser</a> à SudWeb 2013 avait créé la polémique. Pas en terme de contenu, ce dernier ayant plutôt été reconnu de bonne faction. Mais au sujet du titre : <a href="http://vimeo.com/69882988">Conduite de changement, de l'artisanat à l'industrialisation</a>. Autrement dit : <em>&ldquo;Fini de rigoler, on passe aux choses sérieuses.&rdquo;</em> ou encore <em>&ldquo;Arrête avec tes rustines, on va professionnaliser tout ça.&rdquo;</em>.</p>
+<p>D&#8217;ailleurs le talk d&#8217;<a href="https://twitter.com/tut_tuuut">Agnès Hasser</a> à SudWeb 2013 avait créé la polémique. Pas en terme de contenu, ce dernier ayant plutôt été reconnu de bonne faction. Mais au sujet du titre : <a href="http://vimeo.com/69882988">Conduite de changement, de l&#8217;artisanat à l&#8217;industrialisation</a>. Autrement dit : <em>&ldquo;Fini de rigoler, on passe aux choses sérieuses.&rdquo;</em> ou encore <em>&ldquo;Arrête avec tes rustines, on va professionnaliser tout ça.&rdquo;</em>.</p>
 
-<p>Je ne crois pas qu'il soit sain d'opposer ces termes. Je ne crois pas qu'il faille forcément distinguer le monde du travail et les loisirs. Je vous laisse vous faire votre propre avis.</p>
+<p>Je ne crois pas qu&#8217;il soit sain d&#8217;opposer ces termes. Je ne crois pas qu&#8217;il faille forcément distinguer le monde du travail et les loisirs. Je vous laisse vous faire votre propre avis.</p>
 
-<p>Tous vous le diront : <em>c'est en forgeant qu'on devient forgeron</em>. On ne devient pas un expert du jour au lendemain. Il faut passer du temps sur le sujet pour apprendre de ses erreurs et prendre suffisamment de recul pour permettre l'innovation.</p>
+<p>Tous vous le diront : <em>c&#8217;est en forgeant qu&#8217;on devient forgeron</em>. On ne devient pas un expert du jour au lendemain. Il faut passer du temps sur le sujet pour apprendre de ses erreurs et prendre suffisamment de recul pour permettre l&#8217;innovation.</p>
 
-<p>Et là encore, de manière générale, on peut distinguer deux cadres d'activités :</p>
+<p>Et là encore, de manière générale, on peut distinguer deux cadres d&#8217;activités :</p>
 
 <ol>
 <li>le travail pour lequel il faut se forcer.</li>
@@ -74,23 +74,23 @@ Le travail c'est avant tout (au moyen-âge) un engin de torture, le tribalerium.
 </ol>
 
 
-<p>En fait, <a href="http://fr.wikipedia.org/wiki/Douglas_McGregor">Douglas McGregor</a> proposent <a href="http://fr.wikipedia.org/wiki/Th%C3%A9orie_X_et_th%C3%A9orie_Y">deux théories autour du travail</a> qui font étrangement penser à la différence entre un hobby et un travail. Plutôt que de paraphraser wikipedia, je vous laisse en prendre connaissance. (TL;DR) L'idée principale étant que dans la théorie X il faut forcer le travailleur à se mettre à la tâche pendant que dans la théorie Y et grâce à la responsabilisation et à la satisfaction, le travailleur trouve tous les intérêts du monde dans son activité. Cette dernière entraine donc le travailleur dans un cercle virtueux d'épanouissement, contrairement à la première qui enferme le travailleur dans un cercle vicieux.</p>
+<p>En fait, <a href="http://fr.wikipedia.org/wiki/Douglas_McGregor">Douglas McGregor</a> proposent <a href="http://fr.wikipedia.org/wiki/Th%C3%A9orie_X_et_th%C3%A9orie_Y">deux théories autour du travail</a> qui font étrangement penser à la différence entre un hobby et un travail. Plutôt que de paraphraser wikipedia, je vous laisse en prendre connaissance. (TL;DR) L&#8217;idée principale étant que dans la théorie X il faut forcer le travailleur à se mettre à la tâche pendant que dans la théorie Y et grâce à la responsabilisation et à la satisfaction, le travailleur trouve tous les intérêts du monde dans son activité. Cette dernière entraine donc le travailleur dans un cercle virtueux d&#8217;épanouissement, contrairement à la première qui enferme le travailleur dans un cercle vicieux.</p>
 
-<p>Qu'il soit pécunière, ludique ou culturel, l'intérêt est la clef de la passion et donc de l'épanouissement.</p>
+<p>Qu&#8217;il soit pécunière, ludique ou culturel, l&#8217;intérêt est la clef de la passion et donc de l&#8217;épanouissement.</p>
 
-<p>Pour les hobbies, l'intérêt, la responsabilité, l'amusement sont personnel et donc facile à trouver.</p>
+<p>Pour les hobbies, l&#8217;intérêt, la responsabilité, l&#8217;amusement sont personnel et donc facile à trouver.</p>
 
-<p>Pour le travail, celui que vous êtes <em>obligé</em> d'accomplir, il est parfois plus difficile à définir puis à inculquer aux collègues et autres collaborateurs.</p>
+<p>Pour le travail, celui que vous êtes <em>obligé</em> d&#8217;accomplir, il est parfois plus difficile à définir puis à inculquer aux collègues et autres collaborateurs.</p>
 
-<h2>Du travail à l'artisanat</h2>
+<h2>Du travail à l&#8217;artisanat</h2>
 
-<p>Nous avons la chance dans le monde du développement informatique d'avoir un métier jeune et donc des habitudes moins ancrées. Ce qui permet à des développeurs d'imaginer et de décrire leurs conditions de travail. Certains, moi compris, souscrivent au Software Craftsmanship, ou comment remettre un peu de sérieux dans un métier qui voulait trop l'être.</p>
+<p>Nous avons la chance dans le monde du développement informatique d&#8217;avoir un métier jeune et donc des habitudes moins ancrées. Ce qui permet à des développeurs d&#8217;imaginer et de décrire leurs conditions de travail. Certains, moi compris, souscrivent au Software Craftsmanship, ou comment remettre un peu de sérieux dans un métier qui voulait trop l&#8217;être.</p>
 
-<p>On pourrait considérer le développement comme un travail d'ingénieur. Mais le rendrait trop sérieux, dans le mauvais sens du terme.</p>
+<p>On pourrait considérer le développement comme un travail d&#8217;ingénieur. Mais le rendrait trop sérieux, dans le mauvais sens du terme.</p>
 
-<p>D'un autre côté, on pourrait qualifier le travail de développeur de la même manière que le travail d'un menuisier ou d'un cuisinier. On trouve d'ailleurs beaucoup de passionnés dans ces métiers. Ils ne comptent pas leurs heures (contrairement à leur entourage), ils s'entrainent pour devenir meilleur, ils peaufinent. Ils ne <em>produisent</em> pas, ils <em>livrent</em>.</p>
+<p>D&#8217;un autre côté, on pourrait qualifier le travail de développeur de la même manière que le travail d&#8217;un menuisier ou d&#8217;un cuisinier. On trouve d&#8217;ailleurs beaucoup de passionnés dans ces métiers. Ils ne comptent pas leurs heures (contrairement à leur entourage), ils s&#8217;entrainent pour devenir meilleur, ils peaufinent. Ils ne <em>produisent</em> pas, ils <em>livrent</em>.</p>
 
-<p>Je ne suis pas tombé dans l'informatique quand j'étais petit. J'ai travaillé pour en faire ma passion afin d'être suffisamment passionné pour en faire mon travail. Et c'est dans cet équilibre que je recherche l'épanouissement technique. Car je suis un passionné.</p>
+<p>Je ne suis pas tombé dans l&#8217;informatique quand j&#8217;étais petit. J&#8217;ai travaillé pour en faire ma passion afin d&#8217;être suffisamment passionné pour en faire mon travail. Et c&#8217;est dans cet équilibre que je recherche l&#8217;épanouissement technique. Car je suis un passionné.</p>
 
 <p>Si vous voulez vous passionner dans le développement, rien de tel que :</p>
 
@@ -113,7 +113,7 @@ Le travail c'est avant tout (au moyen-âge) un engin de torture, le tribalerium.
     <id>http://blog.ticabri.com/blog/2014/10/08/dans-ton-flux</id>
     <content type="html"><![CDATA[<p>Tout ceux qui ont essayé React et Flux doivent avoir pris connaissance des exemples proposés sur le <a href="https://github.com/facebook/flux/tree/master/examples">github de flux</a>.</p>
 
-<p>Pour rappel, voici l'organisation logicielle que propose Facebook sous le nom de flux.</p>
+<p>Pour rappel, voici l&#8217;organisation logicielle que propose Facebook sous le nom de flux.</p>
 
 <p><a href="http://www.toptal.com/front-end/simple-data-flow-in-react-applications-using-flux-and-backbone"><img class="center" src="/images/posts/toptal-blog-image-1412170548235.png" title="source: toptal" ></a></p>
 
@@ -128,7 +128,7 @@ Le travail c'est avant tout (au moyen-âge) un engin de torture, le tribalerium.
     <link href="http://blog.ticabri.com/blog/2014/06/09/deployer-son-site-octopress-depuis-une-nouvelle-machine/"/>
     <updated>2014-06-09T13:16:00+02:00</updated>
     <id>http://blog.ticabri.com/blog/2014/06/09/deployer-son-site-octopress-depuis-une-nouvelle-machine</id>
-    <content type="html"><![CDATA[<p><a href="http://blog.ticabri.com/blog/2013/05/28/zombie-ninjas-attack-a-survivors-retrospective/">Ce blog tourne avec Octopress</a>, un framework pour Jekyll et la mise en ligne d'un nouveau contenu se fait <a href="http://blog.ticabri.com/blog/2013/09/27/utiliser-git-pour-deployer-votre-site-web/">grâce à Git</a>.</p>
+    <content type="html"><![CDATA[<p><a href="http://blog.ticabri.com/blog/2013/05/28/zombie-ninjas-attack-a-survivors-retrospective/">Ce blog tourne avec Octopress</a>, un framework pour Jekyll et la mise en ligne d&#8217;un nouveau contenu se fait <a href="http://blog.ticabri.com/blog/2013/09/27/utiliser-git-pour-deployer-votre-site-web/">grâce à Git</a>.</p>
 
 <p>Pour autant la stratégie de déploiement des sources de la branche <code>source</code> vers la branche <code>master</code> du repo github utilise un répertoire dans <code>source</code> nommé <code>_deploy</code> dans lequel est stocké tout ce qui va être pushé sur la branche<code>master</code>. Et si vous utilisez plusieurs machines, cela peut vite devenir un cass-tête.</p>
 
@@ -139,7 +139,7 @@ Le travail c'est avant tout (au moyen-âge) un engin de torture, le tribalerium.
 <code>
 git clone -b source git@github.com:username/username.github.com.git octopress
 </code></li>
-<li>récupérez l'état à jour de <code>_deploy</code> ;
+<li>récupérez l&#8217;état à jour de <code>_deploy</code> ;
 <code>
 git clone git@github.com:username/username.github.com.git _deploy
 </code></li>
@@ -159,11 +159,11 @@ git clone git@github.com:username/username.github.com.git _deploy
     <link href="http://blog.ticabri.com/blog/2013/12/23/jai-la-fibre/"/>
     <updated>2013-12-23T13:54:00+01:00</updated>
     <id>http://blog.ticabri.com/blog/2013/12/23/jai-la-fibre</id>
-    <content type="html"><![CDATA[<p><img class="right <a" src="href="http://cl.ly/image/3N3m0H1x1f1B/3182912188.png">http://cl.ly/image/3N3m0H1x1f1B/3182912188.png</a>" title="Speedtest carte réseau Gigabit" ></p>
+    <content type="html"><![CDATA[<p><img class="right <a" src="href="http://cl.ly/image/3N3m0H1x1f1B/3182912188.png">http://cl.ly/image/3N3m0H1x1f1B/3182912188.png</a>&#8221; title=&#8221;Speedtest carte réseau Gigabit&#8221; ></p>
 
-<p><em>Retour d'expérience sur la fibre optique fraichement installée chez moi.</em></p>
+<p><em>Retour d&#8217;expérience sur la fibre optique fraichement installée chez moi.</em></p>
 
-<p>Le NRA (nœud de raccordement) dans le quartier est à 3500m, soit 49 dB d’atténuation de signal. Pour l'expliquer à Madame Michu : je téléchargeais en moyenne à 400 ko/s, soit un épisode de The Big Bang Theory (~ 350 Mo) – comment ça Madame Michu ne regarde pas TBBT ? – en 15 minutes. J’aime aussi préciser que malgré le décodeur numérique designé par Starck, je ne pouvais regarder la tv hd, ni surfer et regarder la tv basse définition simultanément.</p>
+<p>Le NRA (nœud de raccordement) dans le quartier est à 3500m, soit 49 dB d’atténuation de signal. Pour l&#8217;expliquer à Madame Michu : je téléchargeais en moyenne à 400 ko/s, soit un épisode de The Big Bang Theory (~ 350 Mo) – comment ça Madame Michu ne regarde pas TBBT ? – en 15 minutes. J’aime aussi préciser que malgré le décodeur numérique designé par Starck, je ne pouvais regarder la tv hd, ni surfer et regarder la tv basse définition simultanément.</p>
 
 <!-- more -->
 
@@ -186,11 +186,11 @@ Le download sur la meilleure ligne ADSL que j’ai eue est monté à 1,5 Mo/s, s
 
 <p>Les débits n’ont absolument rien à voir avec de l’ADSL. Et même si un gros download est très agréable pour télécharger – sur une ligne ADSL de très bonne qualité, le même épisode de The Big Bang Theory ne prendrait que 4 minutes à être téléchargé – la différence se fait surtout sentir sur l’upload. L’upload est le A de ADSL, qui veut dire asymetric, point faible de la technologie ADSL.</p>
 
-<p><img class="center <a" src="href="http://cl.ly/image/3N3m0H1x1f1B/3182912188.png">http://cl.ly/image/3N3m0H1x1f1B/3182912188.png</a>" title="Speedtest carte réseau Gigabit" ></p>
+<p><img class="center <a" src="href="http://cl.ly/image/3N3m0H1x1f1B/3182912188.png">http://cl.ly/image/3N3m0H1x1f1B/3182912188.png</a>&#8221; title=&#8221;Speedtest carte réseau Gigabit&#8221; ></p>
 
 <h2>Bottleneck</h2>
 
-<p>Malheureusement le bottleneck se déplace. Désormais c’est la carte wifi ou le serveur ou le VPN qui limitent les débits. Sur une tablette Nexus 7, on ne dépasse pas les 20 Mbps en download (2,5 Mo/s), <del>via le wifi 802.11n on est limité à 50 Mbps (6,25 Mo/s)</del> le wifi 802.11n a des limites d'environ 100-150 Mbps. En revanche, même sur speedtest, les serveurs ont leurs propres limites et réseaux, aussi il faut regarder les chiffres avec une bonne marge.</p>
+<p>Malheureusement le bottleneck se déplace. Désormais c’est la carte wifi ou le serveur ou le VPN qui limitent les débits. Sur une tablette Nexus 7, on ne dépasse pas les 20 Mbps en download (2,5 Mo/s), <del>via le wifi 802.11n on est limité à 50 Mbps (6,25 Mo/s)</del> le wifi 802.11n a des limites d&#8217;environ 100-150 Mbps. En revanche, même sur speedtest, les serveurs ont leurs propres limites et réseaux, aussi il faut regarder les chiffres avec une bonne marge.</p>
 
 <p>Les limitations du VPN sont évidemment dépendantes de la solution choisie et des positions géographiques des serveurs. Mes tests s’effectuent à travers les serveurs de VyprVPN (ping ; download ; upload) :</p>
 
@@ -248,7 +248,7 @@ Le download sur la meilleure ligne ADSL que j’ai eue est monté à 1,5 Mo/s, s
     <id>http://blog.ticabri.com/blog/2013/09/27/utiliser-git-pour-deployer-votre-site-web</id>
     <content type="html"><![CDATA[<p>Git est désormais essentiel pour tout développement, y compris pour les sites web.</p>
 
-<p>Pour ce genre de développement web, j'ai mis en place la configuration suivante :</p>
+<p>Pour ce genre de développement web, j&#8217;ai mis en place la configuration suivante :</p>
 
 <ul>
 <li>mes outils de développement sur ma machine physique.</li>
@@ -257,7 +257,7 @@ Le download sur la meilleure ligne ADSL que j’ai eue est monté à 1,5 Mo/s, s
 </ul>
 
 
-<p>L'idée ici est d'utiliser git pour <em>pusher</em> le site vers les serveurs que ce soit celui de production chez gandi.net ou que ce soit celui de dev sur la machine virtuelle.</p>
+<p>L&#8217;idée ici est d&#8217;utiliser git pour <em>pusher</em> le site vers les serveurs que ce soit celui de production chez gandi.net ou que ce soit celui de dev sur la machine virtuelle.</p>
 
 <p><a href="http://toroid.org/ams">Abhijit Menon-Sen</a> nous explique comment faire dans <a href="http://toroid.org/ams/git-website-howto">un article en anglais</a>.</p>
 
@@ -271,7 +271,7 @@ Le download sur la meilleure ligne ADSL que j’ai eue est monté à 1,5 Mo/s, s
 </ul>
 
 
-<p>Ensuite un simple <code>git push web</code> et c'est déployé.</p>
+<p>Ensuite un simple <code>git push web</code> et c&#8217;est déployé.</p>
 ]]></content>
   </entry>
   
