@@ -1,25 +1,15 @@
 body {
-  background: #3D4349;
-  font-family: $font-default;
-  background: $color-sidebar;
-  color: #333;
-  font-size: 11px;
 }
 
 ::selection, ::-moz-selection, ::-webkit-selection {
-  background-color: $greyshade;
-  color: $color-background;
 }
 
 #header {
   .subtitle {
-    color: #999;
-    font-style: italic;
   }
   #main-nav {
     .InputAddOn {
       display: flex;
-      line-height: 28px;
       .InputAddOn-field {
         flex: 1;
         /* field styles */
@@ -28,10 +18,6 @@ body {
       }
       .InputAddOn-item {
         /* item styles */
-        background-color: #b09f9a;
-        color: #666;
-        font: inherit;
-        font-weight: 400;
         border: 1px solid rgba(147, 128, 108, .25);
         padding: 0 10px;
       }
@@ -55,18 +41,15 @@ body {
 }
 
 
-
 .container {
   .credit-box {
-    color: #AAA;
-    font-size: .8em;
     a {
-      color: inherit;
       text-decoration: underline;
     }
   }
   .mid-col {
-    background: white;
+    background-color: $white;
+    color: $black;
 
     .mid-col-container {
 
@@ -74,57 +57,59 @@ body {
         article.post {
           padding: 0;
           border: 0;
+          padding-top: 30px;
+          margin-bottom: 30px;
+          h1 {
+            font-family: $font-title;
+            line-height: 1.2em;
+          }
           .entry-content {
             text-align: left;
+            line-height: 1.6em;
+
+            p {
+              margin-top: 15px;
+            }
           }
         }
 
         .indexed {
+          margin-bottom: 30px;
+
           article {
             padding: 0 0 15px 15px;
             margin: 0 0 0 15px;
             border: 0;
-            border-left: 1px solid $color-gray-sidebar;
+            border-left: 1px solid $greyshade-dark;
 
             h1.title {
-              font-size: 17px;
               margin-bottom: 0;
-              line-height: 17px;
-              padding: 15px 0 0 0;
+              padding: 0;
+              font-size: 1.8em;
 
               a {
-                color: $color-sidebar;
+                text-decoration: none;
               }
 
               a:hover {
-                color: $color-gray-sidebar;
+                color: $second-color-dark;
               }
             }
             .entry-content {
-              line-height: 1.4em;
-              font-size: 1.5em;
 
               .more-link:before {
-                line-height: 1.2em;
               }
 
               h2 {
-                font-size: 1.3em;
-                color: #333;
-                font-weight: bold;
               }
 
               blockquote {
-                background: #F7F7F7;
               }
             }
             .meta {
-              color: #555;
               .date::before {
-                color: #555;
               }
               .tags::before {
-                color: #999;
               }
             }
           }
@@ -134,34 +119,38 @@ body {
   }
   .left-col:hover {
     opacity: 1;
-    background-color: $color-sidebar;
+    background: $greyshade;
+
+    #header {
+      hgroup {
+        h2 {
+          color: $second-color-light;
+          transition: color 1s ease-out, opacity .5s ease-out;
+        }
+      }
+    }
   }
   .left-col {
-    color: $color-gray05;
-    font-size: 1.3em;
     opacity: $opacity-sidebar;
-    background-color: $color-gray-sidebar;
     transition: background 1s ease-out, opacity .5s ease-out;
+    background-color: $greyshade-dark;
 
     #header {
       a {
-        color: #EFEFEF;
-        text-shadow: 0 1px #333;
+        text-decoration: none;
       }
       a:hover {
-        color: $greyshade;
+        color: $second-color-light;
       }
 
       hgroup {
         h1 {
-          line-height: initial;
-          font-size: 45px;
         }
 
         h2 {
-          color: #b09f9a;
-          font-size: 11px;
-          line-height: initial;
+          color: $second-color-dark;
+          font-size: 1em;
+          line-height: 20px;
           text-align: justify;
         }
       }
@@ -171,22 +160,21 @@ body {
 
 .archives {
   .title {
-    font-size: 1.2em;
   }
   article {
 
     .meta {
-      line-height: 1.5em;
     }
   }
 }
 
 a {
-  color: $color-sidebar;
+  color: $second-color-dark;
+  text-decoration: underline;
 }
 
 a:hover {
-  color: $color-gray-sidebar;
+  color: $main-color-light;
 }
 
 footer {
