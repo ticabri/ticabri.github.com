@@ -4,7 +4,7 @@
   <title><![CDATA[ticablog]]></title>
   <link href="http://blog.ticabri.com/atom.xml" rel="self"/>
   <link href="http://blog.ticabri.com/"/>
-  <updated>2015-02-01T16:06:56+01:00</updated>
+  <updated>2015-03-07T16:46:01+01:00</updated>
   <id>http://blog.ticabri.com/</id>
   <author>
     <name><![CDATA[ticabri]]></name>
@@ -12,6 +12,91 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Qu'est-ce qu'une équipe agile et comment la former ?]]></title>
+    <link href="http://blog.ticabri.com/blog/2015/03/07/quest-ce-quune-equipe-agile-et-comment-les-former/"/>
+    <updated>2015-03-07T11:41:51+01:00</updated>
+    <id>http://blog.ticabri.com/blog/2015/03/07/quest-ce-quune-equipe-agile-et-comment-les-former</id>
+    <content type="html"><![CDATA[<p>Le texte ci-dessous est la traduction d&#8217;<a href="http://www.leadingagile.com/2015/02/what-is-an-agile-team-and-how-do-you-form-them/">un article de Mike Cottmeyer pour le site leadingagile.com</a> :</p>
+
+<p><img class="center" src="http://blog.ticabri.com/images/11980412393_e13fe2dcdb_z.jpg"></p>
+
+<p>Une équipe agile n’est pas simplement un regroupement aléatoire de personnes. Une équipe agile n’est pas un groupe d’analystes d’affaires faisant un daily standup – réunion quotidienne debout – pour coordonner leur travail. Ce n’est pas non plus un groupe de développeurs qui se réunissent toutes les semaines pour faire des sprint planning – réunions pour entamer une session de travail. Ce n’est pas une équipe de projet avec des gens matricés sur deux ou plusieurs équipes agiles.</p>
+
+<p>Une équipe agile est un groupe inter-fonctionnel de personnes qui ont tout le nécessaire, matériel et humain, pour développer un produit fonctionnel et testé de façon incrémentielle. Ces personnes sont dédiées à l’équipe, et ont comme règle de ne pas changer d’équipe selon les allés et venues.</p>
+
+<p>Je suggère que la définition même d’une équipe agile… un groupe inter-fonctionnel de personnes qui ont tout le nécessaire, matériel et humain, pour développer un produit fonctionnel et testé de façon incrémentielle… tire son besoin dans la formation des équipes agiles, surtout à cause de notre méprise de ce qu’est en fait un produit.</p>
+
+<p>De façon simpliste cette orientation est simple… il s’agit d’un système qui part des interactions de l’utilisateur pour arriver aux données et inversement ainsi que toutes les compétences pour déployer et installer ledit produit en production. De manière générale, former une équipe comme cela n’est pas toujours possible, et aussi souvent que possible, n’est pas souhaitable.</p>
+
+<p>De façon plus globale un produit est en fait un sous-système faisant partie intégrante de systèmes plus larges.</p>
+
+<p>En acceptant cette définition, il devient souvent tout à fait possible de monter un petit groupe inter-fonctionnel de personnes qui ont tout le nécessaire, matériel et humain, pour développer un produit fonctionnel et testé de façon incrémentielle.</p>
+
+<p>L’idée est de s’organiser autour des produits et des fonctionnalités quand c’est possible, et de s’organiser autour des sous-systèmes lorsqu’il y a des fonctionnalités partagées. Nous appelons cela collectivement les capacités entrepreneuriales. Une fois que vous avez compris les capacités entrepreneuriales, vous pouvez aligner les capacités entrepreneuriales avec l’architecture technique et finalement l’architecture organisationnelle.</p>
+
+<p>L’intersection et l&#8217;organisation des architectures entrepreneuriale, technique et organisationnelle apparaissent lorsque vous former un groupe complet inter-fonctionnel de personnes qui ont tout le nécessaire, matériel et humain, pour développer leur partie du produit fonctionnelle et testée de façon incrémentielle.</p>
+
+<p>Puisque vos architectures entrepreneuriale, technique et organisationnelle sont probablement cassées, vous allez avoir des dépendances entre les équipes qui devront être gérer. Pour l’instant.</p>
+
+<p>Au cours du temps, le boulot de l’initiative de transformation est de casser ces dépendances.</p>
+
+<p>Les dépendances sont mauvaises et doivent être cassées.</p>
+
+<p>Plus vous avez à gérer des dépendances, moins vous êtes agiles, point.</p>
+
+<p>Au cours du temps, en cassant ces dépendances, vous pourrez traiter chacune de ces équipes comme des équipes purement et parfaitement agiles.</p>
+
+<p>Tant que vous ne commencez pas à former des équipes qui s’organisent autour des capacités entrepreneuriales et des architectures technique et organisationnelle, et que vous ne faites pas le difficile travail de casser les dépendances… tout ce que vous pourrez faire est d’aller vers du Scrum. Et vous n’aurez jamais la valeur à laquelle prétend l’orientation de votre travail.</p>
+
+<p>Je vous le dis… la raison pour laquelle vous faites de l’agile sans vous sentir agile pour autant est parce que vous n’avez pas ce genre d’équipes et vous avez beaucoup trop de dépendances.</p>
+
+<p>Aucun daily standup ne pourra résoudre le problème.</p>
+
+<p>Une culture agile ne pourra pas faire le travail à votre place.</p>
+
+<p><a href="http://www.leadingagile.com/2015/02/what-is-an-agile-team-and-how-do-you-form-them/">Version originale</a> par <a href="http://www.leadingagile.com/author/mcottmeyer/">Mike Cottmeyer</a> pour <a href="http://www.leadingagile.com">leadingagile.com</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Se faire insulter]]></title>
+    <link href="http://blog.ticabri.com/blog/2015/01/12/se-faire-insulter/"/>
+    <updated>2015-01-12T16:18:00+01:00</updated>
+    <id>http://blog.ticabri.com/blog/2015/01/12/se-faire-insulter</id>
+    <content type="html"><![CDATA[<p>Mon dernier billet est bourré d&#8217;insultes envers les religions et ceux qui les pratiquent. Les insultes envers les religions portent un nom particulier : <a href="http://fr.wiktionary.org/wiki/blasph%C3%A8me">le blasphème</a>. Le Gaffiot nous explique que <a href="http://www.lexilogos.com/latin/gaffiot.php?q=blasphemia"><em>blasphemia</em></a> est une parole outrageante. On pourrait aussi définir le terme par : <em>parole irrévérencieuse sur les choses sacrées</em>. Enfin le Larousse nous dit que l&#8217;outrage est <a href="http://www.larousse.fr/dictionnaires/francais/outrage/56942?q=outrage#56612">une parole tout à fait contraire à une règle, à un principe</a>.</p>
+
+<p>Tout cela revient à dire que le terme, depuis son origine, qualifie des choses qu&#8217;on n&#8217;a pas le droit de dire parce que c&#8217;est comme ça. C&#8217;est un principe, une règle, elle n&#8217;a pas besoin de plus d&#8217;explication ! C&#8217;est sacré !</p>
+
+<p><img class="center" src="http://blog.ticabri.com/images/sex.png" width="320"></p>
+
+<p>Insulter une religion est un blasphème. Les caricatures de Charb ou de Luz sont aussi des blasphèmes. Parce que seuls ceux qui se sentent offensés peuvent caractériser la chose selon qu&#8217;ils décident qu&#8217;elle est un blasphème ou non. Des paroles irrévérencieuses sur les choses sacrées. Sacré nom de Dieu !</p>
+
+<p><img class="center" src="http://blog.ticabri.com/images/billboard-religion-penis-feature.jpg" width="320"></p>
+
+<p>Parmi tant d&#8217;autres déclarations, traine sur la toile <a href="https://www.youtube.com/watch?v=Emyp38OXeWQ">la vidéo d&#8217;un homme ayant visiblement la foi</a> et l&#8217;exprimant probablement au sein d&#8217;une religion puisqu&#8217;il prend la parole en public. Cet homme nous explique que nous n&#8217;avons pas le droit d&#8217;insulter les choses que sa religion considère comme sacrée, il ajoute même que c&#8217;est là la limite à la liberté d&#8217;expression. Cet homme a tort et il confond sa foi et la religion qu&#8217;il pratique.</p>
+
+<p>Voici une retranscription d&#8217;un entretien d&#8217;Abdennour Bidar lors de son passage au Grande Journal du 08 janvier 2015 (le lendemain de l&#8217;attaque de Charlie Hebdo) :</p>
+
+<p><a href="http://www.canalplus.fr/c-divertissement/c-le-grand-journal/pid5411-le-grand-journal.html?progid=1189660">Abdennour Bidar, intretien au Grand Journal 08/01/2015</a>
+C&#8217;est absolument nécessaire, c&#8217;est le test de bonne santé d&#8217;une religion que de savoir faire preuve d&#8217;auto-dérision vis-à-vis d&#8217;elle-même.
+Peut-on rire de tout ?
+Je vais réagir en tant que philosophe. On ne peut pas simplement rire de tout, on doit rire en particulier du sacré. Pourquoi ? Parce que le sacré c&#8217;est ce qui est censé le plus impressionner l&#8217;être humain, ce en face de quoi l&#8217;être humain est censé être complètement tétanisé. Comment faire donc la preuve de la puissance de l&#8217;esprit humain, de la liberté de l&#8217;esprit humain, si ce n&#8217;est en face de ce qui justement est censé nous impressionner le plus. Et ça en tant que philosophe, je suis aussi de culture musulmane, je veux voir un islam qui fait la preuve que justement il a compris qu&#8217;on pouvait avoir un rapport au sacré tout en étant émancipé intérieurement vis-à-vis d&#8217;une relation complètement esclave à ce sacré. Rions du sacré, c&#8217;est une façon de reconnaître sa grandeur. Et le fait que nous les êtres humains, nous sommes fait pour entretenir un rapport libre avec ce qui est censé nous dépasser.</p>
+
+<p>Abdennour Bidar a écrit en octobre 2014 une <a href="http://www.marianne.net/Lettre-ouverte-au-monde-musulman_a241765.html">&ldquo;lettre ouverte au monde musulman&rdquo;</a>.</p>
+
+<p><img class="center" src="http://blog.ticabri.com/images/B_b2-nhUIAEdCn0.png" width="320"></p>
+
+<p>La religion laisse croire qu&#8217;une simple prière absoud des péchés. Cool ! Et ça vaut combien de prières pour avoir descendu avec piété et sans pitié 17 personnes en trois jours ? Mais qui a créé la religion ? Ce sont nos ancêtres et personne d&#8217;autre. Donc finalement un religieux parle et décide à la place de celui qu&#8217;il appelle Dieu ? Il blasphème le bougre, il insulte sa propre foi au nom d&#8217;une religion qu&#8217;en plus il n&#8217;a probablement pas choisie, comme il n&#8217;a pas choisi l&#8217;endroit dans lequel il est né.</p>
+
+<p>La foi accompagne la morale, elle est dans la tête et dans le cœur. Elle éclaire et guide. C&#8217;est cette petite voie que les pratiquants devraient écouter plutôt que celles de ceux qui prétendent défendre une religion. Ta foi n&#8217;a rien à voir avec une religion, ta foi n&#8217;a pas de limites contrairement à une religion. Écoute un peu ton cœur et ouvre-toi l&#8217;esprit.</p>
+
+<p><a href="http://www.nasa.gov/mission_pages/hubble/science/xdf.html"><img class="center" src="http://blog.ticabri.com/images/690957main1_p1237a1-673.jpg" width="800" title="(Credit: NASA; ESA; G. Illingworth, D. Magee, and P. Oesch, University of California, Santa Cruz; R. Bouwens, Leiden University; and the HUDF09 Team)" ></a></p>
+
+<p>Pour continuer à s&#8217;ouvrir l&#8217;esprit, écouter : <a href="http://www.franceinter.fr/emission-service-public-ras-le-bol-des-religions-la-croisade-laique-cest-pour-quand">Service Public : Ras-le-bol des religions : la croisade laïque, c&#8217;est pour quand ? France Inter</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[J'emmerde les religions]]></title>
@@ -412,11 +497,11 @@ Au bout de 6 mois je suis donc convoqué à un entretien avec <strong>une consei
     <link href="http://blog.ticabri.com/blog/2013/12/23/jai-la-fibre/"/>
     <updated>2013-12-23T13:54:00+01:00</updated>
     <id>http://blog.ticabri.com/blog/2013/12/23/jai-la-fibre</id>
-    <content type="html"><![CDATA[<p><img class="right" src="http://cl.ly/image/3N3m0H1x1f1B/3182912188.png" title="Speedtest carte réseau Gigabit" ></p>
+    <content type="html"><![CDATA[<p><img class="right" src="http://www.speedtest.net/result/4195946321.png" title="Speedtest carte réseau Gigabit" ></p>
 
 <p><em>Retour d&#8217;expérience sur la fibre optique fraichement installée chez moi.</em></p>
 
-<p>Le NRA (nœud de raccordement) dans le quartier est à 3500m, soit 49 dB d’atténuation de signal. Pour l&#8217;expliquer à Madame Michu : je téléchargeais en moyenne à 400 ko/s, soit un épisode de The Big Bang Theory (~ 350 Mo) – comment ça Madame Michu ne regarde pas TBBT ? – en 15 minutes. J’aime aussi préciser que malgré le décodeur numérique designé par Starck, je ne pouvais regarder la tv hd, ni surfer et regarder la tv basse définition simultanément.</p>
+<p>Le NRA (nœud de raccordement) dans le quartier est à 3500m, soit 49 dB d’atténuation de signal. Pour l&#8217;expliquer à Madame Michu : je téléchargeais en moyenne à 400 ko/s (<em>~0.4 Mo/s</em>), soit un épisode de The Big Bang Theory (~ 350 Mo) – comment ça Madame Michu ne regarde pas TBBT ? – en 15 minutes. J’aime aussi préciser que malgré le décodeur numérique designé par Starck, je ne pouvais regarder la tv hd, ni surfer et regarder la tv basse définition simultanément.</p>
 
 <!-- more -->
 
@@ -428,63 +513,84 @@ Au bout de 6 mois je suis donc convoqué à un entretien avec <strong>une consei
 <p>On peut le dire ! La fibre offre trois avantages :</p>
 
 <ul>
-<li>un ping resserré à 14 ms</li>
+<li>un ping resserré à 18 ms</li>
 <li>une bande passante descendante à 290 Mbps</li>
 <li>une bande passante montante à 50 Mbps</li>
 </ul>
 
 
 <p>Ces mesures sont prises depuis un ordinateur avec une carte réseau Gigabit branchée à la box par un rj45 Gigabit. C’est vraiment pas mal, surtout pour l’upload : 50 Mbps, ça fait quand même des envois à 6 Mo/s contre 125 ko/s pour une ligne ADSL classique.
-Le download sur la meilleure ligne ADSL que j’ai eue est monté à 1,5 Mo/s, soit du 12 Mbps. Les fournisseurs annoncent tout de même une technologie pouvant atteindre les 20 Mbps, passons.</p>
+Le download sur la meilleure ligne ADSL que j’ai eue est monté à 1,5 Mo/s, soit du 12 Mbps. Les fournisseurs ADSL annoncent tout de même une technologie pouvant atteindre les 20 Mbps, passons.</p>
 
-<p>Les débits n’ont absolument rien à voir avec de l’ADSL. Et même si un gros download est très agréable pour télécharger – sur une ligne ADSL de très bonne qualité, le même épisode de The Big Bang Theory ne prendrait que 4 minutes à être téléchargé – la différence se fait surtout sentir sur l’upload. L’upload est le A de ADSL, qui veut dire asymetric, point faible de la technologie ADSL.</p>
+<p>Les débits n’ont absolument rien à voir avec de l’ADSL. Et même si un gros download est très agréable pour télécharger – sur une ligne ADSL de très bonne qualité, le même épisode de The Big Bang Theory ne prendrait que 4 minutes à être téléchargé – la différence se fait surtout sentir sur l’upload. L’upload est caché dans le A de ADSL, qui veut dire asymetric, point faible de la technologie ADSL.</p>
 
-<p><img class="center" src="http://cl.ly/image/3N3m0H1x1f1B/3182912188.png" title="Speedtest carte réseau Gigabit" ></p>
+<p><img class="center" src="http://www.speedtest.net/result/4195943939.png" title="Speedtest carte réseau Gigabit" ></p>
 
 <h2>Bottleneck</h2>
 
 <p>Malheureusement le bottleneck se déplace. Désormais c’est la carte wifi ou le serveur ou le VPN qui limitent les débits. Sur une tablette Nexus 7, on ne dépasse pas les 20 Mbps en download (2,5 Mo/s), <del>via le wifi 802.11n on est limité à 50 Mbps (6,25 Mo/s)</del> le wifi 802.11n a des limites d&#8217;environ 100-150 Mbps. En revanche, même sur speedtest, les serveurs ont leurs propres limites et réseaux, aussi il faut regarder les chiffres avec une bonne marge.</p>
 
-<p>Les limitations du VPN sont évidemment dépendantes de la solution choisie et des positions géographiques des serveurs. Mes tests s’effectuent à travers les serveurs de VyprVPN (ping ; download ; upload) :</p>
+<p>Les limitations du VPN sont évidemment dépendantes de la solution choisie et des positions géographiques des serveurs. Mes tests s’effectuent à travers les serveurs de PrivateInternetAccess (ping ; download ; upload) :</p>
 
 <table>
 <thead>
 <tr>
 <th>ping    </th>
 <th> download  </th>
-<th> upload  </th>
-<th> lieu              </th>
+<th> upload    </th>
+<th> lieu                  </th>
 <th> speedtest</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>100 ms  </td>
-<td> 22 Mbps   </td>
-<td> 5 Mbps  </td>
-<td> Washington, USA   </td>
-<td> <img src="http://cl.ly/image/1W17191N3I3w/3182943632.png" title="VyprVPN USA" alt="image" /></td>
+<td>18 ms   </td>
+<td> 3.813 Mo/s</td>
+<td> 3.714 Mo/s</td>
+<td> Toulouse, France      </td>
+<td> <img src="http://www.speedtest.net/result/4195902546.png" title="Sans VPN" alt="image" /></td>
 </tr>
 <tr>
-<td>62 ms   </td>
-<td> 12 Mbps   </td>
-<td> 11 Mbps </td>
-<td> Reykjavik, Island </td>
-<td> <img src="http://cl.ly/image/02292G0r2p34/3182947376.png" title="VyprVPN Island" alt="image" /></td>
+<td>31 ms   </td>
+<td> 2.872 Mo/s</td>
+<td> 2.792 Mo/s</td>
+<td> Paris, France         </td>
+<td> <img src="http://www.speedtest.net/result/4195924001.png" title="VPN Paris" alt="image" /></td>
 </tr>
 <tr>
-<td>40 ms   </td>
-<td> 23 Mbps   </td>
-<td> 19 Mbps </td>
-<td> Paris, France     </td>
-<td> <img src="http://cl.ly/image/0c1G2r1h281p/3182950615.png" title="VyprVPN Paris" alt="image" /></td>
+<td>30 ms   </td>
+<td> 0.608 Mo/s</td>
+<td> 2.096 Mo/s</td>
+<td> Amsterdam, Netherlands</td>
+<td> <img src="http://www.speedtest.net/result/4195939338.png" title="VPN Netherlands" alt="image" /></td>
 </tr>
 <tr>
-<td>58 ms   </td>
-<td> 46 Mbps   </td>
-<td> 12 Mbps </td>
-<td> Vienna, Autria    </td>
-<td> <img src="http://cl.ly/image/1U3v2i3a1X1c/3182955706.png" title="VyprVPN Autria" alt="image" /></td>
+<td>170 ms  </td>
+<td> 2.94 Mo/s </td>
+<td> 0.94 Mo/s </td>
+<td> San Jose, California  </td>
+<td> <img src="http://www.speedtest.net/result/4195956371.png" title="Sans VPN California" alt="image" /></td>
+</tr>
+<tr>
+<td>166 ms  </td>
+<td> 0.928 Mo/s</td>
+<td> 0.466 Mo/s</td>
+<td> San Jose, California  </td>
+<td> <img src="http://www.speedtest.net/result/4195934326.png" title="VPN California" alt="image" /></td>
+</tr>
+<tr>
+<td>372 ms  </td>
+<td> 1.93 Mo/s </td>
+<td> 1.32 Mo/s </td>
+<td> Sidney, Australia     </td>
+<td> <img src="http://www.speedtest.net/result/4195950847.png" title="Sans VPN Australia" alt="image" /></td>
+</tr>
+<tr>
+<td>350 ms  </td>
+<td> 0.194 Mo/s</td>
+<td> 0.078 Mo/s</td>
+<td> Sidney, Australia     </td>
+<td> <img src="http://www.speedtest.net/result/4195918955.png" title="VPN Australia" alt="image" /></td>
 </tr>
 </tbody>
 </table>
