@@ -48,4 +48,4 @@ __Alors comment gérer les développeurs ?__
 
 Simple : filez leur de l’autonomie. Ça semble être la panacée, mais le management granuleux est un poison pour le développement logiciel. C’est largement mieux de donner des objectifs globaux et de permettre à vos développeurs de les atteindre comme ils le souhaitent. Parfois ils échoueront ; vous devez faire avec ça. Et ne réagissez pas aux échecs en ajoutant des processus et du contrôle. Travaillez à monter une belle équipe en qui vous pouvez avoir confiance et qui peut contribuer à la réussite plutôt que d’occuper des salles comme des pisseurs de code passifs.
 
-_Le principe d'incertitude d'Heisenberg s'applique également sur les textes : c'est au moment de les publier que vous découvrez les erreurs et fautes qu'il contient. Ainsi merci aux nombreux relecteurs qui m'ont aidé à en diminuer les effets._
+_Le principe d'incertitude d'Heisenberg s'applique également aux textes : c'est au moment de les publier que vous découvrez les erreurs et fautes qu'il contient. Ainsi merci aux nombreux relecteurs qui m'ont aidé à en diminuer les effets._
