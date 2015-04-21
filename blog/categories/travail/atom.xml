@@ -4,7 +4,7 @@
   <title><![CDATA[Category: travail | ticablog]]></title>
   <link href="http://blog.ticabri.com/blog/categories/travail/atom.xml" rel="self"/>
   <link href="http://blog.ticabri.com/"/>
-  <updated>2015-03-07T16:46:01+01:00</updated>
+  <updated>2015-04-21T23:16:01+02:00</updated>
   <id>http://blog.ticabri.com/</id>
   <author>
     <name><![CDATA[ticabri]]></name>
@@ -12,6 +12,57 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Les développeurs Heisenberg]]></title>
+    <link href="http://blog.ticabri.com/blog/2015/04/21/les-developpeurs-heisenberg/"/>
+    <updated>2015-04-21T22:57:53+02:00</updated>
+    <id>http://blog.ticabri.com/blog/2015/04/21/les-developpeurs-heisenberg</id>
+    <content type="html"><![CDATA[<p><em>Introduction</em></p>
+
+<p><em>Ce texte est une traduction de l’article de <strong>Mike Hadlow</strong> intitulée <a href="http://mikehadlow.blogspot.fr/2014/06/heisenberg-developers.html">Heisenberg Developers</a> pour laquelle <a href="https://twitter.com/mikehadlow/status/582805129058992128">il m&#8217;a donné le feu vert</a></em>.</p>
+
+<p><strong>TL;DR</strong> Vous ne pouvez pas observer un développeur sans altérer son comportement.</p>
+
+<p><img class="<a" src="href="http://lh5.ggpht.com/-W7-b0PssM78/U5HXrWQOWCI/AAAAAAAABZc/4Bw-LlzHkPI/image%25255B5%25255D.png?imgmax=800">http://lh5.ggpht.com/-W7-b0PssM78/U5HXrWQOWCI/AAAAAAAABZc/4Bw-LlzHkPI/image%25255B5%25255D.png?imgmax=800</a>&#8221; width=&#8221;320&#8221;></p>
+
+<p><strong>Tout d&#8217;abord, une histoire</strong></p>
+
+<p>Il y a quelques années j&#8217;ai travaillé sur un assez large projet en tant que développeur au sein d&#8217;une équipe. Nous devions construire un système interne pour assister un process métier déjà en place. Au début tout se passait très bien. Les besoins des utilisateurs étaient plutôt bien définis et nous itérions efficacement depuis le backlog – la boite à idées des prochaines fonctionnalités. Nous étions la plupart du temps livrés à nous-mêmes. Nous avions un business owner – le “chef de projet” – non technique et un nombre d&#8217;utilisateurs potentiels pour nous donner les objectifs généraux, et pouvant tester les fonctionnalités lorsqu&#8217;elles étaient implémentées. Lorsque nous considérions que tel bout de code avait besoin d&#8217;un refactoring, nous prenions le temps de le faire. Lorsqu&#8217;un noeud apparaissait nous changions le design pour le faire disparaître. Nous n&#8217;avions pas besoin de demander la permission pour faire quoi que ce soit, tant que les fonctionnalités étaient livrées à intervalle raisonnable, tout le monde était content.</p>
+
+<p>Puis vint cette exigence. Celle qui tente de remplacer des années d&#8217;expérience et d&#8217;intuition d&#8217;un expert par un logiciel. Ce qui avait commencé comme une exigence vague et fumeuse devint bientôt un monstre alors que nous nous y engouffrions de plus en plus. Nous avons essayé de la repousser, ou au moins de repousser sa livraison à une version ultérieure du logiciel sans en annoncer de date précise. Mais non, les responsables du projet était pressant, il la voulait dans la prochaine version. Un collègue vraiment futé pensa que le problème pourrait être résolu avec un DSL (Domain-Specific Language, i.e. le langage spécifique du métier) qui permettrait aux utilisateurs d&#8217;encoder eux-mêmes leurs règles métier, c&#8217;est ainsi qu&#8217;accompagné d&#8217;un autre collègue, ils commencèrent à travailler à son élaboration. Plusieurs mois plus tard, ils travaillaient toujours dessus. Le métier était frustré par l&#8217;absence d&#8217;avancement et les dates de livraison bien définies au départ ont commencé à glisser. C&#8217;était un sacré merdier.</p>
+
+<p>Le patron y jeta un oeil, considéra que nous étions des électrons libres et décida qu&#8217;il fallait redresser le navire. Il embaucha un project manager (PM) à  l’excellent CV et avec la réputation de pouvoir garder sous contrôle les projets capricieux. Il nous a présenté &lsquo;Jira&rsquo;, un mot qui génère la peur dans l&#8217;âme des développeurs. Désormais, plutôt que de prendre une exigence à forte valeur et de l&#8217;implémenter sans date précise de livraison, nous devions découper la fonctionnalité en petites tâches simples, estimer chacune d’elles, puis redécouper celles à trop gros tramage si leur exécution risquait de dépasser la journée. Toutes les deux semaines nous avions une journée consacrée aux réunions permettant de définir ces tâches. Puis durant les 8 jours suivants, nous travaillions sur ces tâches en n&#8217;omettant pas de tenir Jira à jour après chaque tâche en y inscrivant le temps nécessaire à leur exécution. Notre project manager n&#8217;était pas content lorsque l&#8217;exécution effective de la tâche était plus longue que son estimation et il s&#8217;empressait d&#8217;y associer un des membres de l&#8217;équipe pour travailler avec le développeur original afin d&#8217;accélérer son traitement. Nous avons très vite appris à ajouter beaucoup de précaution à nos estimations. Nous étions concentrés sur la livraison. Toute demande pour revoir le design du code et sa maintenance était désapprouvée et notre journée était trop encadrée pour nous permettre de refactorer &lsquo;en douce&rsquo;.</p>
+
+<p>Puis cette chose étrange commença à arriver. Tout se mit à ralentir.</p>
+
+<p>Bien sûr nous ne pouvions rien prouver car il n&#8217;y avait aucune donnée de l’époque ‘pre-PM’ à comparer avec la ‘post-PM’, mais il y avait une diminution sensible de la vitesse de livraison des fonctionnalités. Avec ces calculs montrant que la date de livraison du projet glissait, notre PM n’innova pas et engagea de nouveaux développeurs, je crois que la plupart était d’anciens collègues avec lesquelles il avait travaillé. Nous, l’équipe en place, avions très peu de choses à dire sur les embauches, et il nous a semblé qu&#8217;il y avait un fossé culturel entre nous et les nouveaux. Chaque fois qu’il y avait un débat sur le refactoring du code, ou sur la réflexion autour d&#8217;une fonctionnalité problématique, les nouveaux argumentaient contre, en parlaient comme d’une tour d’ivoire et ne délivraient pas les fonctionnalités. Le PM posait son veto et prenait le parti des nouveaux.</p>
+
+<p>Nous étions devenus en quelque sorte démotivés. Après avoir tenté plusieurs fois d’expliquer comment les choses devaient être faites et être bottés en touche, vous commencez par n’avoir plus que deux choix : abandonner, ne pas argumenter et attendre la paie, ou partir. Notre meilleur développeur, le mec du DSL, est parti, et ceux d’entre nous qui prônaient pour un bon design perdirent un de leur champion en chef. J’ai appris à gonfler mes estimations, faire ce qu’on me disait de faire, et j’ai gardé mon imagination et ma créativité pour mes projets personnels, ceux du soir et du week-end. Ça me paraissait bizarre quand mes nouveaux collègues me disaient aimer réellement le développement, d’ailleurs les discussions dans nos locaux tournaient plus souvent autour des voitures que des langages de programmation. En fait ils semblaient préférer les gestions de projets finement grainées. Comme l’un d’eux me l’a expliqué, “tu prends la prochaine tâche de la liste, tu fais le taf, tu le valides, et tu n’a plus à t’en soucier.” Ça les soulageait des décisions stratégiques ou des visions stratégiques à prendre.</p>
+
+<p>Le projet n’était pas heureux. Les fonctionnalités prenaient de plus en plus de temps à être livrées. Il semblait y avoir de plus en plus de bugs, très peu semblaient être fixés, même avec un nombre croissant de développeurs. L’entreprise dépensait de plus en plus d’argent pour des bénéfices en chute libre.</p>
+
+<p><strong>Pourquoi est-ce autant parti de travers ?</strong></p>
+
+<p>La gestion de projets finement grainée est séduisante pour une entreprise. Toute organisation a besoin de contrôle. Nous voulons savoir ce que peut nous apporter le travail de développeurs si cher payés. Nous voulons être capable d’estimer précisément le temps nécessaire à délivrer un système dans le but de faire une analyse précise du retour sur investissement et de donner à l’entreprise une bonne estimation des dates de livraison. Il y a aussi l’espoir que par la construction d’une base de donnés complète contenant les estimations par rapport à l’effort réel, nous pourrions affiner nos estimations, et par l’analyse de celle-ci trouver des gains d’efficacité dans le développement logiciel.</p>
+
+<p>Le problème avec cette approche c’est qu’elle méconnaît fondamentalement la nature du développement logiciel. Il est un processus créatif et expérimental. Le développement logiciel est un système complexe articulé par de multiples rétroactions et interactions faiblement compréhensibles. C’est un processus organique d’essais et d’erreurs, de faux départs, d’expérimentations et de viandages monumentaux. De nombreuses études ont montré qu’un bon travail créatif est mieux réalisé par des experts autonomes et motivés. En tant que développeurs, nous devons être libres de pouvoir tester des trucs, voir comment ils évoluent, revenir sur de mauvaises décisions, mais aussi tenter plusieurs solutions avant de pouvoir choisir la meilleure. Nous n’avons pas de chiffres précis permettant de justifier telle ou telle décision, ou pourquoi nous devons arrêter cette tâche en plein milieu et jeter tout ce qui a été fait. Nous ne pouvons pas réellement expliquer toutes nos décisions, certaines sont des intuitions, d’autres ne sont pas bonnes.</p>
+
+<p>Si vous me demandez combien de temps il faudrait pour développer cette fonctionnalité, ma réponse la plus honnête est que je n’en sais rien du tout. Je pourrai en avoir une idée précise, mais il y a une telle quantité de petites probabilités, que je pourrai me tromper d’un facteur 10. Qu’en est-il de la fonctionnalité en elle-même ? Est-ce réellement une bonne idée ? Je ne suis pas seulement celui qui va l&#8217;implémenter, j&#8217;en suis aussi le garant. Et s’il y avait une meilleure façon de répondre à ce besoin métier ? Que faire si nous découvrons une meilleure façon de faire en deux fois moins de temps ? Et que faire si je tombe tout à coup sur une technologie ou une technique qui permettent de faire une vraie différence sur le marché pour l’entreprise ? Et que faire si ce n’était pas prévu ?</p>
+
+<p>Dés que vous demandez à un développeur son programme précis pour les 8 prochains jours (ou pire les prochaines semaines ou mois), vous tuez toute créativité et sérendipité. Vous devriez penser qu’il est libre de modifier les estimations ou les tâches à tout moment, il pensera qu’il est redevable d’au moins expliquer ces changements. Plus la tâche est granuleuse, plus vous tuez l’autonomie et la créativité. Peu importe le nombre de fois que vous dites que ça n’a pas d’importance s’il n’atteint pas ses estimations, il se sentira mal. Sa réponse à votre besoin d’estimations prendra deux formes : premièrement il apprendra à surestimer largement, juste au cas où il croise le genre de petits pièges qui parsèment son chemin ; deuxièmement il cherchera le petit hack qui suffira à régler la tâche. Putain de dette technique, ce sera à la prochaine pauvre âme de s’en occuper, je dois atteindre mes estimations. Les bons développeurs ont l’habitude de trouver la justification difficile mais nécessaire de faire du boulot en douce, ils seront effectivement obliger de mentir aux responsables sur ce qu’ils font vraiment, mais le management très fin rend difficile la possibilité de prendre le temps pour faire ce qui doit être fait.</p>
+
+<p>Pour être clair, je ne parle pas pour tout le monde ici. Tous les développeurs ne détestent pas le micro management. Certains sont plus intéressés par la paie que par l’artisanat logiciel. Pour eux, le micro management peut être très attractif. Dés que vous avez compris comment ça marche, vous surestimez et faites le minimum nécessaire, puis vous publiez la fonctionnalité. Si les utilisateurs sont mécontents, que le système est buggé et qu’il ralentit, vous n’aurez rien à vous reprocher, vous avez fait ce qu’on vous a demandé.</p>
+
+<p>Le management fin est une potion magique ‘d’évaporation du talent’. Les personnes qui vivent et respirent le développement vont partir – ils n’ont généralement pas trop de mal à trouver un autre boulot, autre part. Les personnes qui n’aiment pas prendre des décisions et qui ont besoin d’excuses resteront. Vous vous retrouverez entouré d’une équipe conciliante qui suivra gentiment vos instructions, n’argumentera pas sur l’utilité des fonctionnalités, remplira correctement Jira, atteindra ses estimations, et produira un logiciel de très faible qualité.</p>
+
+<p><strong>Alors comment gérer les développeurs ?</strong></p>
+
+<p>Simple : filez leur de l’autonomie. Ça semble être la panacée, mais le management granuleux est un poison pour le développement logiciel. C’est largement mieux de donner des objectifs globaux et de permettre à vos développeurs de les atteindre comme ils le souhaitent. Parfois ils échoueront ; vous devez faire avec ça. Et ne réagissez pas aux échecs en ajoutant des processus et du contrôle. Travaillez à monter une belle équipe en qui vous pouvez avoir confiance et qui peut contribuer à la réussite plutôt que d’occuper des salles comme des pisseurs de code passifs.</p>
+
+<p><em>Le principe d&#8217;incertitude d&#8217;Heisenberg s&#8217;applique également sur les textes : c&#8217;est au moment de les publier que vous découvrez les erreurs et fautes qu&#8217;il contient. Ainsi merci aux nombreux relecteurs qui m&#8217;ont aidé à en diminuer les effets.</em></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Qu'est-ce qu'une équipe agile et comment la former ?]]></title>
@@ -340,51 +391,6 @@ Au bout de 6 mois je suis donc convoqué à un entretien avec <strong>une consei
 <li><a href="http://youtu.be/cqIcOaKAX4k">Inculture(s) 5 : le travail</a> par Scop le Pavé, 2013</li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Tout travail mérite salaire]]></title>
-    <link href="http://blog.ticabri.com/blog/2013/12/04/tout-travail-merite-salaire/"/>
-    <updated>2013-12-04T16:57:00+01:00</updated>
-    <id>http://blog.ticabri.com/blog/2013/12/04/tout-travail-merite-salaire</id>
-    <content type="html"><![CDATA[<p>Dans un entretien au Journal du Dimanche, Cyril Hanouna a fait parler de lui pour avoir déraisonné. Cela dit ce n’est pas la première fois qu’une personne du petit écran déraisonne, mais c’est une bonne occasion pour causer salaire.</p>
-
-<p>On notera également le professionalisme du point qui parle de cet entretien sur son site sans jamais donné un lien vers l&#8217;article d&#8217;origine. Et pour être sûr d&#8217;hameçonner le lecteur, il appose un titre truqué – <a href="http://www.lepoint.fr/ces-gens-la/hanouna-25-000-euros-c-est-tres-peu-01-12-2013-1763746_264.php">Hanouna : 25 000 euros, &ldquo;c&#8217;est peu&rdquo;</a> – alors que la citation dans son contexte est beaucoup plus claire.</p>
-
-<!-- more -->
-
-
-<p><blockquote><p>&ldquo;Je suis animateur et producteur de Touche pas à mon poste mais D8 a fait une bonne affaire. Pour 40.000 euros, elle a une émission qu&#8217;elle peut rediffuser plusieurs fois par jour sans rien payer en plus. Je gagne 25.000 euros par mois. Ça peut paraître beaucoup, mais par rapport à d&#8217;autres animateurs, c&#8217;est très peu. L&#8217;émission génère vraiment de la pub. À la fin du mois, il ne me reste pas grand-chose. Pourtant, rien d&#8217;extraordinaire : je joue au tennis, je ne pars qu&#8217;une fois par an en vacances et j&#8217;achète peu de fringues. Mon seul caprice, c&#8217;est les voitures. Le reste part dans les impôts, l&#8217;appartement près d&#8217;Europe 1 où j&#8217;ai une quotidienne et les nounous. Mais je suis heureux, je m&#8217;éclate. Mon père se demande encore quand je vais trouver un vrai travail.&rdquo;</p><footer><strong>Cyril Hanouna <a href="http://www.lejdd.fr/Medias/Television/Cyril-Hanouna-un-cancre-devenu-culte-641255">http://www.lejdd.fr/Medias/Television/Cyril-Hanouna-un-cancre-devenu-culte-641255</a> Cyril Hanouna</strong> <cite>Un Cancre Devenu Culte</cite></footer></blockquote></p>
-
-<p><a href="http://www.deviantart.com/?offset=34&amp;view_mode=2&amp;order=9&amp;q=wolf+in+tex"><img class="left" src="http://fc03.deviantart.net/fs71/i/2013/227/1/6/tex_avery_s_the_screwy_bugs_bunny_by_insaneasylum123-d6icaah.jpg" width="150" title="Tex Avery&rsquo;s The Screwy Bugs Bunny by InsaneAsylum123" ></a>
-<a href="http://www.rtbf.be/info/monde/detail_initiative-1-12-la-suisse-vote-sur-la-limitation-des-gros-salaires?id=8142395">Les suisses ont refusé</a> de limiter les hauts salaires avec un rapport de 1 à 12. <a href="http://www.jean-luc-melenchon.fr/arguments/taxer-les-riches-avec-le-revenu-maximum-et-le-salaire-maximum/">Le Parti de Gauche propose de limiter les écarts de salaire</a> au sein d’une même entreprise à un rapport de 20.</p>
-
-<p>Il y a 2500 ans, <a href="http://alternatives-economiques.fr/blogs/gadrey/2008/11/17/l%E2%80%99eventail-acceptable-des-revenus-platon-georges-marchais-etc">Platon proposait un rapport de 1 à 4 entre pauvreté et richesse</a>. Si cette idée persiste, c’est peut-être qu’il y a une raison. Cyril Hanouna explique dans son entretien qu’il ne lui reste pas grand chose à la fin du mois malgré 25 000 € empochés en début de chaque mois. Autrement dit, ici encore l’adage est vrai : quand on veut, on peut ! Ou encore quelque soit le revenu d’une personne, elle arrivera toujours à tout dépenser.</p>
-
-<p>Surround your pullquote like this {&#8221; text to be quoted &#8220;}</p>
-
-<p><a href="http://commons.wikimedia.org/wiki/File:Lewis_Hine_Power_house_mechanic_working_on_steam_pump.jpg"><img class="right" src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Lewis_Hine_Power_house_mechanic_working_on_steam_pump.jpg/172px-Lewis_Hine_Power_house_mechanic_working_on_steam_pump.jpg" width="150" title="Photo de Lewis Hine, 1920" ></a></p>
-
-<p>Convaincu ? Intéressé ? Désabusé ? Ulcéré ?</p>
-
-<p>Donc ça vous intéresse. Dans ce cas je vous propose de regarder cette conférence gesticulée de Franck Lepage et Gaël Tanguy. Si vous ne connaissez pas encore Franck Lepage, c’est lui qui fait <a href="http://youtu.be/oNJo-E4MEk8">ça</a>. Ils abordent tout un tas de sujet autour du travail – la vidéo dure 2h30 – de la <a href="http://youtu.be/cqIcOaKAX4k?t=52m49s">feuille de salaire</a>, aux <a href="http://youtu.be/cqIcOaKAX4k?t=1h33m7s">syndicats</a> en passant par le <a href="http://youtu.be/cqIcOaKAX4k?t=2h11m00s">salaire</a> et le <a href="http://youtu.be/cqIcOaKAX4k?t=2h11m52s">salaire jeune</a> et les <a href="http://youtu.be/cqIcOaKAX4k?t=2h11m52s">retraites</a>. J&#8217;ai mis des marques-frame en lien, vous pouvez retrouver la vidéo en entier juste en dessous de l&#8217;article.</p>
-
-<p>Dans cette vidéo, ils nous expliquent ce que sont le travail libre et le travail subordonné. Au passage vous savez forcément d’où vient le mot travail. L’article wikipedia nous raconte.</p>
-
-<p>Surround your pullquote like this {&#8221; text to be quoted &#8220;}</p>
-
-<p>Autre proposition à la mode autour des rémunérations : le revenu de base. La NSA (qui écoute tout le monde) a d’ailleurs retrouvé une communication téléphonique bien intéressante.</p>
-
-<p><blockquote><p>Le revenu de base est un droit inaliénable, inconditionnel, cumulable avec d’autres revenus, distribué par une communauté politique à tous ses membres, de la naissance à la mort, sur base individuelle, sans contrôle des ressources ni exigence de contrepartie, dont le montant et le financement sont ajustés démocratiquement.</p><footer><strong>Définition du Mouvement Français <a href="http://revenudebase.info/comprendre-le-revenu-de-base/">http://revenudebase.info/comprendre-le-revenu-de-base/</a> le revenu de base</strong></footer></blockquote></p>
-
-<h5>Inculture(s) 5 : le travail</h5>
-
-<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/cqIcOaKAX4k "></iframe></div></p>
-
-<h5>Le revenu de base c&#8217;est aussi un cadeau</h5>
-
-<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/RYk8axLqCKQ "></iframe></div></p>
 ]]></content>
   </entry>
   
