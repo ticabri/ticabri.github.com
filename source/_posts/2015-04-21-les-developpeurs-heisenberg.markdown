@@ -10,7 +10,7 @@ _Introduction_
 
 _Ce texte est une traduction de l’article de __Mike Hadlow__ intitulée [Heisenberg Developers](http://mikehadlow.blogspot.fr/2014/06/heisenberg-developers.html) pour laquelle [il m'a donné le feu vert](https://twitter.com/mikehadlow/status/582805129058992128)_.
 
-__TL;DR__ Vous ne pouvez pas observer un développeur sans altérer son comportement.
+__TL;DR__ Vous ne pouvez pas observer un développeur sans en altérer son comportement.
 
 {% img http://lh5.ggpht.com/-W7-b0PssM78/U5HXrWQOWCI/AAAAAAAABZc/4Bw-LlzHkPI/image%25255B5%25255D.png?imgmax=800 320 %}
 
