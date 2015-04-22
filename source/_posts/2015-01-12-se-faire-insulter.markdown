@@ -31,7 +31,17 @@ Abdennour Bidar a écrit en octobre 2014 une ["lettre ouverte au monde musulman"
 
 La religion laisse croire qu'une simple prière absoud des péchés. Cool ! Et ça vaut combien de prières pour avoir descendu avec piété et sans pitié 17 personnes en trois jours ? Mais qui a créé la religion ? Ce sont nos ancêtres et personne d'autre. Donc finalement un religieux parle et décide à la place de celui qu'il appelle Dieu ? Il blasphème le bougre, il insulte sa propre foi au nom d'une religion qu'en plus il n'a probablement pas choisie, comme il n'a pas choisi l'endroit dans lequel il est né.
 
-La foi accompagne la morale, elle est dans la tête et dans le cœur. Elle éclaire et guide. C'est cette petite voie que les pratiquants devraient écouter plutôt que celles de ceux qui prétendent défendre une religion. Ta foi n'a rien à voir avec une religion, ta foi n'a pas de limites contrairement à une religion. Écoute un peu ton cœur et ouvre-toi l'esprit.
+La foi accompagne la morale, elle est dans la tête et dans le cœur. Elle éclaire et guide. C'est cette petite voix que les pratiquants devraient écouter plutôt que celles de ceux qui prétendent défendre une religion. Ta foi n'a rien à voir avec une religion, ta foi n'a pas de limites contrairement à une religion. Écoute un peu ton cœur et ouvre-toi l'esprit.
+
+À lire :
+
++ [« Charlie », Dieudonné… : quelles limites à la liberté d'expression ?](http://www.lemonde.fr/les-decodeurs/article/2015/01/14/de-charlie-a-dieudonne-jusqu-ou-va-la-liberte-d-expression_4555180_4355770.html)
++ [Loi de défense de la liberté d'expression](http://seenthis.net/messages/330853)
++ [Mon dialogue avec les élèves à propos de Charlie Hebdo](http://blogs.rue89.nouvelobs.com/monsieur-le-prof/2015/01/14/mon-dialogue-avec-les-eleves-propos-de-charlie-hebdo-234073)
++ [Mon dialogue avec les élèves à propos de Charlie Hebdo](https://n.survol.fr/n/mon-dialogue-avec-les-eleves-a-propos-de-charlie-hebdo)
++ [Le désarroi d'une prof qui parle de "Charlie" à ses élèves](http://www.lepoint.fr/societe/le-desarroi-d-une-prof-qui-parle-de-charlie-a-ses-eleves-09-01-2015-1895173_23.php)
++ [Les insultes au travail](http://www.juritravail.com/Actualite/Convention-collective-Reglement-Interieur/Id/73601)
++ [Ce que vous risquez si vous insultez votre boss](http://www.lexpress.fr/emploi/gestion-carriere/ce-que-vous-risquez-si-vous-insultez-votre-boss_921369.html)
 
 [{% img center /images/690957main1_p1237a1-673.jpg 800 (Credit: NASA; ESA; G. Illingworth, D. Magee, and P. Oesch, University of California, Santa Cruz; R. Bouwens, Leiden University; and the HUDF09 Team) %}](http://www.nasa.gov/mission_pages/hubble/science/xdf.html)
 
