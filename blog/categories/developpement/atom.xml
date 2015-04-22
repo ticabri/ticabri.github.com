@@ -4,7 +4,7 @@
   <title><![CDATA[Category: développement | ticablog]]></title>
   <link href="http://blog.ticabri.com/blog/categories/developpement/atom.xml" rel="self"/>
   <link href="http://blog.ticabri.com/"/>
-  <updated>2015-04-22T09:12:13+02:00</updated>
+  <updated>2015-04-22T09:17:07+02:00</updated>
   <id>http://blog.ticabri.com/</id>
   <author>
     <name><![CDATA[ticabri]]></name>
@@ -36,7 +36,7 @@
 
 <p>Puis cette chose étrange commença à arriver. Tout se mit à ralentir.</p>
 
-<p>Bien sûr nous ne pouvions rien prouver car il n&#8217;y avait aucune donnée de l’époque ‘pre-PM’ à comparer avec la ‘post-PM’, mais il y avait une diminution sensible de la vitesse de livraison des fonctionnalités. Avec ces calculs montrant que la date de livraison du projet glissait, notre PM n’innova pas et engagea de nouveaux développeurs, je crois que la plupart étaient d’anciens collègues avec lesquelles il avait travaillé. Nous, l’équipe en place, avions très peu de choses à dire sur les embauches, et il nous a semblé qu&#8217;il y avait un fossé culturel entre nous et les nouveaux. Chaque fois qu’il y avait un débat sur le refactoring du code, ou sur la réflexion autour d&#8217;une fonctionnalité problématique, les nouveaux argumentaient contre, en parlaient comme d’une tour d’ivoire et ne délivraient pas les fonctionnalités. Le PM posait son veto et prenait le parti des nouveaux.</p>
+<p>Bien sûr nous ne pouvions rien prouver car il n&#8217;y avait aucune donnée de l’époque ‘pre-PM’ à comparer avec la ‘post-PM’, mais il y avait une diminution sensible de la vitesse de livraison des fonctionnalités. Avec ces calculs montrant que la date de livraison du projet glissait, notre PM n’innova pas et engagea de nouveaux développeurs, je crois que la plupart étaient d’anciens collègues avec lesquels il avait travaillé. Nous, l’équipe en place, avions très peu de choses à dire sur les embauches, et il nous a semblé qu&#8217;il y avait un fossé culturel entre nous et les nouveaux. Chaque fois qu’il y avait un débat sur le refactoring du code, ou sur la réflexion autour d&#8217;une fonctionnalité problématique, les nouveaux argumentaient contre, en parlaient comme d’une tour d’ivoire et ne délivraient pas les fonctionnalités. Le PM posait son veto et prenait le parti des nouveaux.</p>
 
 <p>Nous étions devenus en quelque sorte démotivés. Après avoir tenté plusieurs fois d’expliquer comment les choses devaient être faites et être bottés en touche, vous commencez par n’avoir plus que deux choix : abandonner, ne pas argumenter et attendre la paie, ou partir. Notre meilleur développeur, le mec du DSL, est parti, et ceux d’entre nous qui prônaient pour un bon design perdirent un de leur champion en chef. J’ai appris à gonfler mes estimations, faire ce qu’on me disait de faire, et j’ai gardé mon imagination et ma créativité pour mes projets personnels, ceux du soir et du week-end. Ça me paraissait bizarre quand mes nouveaux collègues me disaient aimer réellement le développement, d’ailleurs les discussions dans nos locaux tournaient plus souvent autour des voitures que des langages de programmation. En fait ils semblaient préférer les gestions de projets finement grainées. Comme l’un d’eux me l’a expliqué, “tu prends la prochaine tâche de la liste, tu fais le taf, tu le valides, et tu n’a plus à t’en soucier.” Ça les soulageait des décisions stratégiques ou des visions stratégiques à prendre.</p>
 
