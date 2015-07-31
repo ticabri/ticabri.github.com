@@ -4,7 +4,7 @@
   <title><![CDATA[Category: développement | ticablog]]></title>
   <link href="http://blog.ticabri.com/blog/categories/developpement/atom.xml" rel="self"/>
   <link href="http://blog.ticabri.com/"/>
-  <updated>2015-07-31T16:59:30+02:00</updated>
+  <updated>2015-07-31T17:15:11+02:00</updated>
   <id>http://blog.ticabri.com/</id>
   <author>
     <name><![CDATA[ticabri]]></name>
@@ -29,10 +29,10 @@ de l&#8217;entreprise. <a href="https://www.youtube.com/watch?v=Gzj723LkRJY">Il 
 
 <p><strong>Une grosse partie du succès de Rails dans le monde des startups vient d&#8217;une simple fait : les problèmes que rencontrent les entreprises ne sont pas uniques</strong>. Rails était très efficace pour créer des sites <a href="https://en.wikipedia.org/wiki/Create,_read,_update_and_delete">CRUD</a>, tout en restant flexible. Et c&#8217;est là un des besoins les plus rencontrés par les entreprises. Surtout au début.</p>
 
-<p>Mais ce n&#8217;est pas vrai seulement pour les entreprises. <strong>Beaucoup de problèmes que nous rencontrons en tant que développeurs de logiciel ne change pas</strong>.
+<p>Mais ce n&#8217;est pas vrai seulement pour les entreprises. <strong>Beaucoup de problèmes que nous rencontrons en tant que développeurs de logiciel ne changent pas</strong>.
 Bien sûr les solutions évoluent. Elles bouclent. Nous nous améliorons.
 Mais les mêmes solutions découvertes par la dernière génération de
-développeurs peut toujours nous aider aujourd&#8217;hui.</p>
+développeurs peuvent toujours nous aider aujourd&#8217;hui.</p>
 
 <p>Donc, voulez-vous savoir les réponses aux problèmes que vous rencontrerez
 dans le futur ? La meilleure chose que vous pouvez faire est de regarder
