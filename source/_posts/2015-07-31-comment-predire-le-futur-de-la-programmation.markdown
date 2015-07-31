@@ -15,12 +15,12 @@ Pourquoi Rails est devenu si populaire, si vite ?
 Sa simplicité a aidé, particulièrement si vous venez du java, du XML, du monde
 de l'entreprise. [Il a aussi été parfaitement vendu](https://www.youtube.com/watch?v=Gzj723LkRJY). Mais ça n'est pas tout.
 
-**Une grosse partie du succès de Rails dans le monde des startups vient d'une simple fait : les problèmes que rencontrent les entreprises ne sont pas uniques**. Rails était très efficace pour créer des sites [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete), tout en restant flexible. Et c'est là un des besoins les plus rencontrés par les entreprises. Surtout au début.
+**Une grosse partie du succès de Rails dans le monde des startups vient d'un simple fait : les problèmes que rencontrent les entreprises ne sont pas uniques**. Rails était très efficace pour créer des sites [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete), tout en restant flexible. Et c'est là un des besoins les plus rencontrés par les entreprises. Surtout au début.
 
-Mais ce n'est pas vrai seulement pour les entreprises. **Beaucoup de problèmes que nous rencontrons en tant que développeurs de logiciel ne change pas**.
+Mais ce n'est pas vrai seulement pour les entreprises. **Beaucoup de problèmes que nous rencontrons en tant que développeurs de logiciel ne changent pas**.
 Bien sûr les solutions évoluent. Elles bouclent. Nous nous améliorons.
 Mais les mêmes solutions découvertes par la dernière génération de
-développeurs peut toujours nous aider aujourd'hui.
+développeurs peuvent toujours nous aider aujourd'hui.
 
 Donc, voulez-vous savoir les réponses aux problèmes que vous rencontrerez
 dans le futur ? La meilleure chose que vous pouvez faire est de regarder
@@ -28,7 +28,7 @@ dans le passé.
 
 ## Regardez dans le passé
 
-**Sur [son site web](http://martinfowler.com/), Martin Fowler a une incroyable collection de bonnes solutions à des problèmes communs**. Avez-vous [entendu
+**Sur [son site web](http://martinfowler.com/), Martin Fowler a une incroyable collection de bonnes solutions à des problèmes communs**. Avez-vous [écouté
 des présentations de dévs au sujet de l'event sourcing](http://blog.arkency.com/2015/03/fast-introduction-to-event-sourcing-for-ruby-programmers/) ?
 Il a écrit [l'article parfait](http://www.martinfowler.com/eaaDev/EventSourcing.html) à ce sujet il y a 10 ans. Chasser les problèmes de performance et de
 fiabilité avec votre nouvelle API REST ou votre [architecture orientée service](https://en.wikipedia.org/wiki/Service-oriented_architecture) ?
@@ -36,10 +36,10 @@ C'est [sa première loi des objets distribués](http://www.drdobbs.com/errant-ar
 
 [Avdi Grimm](http://avdi.org/) me disait que "si tu veux mener la courbe de la technologie,
 commence par enquêter sur ce que Martin Fowler a écrit il y a une décennie."
-Et c'est tout à fait vrai. **Le temps que vous passez à lire au sujet des [procédés sur son site](http://martinfowler.com/) sont un très bon investissement pour vos développement futurs**. Et sans même parler [des techniques de refactoring](http://refactoring.com/catalog/).
+Et c'est tout à fait vrai. **Le temps que vous passez [sur son site](http://martinfowler.com/) à lire les articles au sujet des procédés (NDT : 'patterns' dans le texte) est un très bon investissement pour vos futurs développement**. Et sans même parler [des techniques de refactoring](http://refactoring.com/catalog/).
 
-Pour aller plus loin, en parlant de n'importe quel livre ou article écrit
-par [les auteurs du Manifeste Agile](http://www.agilemanifesto.org/) vaut d'être lu -- il y a 15 ans, ils
+Pour aller plus loin, n'importe quel livre ou article écrit
+par [les auteurs du Manifeste Agile](http://www.agilemanifesto.org/) vaut le coup d'être lu -- il y a 15 ans, ils
 rencontraient les mêmes problèmes d'architecture que nous rencontrons
 aujourd'hui.
 
