@@ -6,9 +6,9 @@ comments: true
 categories: [travail, développement]
 ---
 
-_Introduction_
+_Ce texte est une traduction de l’article de [Mike Hadlow](https://twitter.com/mikehadlow) intitulée [Heisenberg Developers](http://mikehadlow.blogspot.fr/2014/06/heisenberg-developers.html) pour laquelle [il m'a donné le feu vert](https://twitter.com/mikehadlow/status/582805129058992128)_.
 
-_Ce texte est une traduction de l’article de __Mike Hadlow__ intitulée [Heisenberg Developers](http://mikehadlow.blogspot.fr/2014/06/heisenberg-developers.html) pour laquelle [il m'a donné le feu vert](https://twitter.com/mikehadlow/status/582805129058992128)_.
+---
 
 __TL;DR__ Vous ne pouvez pas observer un développeur sans en altérer son comportement.
 
