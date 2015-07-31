@@ -4,7 +4,7 @@
   <title><![CDATA[Category: développement | ticablog]]></title>
   <link href="http://blog.ticabri.com/blog/categories/developpement/atom.xml" rel="self"/>
   <link href="http://blog.ticabri.com/"/>
-  <updated>2015-04-27T10:47:46+02:00</updated>
+  <updated>2015-07-31T16:59:30+02:00</updated>
   <id>http://blog.ticabri.com/</id>
   <author>
     <name><![CDATA[ticabri]]></name>
@@ -14,13 +14,65 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Comment prédire le futur de la programmation]]></title>
+    <link href="http://blog.ticabri.com/blog/2015/07/31/comment-predire-le-futur-de-la-programmation/"/>
+    <updated>2015-07-31T16:48:15+02:00</updated>
+    <id>http://blog.ticabri.com/blog/2015/07/31/comment-predire-le-futur-de-la-programmation</id>
+    <content type="html"><![CDATA[<p><em>Cet article est une traduction de l&#8217;article de <a href="https://twitter.com/justinweiss">Justin Weiss</a>, <a href="http://www.justinweiss.com/blog/2015/07/28/how-to-predict-the-future-of-programming/">How to predict the future of programming</a> publié sur son blog le 28 juillet 2015. <a href="https://twitter.com/ticabri/status/626668884343566336">J&#8217;attends son approbation</a></em></p>
+
+<hr />
+
+<p>Pourquoi Rails est devenu si populaire, si vite ?</p>
+
+<p>Sa simplicité a aidé, particulièrement si vous venez du java, du XML, du monde
+de l&#8217;entreprise. <a href="https://www.youtube.com/watch?v=Gzj723LkRJY">Il a aussi été parfaitement vendu</a>. Mais ça n&#8217;est pas tout.</p>
+
+<p><strong>Une grosse partie du succès de Rails dans le monde des startups vient d&#8217;une simple fait : les problèmes que rencontrent les entreprises ne sont pas uniques</strong>. Rails était très efficace pour créer des sites <a href="https://en.wikipedia.org/wiki/Create,_read,_update_and_delete">CRUD</a>, tout en restant flexible. Et c&#8217;est là un des besoins les plus rencontrés par les entreprises. Surtout au début.</p>
+
+<p>Mais ce n&#8217;est pas vrai seulement pour les entreprises. <strong>Beaucoup de problèmes que nous rencontrons en tant que développeurs de logiciel ne change pas</strong>.
+Bien sûr les solutions évoluent. Elles bouclent. Nous nous améliorons.
+Mais les mêmes solutions découvertes par la dernière génération de
+développeurs peut toujours nous aider aujourd&#8217;hui.</p>
+
+<p>Donc, voulez-vous savoir les réponses aux problèmes que vous rencontrerez
+dans le futur ? La meilleure chose que vous pouvez faire est de regarder
+dans le passé.</p>
+
+<h2>Regardez dans le passé</h2>
+
+<p><strong>Sur <a href="http://martinfowler.com/">son site web</a>, Martin Fowler a une incroyable collection de bonnes solutions à des problèmes communs</strong>. Avez-vous <a href="http://blog.arkency.com/2015/03/fast-introduction-to-event-sourcing-for-ruby-programmers/">entendu
+des présentations de dévs au sujet de l&#8217;event sourcing</a> ?
+Il a écrit <a href="http://www.martinfowler.com/eaaDev/EventSourcing.html">l&#8217;article parfait</a> à ce sujet il y a 10 ans. Chasser les problèmes de performance et de
+fiabilité avec votre nouvelle API REST ou votre <a href="https://en.wikipedia.org/wiki/Service-oriented_architecture">architecture orientée service</a> ?
+C&#8217;est <a href="http://www.drdobbs.com/errant-architectures/184414966">sa première loi des objets distribués</a>, qui a environ 15 ans.</p>
+
+<p><a href="http://avdi.org/">Avdi Grimm</a> me disait que &ldquo;si tu veux mener la courbe de la technologie,
+commence par enquêter sur ce que Martin Fowler a écrit il y a une décennie.&rdquo;
+Et c&#8217;est tout à fait vrai. <strong>Le temps que vous passez à lire au sujet des <a href="http://martinfowler.com/">procédés sur son site</a> sont un très bon investissement pour vos développement futurs</strong>. Et sans même parler <a href="http://refactoring.com/catalog/">des techniques de refactoring</a>.</p>
+
+<p>Pour aller plus loin, en parlant de n&#8217;importe quel livre ou article écrit
+par <a href="http://www.agilemanifesto.org/">les auteurs du Manifeste Agile</a> vaut d&#8217;être lu &ndash; il y a 15 ans, ils
+rencontraient les mêmes problèmes d&#8217;architecture que nous rencontrons
+aujourd&#8217;hui.</p>
+
+<p><strong>Vous pouvez trouver tout un tas de discussions sur le <a href="http://www.c2.com/cgi/wiki">wiki de C2</a></strong>. Les débats que nous avons pour savoir <a href="http://www.c2.com/cgi/wiki?TestDrivenDevelopment">quand faire du TDD est le plus sensé</a> ? Ils sont tous là. Et l&#8217;ont toujours été. Ce wiki est là depuis longtemps, et c&#8217;est toujours une ressource fantastique.</p>
+
+<p>Les livres de la fin des années 90 au début des années 2000 sont aussi utiles.Je souriais continuellement avec <a href="http://www.amazon.com/Smalltalk-Best-Practice-Patterns-Kent/dp/013476904X">Smalltalk Best Practice Patterns</a> et <a href="http://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420">Patterns of Enterprise Application Architecture</a> (qui a été une grosse influence pour Rails), car ils décrivaient des problèmes que j&#8217;avais <em>si souvent</em>.</p>
+
+<p>Comme la mode, les pratiques de développement logiciel bouclent. De distribué à centralisé, de côté client à côté serveur, de dynamique à statique.</p>
+
+<p>Voulez-vous être en avance, comprendre ce qui va venir, et peut-être même être à l&#8217;initiative de ce qui viendra ensuite ? Regardez dans le passé. <strong>Recherchez les solutions aux problèmes que les solutions actuelles causeront</strong>. Et aider à divulguer les bonnes pratiques de l&#8217;ancienne génération des développeurs logiciel à la suivante.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Les développeurs Heisenberg]]></title>
     <link href="http://blog.ticabri.com/blog/2015/04/21/les-developpeurs-heisenberg/"/>
     <updated>2015-04-21T22:57:53+02:00</updated>
     <id>http://blog.ticabri.com/blog/2015/04/21/les-developpeurs-heisenberg</id>
-    <content type="html"><![CDATA[<p><em>Introduction</em></p>
+    <content type="html"><![CDATA[<p><em>Ce texte est une traduction de l’article de <a href="https://twitter.com/mikehadlow">Mike Hadlow</a> intitulée <a href="http://mikehadlow.blogspot.fr/2014/06/heisenberg-developers.html">Heisenberg Developers</a> pour laquelle <a href="https://twitter.com/mikehadlow/status/582805129058992128">il m&#8217;a donné le feu vert</a></em>.</p>
 
-<p><em>Ce texte est une traduction de l’article de <strong>Mike Hadlow</strong> intitulée <a href="http://mikehadlow.blogspot.fr/2014/06/heisenberg-developers.html">Heisenberg Developers</a> pour laquelle <a href="https://twitter.com/mikehadlow/status/582805129058992128">il m&#8217;a donné le feu vert</a></em>.</p>
+<hr />
 
 <p><strong>TL;DR</strong> Vous ne pouvez pas observer un développeur sans en altérer son comportement.</p>
 
@@ -218,37 +270,6 @@ Le travail c&#8217;est avant tout (au moyen-âge) un engin de torture, le tribal
 <p>Afin de mieux visualiser les interactions entre les stores et les composants react, voici un schéma des interactions.</p>
 
 <p><a href="/images/posts/flux-chat.png"><img class="center" src="/images/posts/flux-chat.png"></a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Déployer son site octopress depuis une nouvelle machine]]></title>
-    <link href="http://blog.ticabri.com/blog/2014/06/09/deployer-son-site-octopress-depuis-une-nouvelle-machine/"/>
-    <updated>2014-06-09T13:16:00+02:00</updated>
-    <id>http://blog.ticabri.com/blog/2014/06/09/deployer-son-site-octopress-depuis-une-nouvelle-machine</id>
-    <content type="html"><![CDATA[<p><a href="http://blog.ticabri.com/blog/2013/05/28/zombie-ninjas-attack-a-survivors-retrospective/">Ce blog tourne avec Octopress</a>, un framework pour Jekyll et la mise en ligne d&#8217;un nouveau contenu se fait <a href="http://blog.ticabri.com/blog/2013/09/27/utiliser-git-pour-deployer-votre-site-web/">grâce à Git</a>.</p>
-
-<p>Pour autant la stratégie de déploiement des sources de la branche <code>source</code> vers la branche <code>master</code> du repo github utilise un répertoire dans <code>source</code> nommé <code>_deploy</code> dans lequel est stocké tout ce qui va être pushé sur la branche<code>master</code>. Et si vous utilisez plusieurs machines, cela peut vite devenir un cass-tête.</p>
-
-<p>La marche à suivre est pourant simple. Sur la nouvelle machine :</p>
-
-<ul>
-<li>récupérez les sources ;
-<code>
-git clone -b source git@github.com:username/username.github.com.git octopress
-</code></li>
-<li>récupérez l&#8217;état à jour de <code>_deploy</code> ;
-<code>
-git clone git@github.com:username/username.github.com.git _deploy
-</code></li>
-<li><em>faites vos modifications</em></li>
-<li>faites un <code>rake generate</code> pour mettre à jour <code>_deploy</code> ;</li>
-<li>pushez vos modifications sur la branche <code>source</code> de github ;</li>
-<li>faites un <code>rake deploy</code> pour envoyer tout ça sur la branche master de github.</li>
-</ul>
-
-
-<p>Toutes ces infos viennent du billet de blog de <a href="http://blog.zerosharp.com/clone-your-octopress-to-blog-from-two-places/">0# (zerosharp)</a>.</p>
 ]]></content>
   </entry>
   

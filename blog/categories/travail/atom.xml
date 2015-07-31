@@ -4,7 +4,7 @@
   <title><![CDATA[Category: travail | ticablog]]></title>
   <link href="http://blog.ticabri.com/blog/categories/travail/atom.xml" rel="self"/>
   <link href="http://blog.ticabri.com/"/>
-  <updated>2015-04-27T10:47:46+02:00</updated>
+  <updated>2015-07-31T16:59:30+02:00</updated>
   <id>http://blog.ticabri.com/</id>
   <author>
     <name><![CDATA[ticabri]]></name>
@@ -18,9 +18,9 @@
     <link href="http://blog.ticabri.com/blog/2015/04/21/les-developpeurs-heisenberg/"/>
     <updated>2015-04-21T22:57:53+02:00</updated>
     <id>http://blog.ticabri.com/blog/2015/04/21/les-developpeurs-heisenberg</id>
-    <content type="html"><![CDATA[<p><em>Introduction</em></p>
+    <content type="html"><![CDATA[<p><em>Ce texte est une traduction de l’article de <a href="https://twitter.com/mikehadlow">Mike Hadlow</a> intitulée <a href="http://mikehadlow.blogspot.fr/2014/06/heisenberg-developers.html">Heisenberg Developers</a> pour laquelle <a href="https://twitter.com/mikehadlow/status/582805129058992128">il m&#8217;a donné le feu vert</a></em>.</p>
 
-<p><em>Ce texte est une traduction de l’article de <strong>Mike Hadlow</strong> intitulée <a href="http://mikehadlow.blogspot.fr/2014/06/heisenberg-developers.html">Heisenberg Developers</a> pour laquelle <a href="https://twitter.com/mikehadlow/status/582805129058992128">il m&#8217;a donné le feu vert</a></em>.</p>
+<hr />
 
 <p><strong>TL;DR</strong> Vous ne pouvez pas observer un développeur sans en altérer son comportement.</p>
 
