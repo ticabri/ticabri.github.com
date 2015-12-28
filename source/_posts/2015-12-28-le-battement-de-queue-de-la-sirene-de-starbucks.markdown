@@ -10,11 +10,11 @@ Le 25 décembre 2015, Libération dans sa rubrique chronique/débats nous
 pond un article intitulé ["Attentats : que Starbucks paie l'addition"](http://www.liberation.fr/debats/2015/12/25/attentats-que-starbucks-paie-l-addition_1422906).
 Suite à la lecture de cet article et parce que j'avais ouvertement
 critiqué les gens qui allaient dépenser leur argent chez McDo et
-Starbucks, [un jeune politicien m'a alpagué sur twitter](https://twitter.com/Relf_PP/status/681380189214011392).
+Starbucks, un jeune politicien m'a alpagué sur twitter.
 
 J'ai donc pris le temps de lire cet article, assez mal écrit d'ailleurs, pour comprendre de quoi je pouvais être coupable. Et j'ai finalement compris : je suis coupable de ne pas m'être fait comprendre correctement.
 
-Voilà donc un petit bout de texte pour expliquer à tous les Raphaël Isla qui liront ces mots pourquoi [je ne les traite ni de nazi, ni de serial killer](https://twitter.com/Relf_PP/status/681380369518727168).
+Voilà donc un petit bout de texte pour expliquer à tous ceux qui liront ces mots ce que je pense des clients de Starbucks ou de McDo.
 
 Premièrement ça m'ennuie qu'une personne comprenne mal ce que je lui dis, et que, plutôt que de vérifier qu'il a bien compris, m'envoie bouler et me case parmi les personnes non fréquentables. J'aime bien expliquer ma vision des choses aux gens que je fréquente, j'ai l'impression de faire un acte politique quand je raconte ce en quoi je crois.
 
@@ -26,6 +26,6 @@ Il se trouve que je crois que tout est lié, que l'ensemble des êtres humains n
 Un toucan à l'énorme bec l'interpelle : "Tu es fou colibri, tu vois bien que cela ne sert à rien." "Oui je sais, répond le colibri, mais je fais ma part."
 {% endblockquote %}
 
-Un gros con avec une énorme bouche l'interpelle : "Tu es fou Raphaël, tu vois bien que c'est une multinationale chez qui tu bois ton café." "Oui je sais, répond le pirate, mais je ferme les yeux."
+Un gros con avec une énorme bouche l'interpelle : "Tu es fou l'ami, tu vois bien que c'est une multinationale chez qui tu bois ton café." "Oui je sais, répond le pirate, mais je ferme les yeux."
 
 Annexe : [colibris-lemouvement.org](http://www.colibris-lemouvement.org/)
