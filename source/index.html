@@ -32,11 +32,15 @@ layout: default
 <nav id="pagenavi">
   <div class="pagination">
     {% if paginator.next_page %}
-    <a class="prev" href="{{paginator.next_page}}"></a>
+    <a class="prev" href="posts/{{paginator.next_page}}"></a>
     {% endif %}
     <div class="center"><a href="{{ root_url }}/blog/archives">Blog Archives</a></div>
     {% if paginator.previous_page %}
-    <a class="next" href="{{paginator.previous_page}}"></a>
+      {% if paginator.previous_page == 1%}
+        <a class="next" href="/"></a>
+      {% else %}
+        <a class="next" href="posts/{{paginator.previous_page}}"></a>
+      {% endif %}
     {% endif %}
   </div>
 </nav>
