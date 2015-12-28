@@ -10,7 +10,7 @@ Le 25 décembre 2015, Libération dans sa rubrique chronique/débats nous
 pond un article intitulé ["Attentats : que Starbucks paie l'addition"](http://www.liberation.fr/debats/2015/12/25/attentats-que-starbucks-paie-l-addition_1422906).
 Suite à la lecture de cet article et parce que j'avais ouvertement
 critiqué les gens qui allaient dépenser leur argent chez McDo et
-Starbucks, un jeune politicien m'a alpagué sur twitter.
+Starbucks sur un chan IRC, un jeune politicien m'a alpagué sur twitter.
 
 J'ai donc pris le temps de lire cet article, assez mal écrit d'ailleurs, pour comprendre de quoi je pouvais être coupable. Et j'ai finalement compris : je suis coupable de ne pas m'être fait comprendre correctement.
 
