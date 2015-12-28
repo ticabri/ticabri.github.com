@@ -6,22 +6,16 @@ I hereby claim:
 
   * I am an admin of http://blog.ticabri.com
   * I am enguerran (https://keybase.io/enguerran) on keybase.
-  * I have a public key with fingerprint 0BD5 988C 34FD 0F28 69F6  0B60 D0E7 5F1C 63F5 CF3A
+  * I have a public key with fingerprint 4819 B3F0 07CC EB77 65D7  1F6D 7C1D D095 4E84 5BA7
 
-To do so, I am signing this object:
+To claim this, I am signing this object:
 
 {
     "body": {
-        "client": {
-            "name": "keybase.io node.js client",
-            "version": "0.8.18"
-        },
         "key": {
-            "eldest_kid": "0101b5d632d18944c24af5b5968b5cf9ca406e912e2a70401aa9eb52f4e899b6dcab0a",
-            "fingerprint": "0bd5988c34fd0f2869f60b60d0e75f1c63f5cf3a",
+            "fingerprint": "4819b3f007cceb7765d71f6d7c1dd0954e845ba7",
             "host": "keybase.io",
-            "key_id": "d0e75f1c63f5cf3a",
-            "kid": "0101b5d632d18944c24af5b5968b5cf9ca406e912e2a70401aa9eb52f4e899b6dcab0a",
+            "key_id": "7C1DD0954E845BA7",
             "uid": "5f3f21ed9e8a48dd385b3f71ac006400",
             "username": "enguerran"
         },
@@ -32,41 +26,32 @@ To do so, I am signing this object:
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1441722310,
+    "ctime": 1396367190,
     "expire_in": 157680000,
-    "prev": "0c9ae8db48237f8152017e880a9705befe7b0ae29373427714dc3b91d319a680",
-    "seqno": 19,
+    "prev": "021148b6d5c98d0f6e7ed06ac42a81da703c1c51e5ad8cb1edf7d68eb4663eb2",
+    "seqno": 8,
     "tag": "signature"
 }
 
-which yields the signature:
+with the aforementioned key, yielding the PGP signature:
 
 -----BEGIN PGP MESSAGE-----
-Version: GnuPG v2
+Version: GnuPG v1.4.14 (GNU/Linux)
 
-owGtklloFDEYx7etBy1KPRAFiyxT0YLLmsyZLAUPPCiiQkVBWV2TSWY72zqzzk53
-rSJe9cbi/SB4F6ULXlQFFVYUUapgVSjig6APWlSsKFZRvCalIoKP5ikkv+///b9/
-sntoSais6EF3osLs7YwV3XtFQwt73t1eI1GXNUmxNZLZYHPHFzuHrOBSTKrnTZRk
-eNR2w47LeDSVCfczESnLvYztOgEFoigKkbQ2InhRzRsYz/iJepuJWwgg1ZiuyAwi
-rKqmrBJLoxrWEdVMC5tEBTrHUOYyMYAKICGYU022VI4wpjozCQUkaGjZTpJ7ac8W
-FiVAmYYRMhXVYsCSkY4tHVAdMMANzYKmrliBuiIK69yM/9cwUp/TRJ+9f/D/2Xdj
-n5xmKZYMOcMcERUxpiCNKpYBiQmArgIgwAz3+oPnTrKRex5xRKrBcdY2uUhWjNKP
-0AY3GfXtoItnR013RSCQ9lzfNd2G4LbO99MxUew3pQWd4zTRr5OgtsOCLKXI4T+P
-CAPU9G2hDFUVGrKsQBCR+Kq07fGELQjN0BEIlujDsyIhExOOGFWRrBgWgpoMoMER
-AgQbQKPc4kaQAJexYiiqbBhQZaZCMWQKxCTQksRoKx030MaBUZIMNDN20iF+o8el
-tduLKgaEispCgwYWi28aKisd9vvvjmsd/COyuetsT/557elz2aey82HHk6sj40/j
-y96CTW11dr7mSvjThPk/y+9MPjcpXFJ70HhUNb69q/b7hbr76zqLz1R+G1HIL3jp
-own51zOmVn1981JpH3d50tJ8Fyq2qvZWXy2dor+rrD7Z3fHg0uOHNa9LZrdnpdJj
-lbUzTw1ddL587Gg192bPs9y9A9PmpyTrVm7/N2959dbmKn3/omtHn8U/dxya/X5l
-zbDWAdduvsilFh/HvfPio07UH+Gfd35kdw+v7/mS+34Ax+7u6yiXWgq354QvdrAb
-71Nt8eudGwtLxjyf3rLD7i3MbZ67cMvoDds2TExVDLk1q6XwY1n36tbm4bvA2Eur
-fwE=
-=zWdT
+owE1kV1IFFEUx3ettIxMMCrsg7iUL9o2s/O9q4iuQoFgtGqQxu7M3LvrtDqzzs5u
+iZlBESQiIvlRkSjSg/kQVopuX0ZYlh9liqQP7UOFUBm1iFEvdifsvhzuOb/z/5/D
+adm2wZJgbSgvGoqO9pZaJ0ZXJYvbESurA5IGa4GjDgTQv+BTVD/Sg7qiGsABaJ4U
+JMpHEJwsI4njWAZypI+FnExCSAgMjXiakUQOZIFKLWR2YBlJDCGbouEc/ngUiLOc
+iywoMPlCzOfnmXz4X4HxUT47iaCAeJHmIaR4BvtxpCgTBEsThAmGkK6K1QjTSPWH
+ka6LKqjPAjgdUWRkDm16ryNSlea3GYosSrpik7VqLBDUNUOTtSpcrTSMoMNsNmqD
+Jn0WSZ51HY+kqBAvjxsiSA8pmgocJCZlQzGFSUpgKZYjBSILoHNBRUcexSQYjuUJ
+/EwbFMGShJ0kaV5iISMLPCR8LOIQJFhRpu0iT0KRIyiZlBkSMSLkZQnv7uMgyyOJ
+ZlkKSXZgblajasDB4zFFP5YMKX5VNMI6AvVXrXs3WqwJlsRNCeb5LMlbUv8fdXvV
+ZsvtN2r8ek5u973O1z0dNX/0i3Gh010TmDmx61v8+OBCoGfPs+nM2ZTBIuvSlTPz
+mUWHU6J0162uJzcWB9YssdzYncSKpsxH7+Puwh+X+18EfkajXc3QWzhAtLf/Puha
+Tr22I7wzw53u3JfuXf6aUlxyOvwgadj5sG/k45EPL4f7fxWIX8a9p+zvmhfic29b
+DiWdTGttWyx9NZWTQQ4AZ8XsqDabBoL5NtC41hB0FffN9eRfmGldmdCmQpPZeTMH
+Sl05bVtLQkOrR716+d3vTfPOx0/rYsLnaCPVsRY5fyx7qTu8f/ekUJb8Kbv9UnXz
+eO9IrmN6xT52c+x+UuS56y8=
+=Qdqs
 -----END PGP MESSAGE-----
-
-And finally, I am proving ownership of this host by posting or
-appending to this document.
-
-View my publicly-auditable identity here: https://keybase.io/enguerran
-
-==================================================================

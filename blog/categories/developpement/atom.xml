@@ -4,7 +4,7 @@
   <title><![CDATA[Category: développement | ticablog]]></title>
   <link href="http://blog.ticabri.com/blog/categories/developpement/atom.xml" rel="self"/>
   <link href="http://blog.ticabri.com/"/>
-  <updated>2015-08-05T09:53:27+02:00</updated>
+  <updated>2015-12-28T10:43:38+01:00</updated>
   <id>http://blog.ticabri.com/</id>
   <author>
     <name><![CDATA[ticabri]]></name>
@@ -12,53 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[#NoEstimates]]></title>
-    <link href="http://blog.ticabri.com/blog/2015/08/05/noestimates/"/>
-    <updated>2015-08-05T09:21:25+02:00</updated>
-    <id>http://blog.ticabri.com/blog/2015/08/05/noestimates</id>
-    <content type="html"><![CDATA[<p><em>Traduction <a href="https://twitter.com/jasongorman/status/628610815772508160">autorisée</a> de l&#8217;article de <a href="https://twitter.com/jasongorman">Jason Gorman</a> intitulé <a href="http://codemanship.co.uk/parlezuml/blog/?postid=1316">My First, Last &amp; Only Blog Post About #NoEstimates</a> publié sur son site le 1er Août 2015</em>.</p>
-
-<h1>Mon premier, dernier et unique billet au sujet de #NoEstimates</h1>
-
-<p>J&#8217;ai gardé un œil ouvert sur ce qui se dit avec le hashtag #NoEstimates sur Twitter, et les gens m&#8217;ont demandé mon opinion plusieurs fois. Alors la voici.</p>
-
-<p>Je crois, très fermement, que le problème avec les estimations vient du fait que nous nous posons la <em>mauvaise question</em>.</p>
-
-<p>En fait c&#8217;est de là que de nombreux problèmes dans le développement logiciel apparaissent ; en posant la question au client &ldquo;Quel logiciel voulez-vous que nous vous développions ?&rdquo;</p>
-
-<p>Ceci conduit naturellement à lister un ensemble de fonctionnalités, puis à poser la question de &ldquo;Combien cela va-t-il coûter et combien de temps cela va-t-il prendre ?&rdquo;</p>
-
-<p>Si nous posions la question &ldquo;Quel problème essayons-nous de résoudre, et comment saurons-nous quand nous l&#8217;aurons résolu ?&rdquo; &ndash; accompagnée de questions du genre &ldquo;Pour quand avez-vous besoin d&#8217;une solution ?&rdquo;, &ldquo;Qu&#8217;est-ce qu&#8217;une solution valable pour vous ?&rdquo; et &ldquo;Combien pouvez-vous dépenser pour résoudre ce problème ?&rdquo; &ndash; nous pourrions vivre une toute autre aventure.</p>
-
-<p>Je crois que le développement logiciel a besoin de rester ancré dans la réalité, et la réalité est qu&#8217;il s&#8217;agit de R&amp;D. Au début, la réponse <em>la plus honnête</em> à des questions du genre &ldquo;Quelles sont les fonctionnalités nécessaires ?&rdquo;, &ldquo;Combien cela va-t-il coûter ?&rdquo; et &ldquo;Combien de temps cela va-t-il prendre ?&rdquo; est <em>Je N&#8217;en Sais Rien</em>.</p>
-
-<p>Prétendre connaître l&#8217;inconnu est ce qui nous attire des ennuis en premier lieu. Nous ne savons pas si nous pourrons résoudre le problème avec le budget et le temps qui nous sont impartis.</p>
-
-<p>Dans le monde du management où tout doit être mesurable et mesuré, cependant, personne ne veut entendre de telles vérités, et aucun développeur avec une hypothèque sur le dos ne veut l&#8217;admettre non plus. C&#8217;est ainsi que nous entrons dans le monde fantastique des contes de fées.</p>
-
-<p>Une fois installé dans le monde des contes de fées &ndash; dans lequel nous savons quelle liste de fonctionnalités nous devons produire pour résoudre le problème du client, et dans lequel nous pouvons prédire le temps et l&#8217;argent que cela va coûter &ndash; il est quasiment impossible d&#8217;en sortir. Les budgets sont engagés. Les délais sont convenus. Les têtes sont mises à prix.</p>
-
-<p>Et donc, ce qu&#8217;il se passe ensuite, nous laissons la réalité suivre son cours et lorsqu&#8217;elle ne correspond plus au conte de fées, un torrent de critiques et de récriminations déferle sur les acteurs. Généralement on pointe du doigt tout et tout le monde <em>exceptée</em> la cause première ; le péché originel du développement logiciel : prétendre connaître le futur.</p>
-
-<p>Une fois que la première tornade est passée, l&#8217;instinct des managers et des clients est de &ldquo;régler&rdquo; le problème en &ldquo;améliorant&rdquo; les futures estimations. Ce qui correspond à régler le conte de fées en inventant un conte de fées encore plus élaboré, et à essayer de cacher le fait que ce sont des fantasmes. C&#8217;est pour le management l&#8217;équivalent du sacrifice de vierges pour faire tomber la pluie.</p>
-
-<p>Le seul moyen de sortir du cauchemar des estimations est d&#8217;avouer que ce sont des &ldquo;conneries&rdquo;, et d&#8217;accepter publiquement &ndash; ou plutôt, d&#8217;adopter &ndash; les incertitudes qui sont inhérentes à ce que nous faisons.</p>
-
-<p>Oui, vous pourriez perdre l&#8217;appel d&#8217;offre si vous commencez par dire &ldquo;je ne sais pas&rdquo;, mais considérez que le projet que vous perdez vous entraîne dans le même couloir de la mort dans lequel tout le monde souffre depuis des années. Ce n&#8217;est pas du travail. C&#8217;est passer du temps contre de l&#8217;argent.</p>
-
-<p>Tentez donc d&#8217;offrir une <em>estimation</em> afin que le client puisse prévoir le coût au plus près. Mais vous devez être tout à fait clair à 100% qu&#8217;au bout du compte, vous ne savez pas. Nous ne pouvons tout simplement pas le savoir. Nous devons botter en touche.</p>
-
-<p>Vendez-vous avec ce que vous savez <em>réellement</em>. Quel est le bilan de votre équipe ? Qu&#8217;avez-vous délivré dans le passé ? Combien cela a-t-il coûté ? Combien de temps cela vous a-t-il pris ? Et &ndash; plus important encore &ndash; <em>est-ce que ça a marché</em> ?</p>
-
-<p>Lorsqu&#8217;un studio de cinéma embauche un réalisateur, le réalisateur ne donne aucune garantie sur le succès qui accueillera ce nouveau film, ou s&#8217;il va coûter plus cher que ce qui a été prévu, ou s&#8217;il va être terminé à temps. L&#8217;histoire du cinéma est jonchée de films incroyablement bons et qui ont connu un énorme succès mais qui ont coûté plus que prévu et qui n&#8217;ont pas été terminés à temps. Mais quoiqu&#8217;il arrive, James Cameron semble n&#8217;avoir aucun souci pour réaliser de véritables cartons cinématographiques. Ceci grâce à son passif, et non <em>pas</em> grâce à sa capacité à prédire les coûts de production et les délais.</p>
-
-<p>Les studios parient de grosses sommes d&#8217;argent, et &ndash; oui &ndash; ils demandent des estimations, et les choses se compliquent lorsque les délais glissent et que les coûts augmentent, mais au final ils savent très bien ce qu&#8217;il en est.</p>
-
-<p>Il est temps que nous en fassions autant.</p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Comment prédire le futur de la programmation]]></title>
@@ -300,6 +253,23 @@ Le travail c&#8217;est avant tout (au moyen-âge) un engin de torture, le tribal
 
 
 <p>À vous de découvrir ce qui se fait proche de chez vous ou en ligne.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Dans ton flux]]></title>
+    <link href="http://blog.ticabri.com/blog/2014/10/08/dans-ton-flux/"/>
+    <updated>2014-10-08T09:40:00+02:00</updated>
+    <id>http://blog.ticabri.com/blog/2014/10/08/dans-ton-flux</id>
+    <content type="html"><![CDATA[<p>Tout ceux qui ont essayé React et Flux doivent avoir pris connaissance des exemples proposés sur le <a href="https://github.com/facebook/flux/tree/master/examples">github de flux</a>.</p>
+
+<p>Pour rappel, voici l&#8217;organisation logicielle que propose Facebook sous le nom de flux.</p>
+
+<p><a href="http://www.toptal.com/front-end/simple-data-flow-in-react-applications-using-flux-and-backbone"><img class="center" src="/images/posts/toptal-blog-image-1412170548235.png" title="source: toptal" ></a></p>
+
+<p>Afin de mieux visualiser les interactions entre les stores et les composants react, voici un schéma des interactions.</p>
+
+<p><a href="/images/posts/flux-chat.png"><img class="center" src="/images/posts/flux-chat.png"></a></p>
 ]]></content>
   </entry>
   
