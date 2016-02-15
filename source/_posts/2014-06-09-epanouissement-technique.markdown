@@ -29,7 +29,7 @@ Deux corollaires :
 - Seriez-vous prêt à être payé pour pratiquer votre hobby ?
 
 Ce qui est bien dommage : on n'a pas l'habitude de concevoir le travail comme une activité épanouissante.
-Le travail c'est avant tout (au moyen-âge) un engin de torture, le tribalerium. Désormais quand vous parlez de _travail_ à quelqu'un, il aura très vite à l'esprit l'image d'une tâche fatigante, mais nécessaire car rémunérée.
+Le travail c'est avant tout (au moyen-âge) un engin de torture, le tripalium. Désormais quand vous parlez de _travail_ à quelqu'un, il aura très vite à l'esprit l'image d'une tâche fatigante, mais nécessaire car rémunérée.
 
 À l'inverse, on ne peut que difficilement imaginer qu'un hobby ou une passion puissent être rémunérée et il n'est donc pas envisageable d'en faire son travail.
 
@@ -79,3 +79,9 @@ Si vous voulez vous passionner dans le développement, rien de tel que :
 - et bien sûr les conférences comme [SudWeb](http://sudweb.fr/2014/)
 
 À vous de découvrir ce qui se fait proche de chez vous ou en ligne.
+
+[EDIT 15/02/2016]
+
+Je découvre deux textes qui recouvrent les mêmes thèmes. Il s'agit de [_Otium et Negotium dans l'industrie du logiciel_](http://www.brehault.net/textes/otium-et-negotium-dans-lindustrie-du-logiciel) et [Otium/Negotium chez Ars Industrialis](http://arsindustrialis.org/otium) (association fondée par un certain [Bernard Stiegler](http://rue89.nouvelobs.com/2013/02/02/bernard-stiegler-nous-entrons-dans-lere-du-travail-contributif-238900#!)).
+
+On notera les origines des termes de l'association _Ars Industrialis_ comme étant les mêmes que l'artisanat et l'industrialisation.
